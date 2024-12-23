@@ -4,7 +4,7 @@
     "slug": "dragino-lht65",
     "type": "Temperature Sensor",
     "description": "Codec for Dragino LHT65 sensor (v1.0.0).",
-    "download": "/assets/codecs/dragino/lht65/v1.0.0/payload.js",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/dragino/lht65/v1.0.0/payload.js",
     "source": "https://github.com/tago-io",
     "sourceName": "TagoIO GitHub"
   },
@@ -13,7 +13,7 @@
     "slug": "ldds45",
     "type": "Distance Sensor",
     "description": "Codec for LDDS45 distance sensor (v1.0.0).",
-    "download": "/assets/codecs/dragino/ldds45/v1.0.0/payload.js",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/dragino/ldds45/v1.0.0/payload.js",
     "source": "https://github.com/tago-io",
     "sourceName": "TagoIO GitHub."
   },
@@ -22,119 +22,23 @@
     "type": "Air Quality Sensor",
     "description": "Codec for Milesight AM100 sensor (v2.1.0).",
     "version": "2.1.0",
-    "download": "/src/assets/codecs/milesight/am100/v2.1.0/payload.js",
-    "link": "/src/assets/codecs/milesight/am100/v2.1.0/payload.js"
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/milesight/am100/v2.1.0/payload.js",
+    "link": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/milesight/am100/v2.1.0/payload.js"
   },
   {
     "name": "Netvox R711 v1.0.0",
     "type": "Humidity Sensor",
     "description": "Codec for Netvox R711 sensor (v1.0.0).",
     "version": "1.0.0",
-    "download": "/src/assets/codecs/netvox/r711/v1.0.0/payload.js",
-    "link": "/src/assets/codecs/netvox/r711/v1.0.0/payload.js"
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/netvox/r711/v1.0.0/payload.js",
+    "link": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/netvox/r711/v1.0.0/payload.js"
   },
   {
     "name": "TEKTELIC T0004885 v1.5.2",
     "type": "Pulse Meter",
     "description": "Codec for TEKTELIC T0004885 sensor (v1.5.2).",
     "version": "1.5.2",
-    "download": "/src/assets/codecs/tektelic/t0004885/v1.5.2/payload.js",
-    "link": "/src/assets/codecs/tektelic/t0004885/v1.5.2/payload.js"
-  },
-  {
-    "name": "Elsys ERS v2.0.0",
-    "type": "Room Sensor",
-    "description": "Codec for Elsys ERS sensor (v2.0.0).",
-    "version": "2.0.0",
-    "download": "/src/assets/codecs/elsys/ers/v2.0.0/payload.js",
-    "link": "/src/assets/codecs/elsys/ers/v2.0.0/payload.js"
-  },
-  {
-    "name": "Kerlink Wanesy v3.3.1",
-    "type": "Gateway Sensor",
-    "description": "Codec for Kerlink Wanesy sensor (v3.3.1).",
-    "version": "3.3.1",
-    "download": "/src/assets/codecs/kerlink/wanesy/v3.3.1/payload.js",
-    "link": "/src/assets/codecs/kerlink/wanesy/v3.3.1/payload.js"
-  },
-  {
-    "name": "RAK7200 v1.2.0",
-    "type": "GPS Tracker",
-    "description": "Codec for RAK7200 GPS tracker (v1.2.0).",
-    "version": "1.2.0",
-    "download": "/src/assets/codecs/rak/rak7200/v1.2.0/payload.js",
-    "link": "/src/assets/codecs/rak/rak7200/v1.2.0/payload.js"
-  },
-  {
-    "name": "Dragino NBSN95 v1.3.0",
-    "type": "Button Sensor",
-    "description": "Codec for Dragino NBSN95 sensor (v1.3.0).",
-    "version": "1.3.0",
-    "download": "/src/assets/codecs/dragino/nbsn95/v1.3.0/payload.js",
-    "link": "/src/assets/codecs/dragino/nbsn95/v1.3.0/payload.js"
-  },
-  {
-    "name": "Adeunis Field Test v1.1.1",
-    "type": "Field Tester",
-    "description": "Codec for Adeunis Field Test sensor (v1.1.1).",
-    "version": "1.1.1",
-    "download": "/src/assets/codecs/adeunis/fieldtest/v1.1.1/payload.js",
-    "link": "/src/assets/codecs/adeunis/fieldtest/v1.1.1/payload.js"
-  },
-  {
-    "name": "Milesight UC500 v2.3.0",
-    "type": "Controller",
-    "description": "Codec for Milesight UC500 controller (v2.3.0).",
-    "version": "2.3.0",
-    "download": "/src/assets/codecs/milesight/uc500/v2.3.0/payload.js",
-    "link": "/src/assets/codecs/milesight/uc500/v2.3.0/payload.js"
-  },
-  {
-    "name": "Bosch XDK v1.0.0",
-    "type": "Multi-Sensor",
-    "description": "Codec for Bosch XDK multi-sensor (v1.0.0).",
-    "version": "1.0.0",
-    "download": "/src/assets/codecs/bosch/xdk/v1.0.0/payload.js",
-    "link": "/src/assets/codecs/bosch/xdk/v1.0.0/payload.js"
-  },
-  {
-    "name": "Dragino UC500 v2.3.0",
-    "type": "Controller",
-    "description": "Codec for Milesight UC500 controller (v2.3.0).",
-    "version": "2.3.0",
-    "download": "/src/assets/codecs/milesight/uc500/v2.3.0/payload.js",
-    "link": "/src/assets/codecs/milesight/uc500/v2.3.0/payload.js"
-  },
-  {
-    "name": "Tektelic XDK v1.0.0",
-    "type": "Multi-Sensor",
-    "description": "Codec for Bosch XDK multi-sensor (v1.0.0).",
-    "version": "1.0.0",
-    "download": "/src/assets/codecs/bosch/xdk/v1.0.0/payload.js",
-    "link": "/src/assets/codecs/bosch/xdk/v1.0.0/payload.js"
-  },
-   {
-    "name": "Bosch XDK v1.0.0",
-    "type": "Multi-Sensor",
-    "description": "Codec for Bosch XDK multi-sensor (v1.0.0).",
-    "version": "1.0.0",
-    "download": "/src/assets/codecs/bosch/xdk/v1.0.0/payload.js",
-    "link": "/src/assets/codecs/bosch/xdk/v1.0.0/payload.js"
-  },
-  {
-    "name": "Dragino UC500 v2.3.0",
-    "type": "Controller",
-    "description": "Codec for Milesight UC500 controller (v2.3.0).",
-    "version": "2.3.0",
-    "download": "/src/assets/codecs/milesight/uc500/v2.3.0/payload.js",
-    "link": "/src/assets/codecs/milesight/uc500/v2.3.0/payload.js"
-  },
-  {
-    "name": "Tektelic XDK v1.0.0",
-    "type": "Multi-Sensor",
-    "description": "Codec for Bosch XDK multi-sensor (v1.0.0).",
-    "version": "1.0.0",
-    "download": "/src/assets/codecs/bosch/xdk/v1.0.0/payload.js",
-    "link": "/src/assets/codecs/bosch/xdk/v1.0.0/payload.js"
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/tektelic/t0004885/v1.5.2/payload.js",
+    "link": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/tektelic/t0004885/v1.5.2/payload.js"
   }
 ]
