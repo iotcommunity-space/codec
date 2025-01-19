@@ -6,6 +6,7 @@ import json
 TAGOIO_BASE_URL = "https://api.github.com/repos/tago-io/decoders/contents/decoders/connector"
 LOCAL_CODEC_PATH = "assets/codecs"
 CODECS_JSON_PATH = "assets/codecs.json"
+CODEC_REPO_URL = "https://github.com/iotcommunity-space/codec"
 
 # Fetch the GitHub token from environment variables
 GITHUB_TOKEN = os.getenv("CODEC_TOKEN")
@@ -48,7 +49,7 @@ def sync_sensor_files(sensor_name, folder_content, local_sensor_path):
             sync_sensor_files(sensor_name, subfolder_content, subfolder_path)
 
 def rewrite_codecs_json(local_sensor_folders):
-    """Rewrite the codecs.json file with the synced sensor information."""
+    """Rewrite the codecs.json file with the updated sensor information."""
     sensor_entries = []
 
     for sensor_name in local_sensor_folders:
@@ -56,7 +57,7 @@ def rewrite_codecs_json(local_sensor_folders):
         if not os.path.isdir(sensor_path):
             continue
 
-        # Check for the presence of a versioned folder (e.g., v1.0.0)
+        # Check for the presence of subfolders and files
         versions = [v for v in os.listdir(sensor_path) if os.path.isdir(os.path.join(sensor_path, v))]
         if versions:
             latest_version = sorted(versions)[-1]  # Take the latest version
@@ -65,10 +66,11 @@ def rewrite_codecs_json(local_sensor_folders):
                 "slug": sensor_name.lower(),
                 "type": "Sensor",
                 "description": f"Codec for {sensor_name.upper()} (v{latest_version}).",
-                "version": latest_version,
-                "download": f"/assets/codecs/{sensor_name}/{latest_version}/payload.js",
-                "source": f"/assets/codecs/{sensor_name}",
-                "image": f"/assets/codecs/{sensor_name}/assets/logo.png"
+                "download": f"https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/{sensor_name}/{latest_version}/payload.js",
+                "source": CODEC_REPO_URL,
+                "sourceName": "TagoIO Github",
+                "image": f"https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/{sensor_name}/{latest_version}/assets/logo.png",
+                "sourceRepo": f"{CODEC_REPO_URL}/tree/main/assets/codecs/{sensor_name}"
             }
             sensor_entries.append(entry)
 
