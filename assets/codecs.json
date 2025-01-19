@@ -1,0 +1,696 @@
+[
+  {
+    "name": "Dragino LHT65",
+    "slug": "dragino-lht65",
+    "type": "Temperature Sensor",
+    "description": "Codec for Dragino LHT65 sensor (v1.0.0).",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/dragino/lht65/v1.0.0/payload.js",
+    "source": "https://github.com/tago-io",
+    "sourceName": "TagoIO GitHub"
+  },
+  {
+    "name": "LDDS45",
+    "slug": "ldds45",
+    "type": "Distance Sensor",
+    "description": "Codec for LDDS45 distance sensor (v1.0.0).",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/dragino/ldds45/v1.0.0/payload.js",
+    "source": "https://github.com/tago-io",
+    "sourceName": "TagoIO GitHub."
+  },
+  {
+    "name": "Milesight AM100 v2.1.0",
+    "type": "Air Quality Sensor",
+    "description": "Codec for Milesight AM100 sensor (v2.1.0).",
+    "version": "2.1.0",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/milesight/am100/v2.1.0/payload.js",
+    "link": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/milesight/am100/v2.1.0/payload.js"
+  },
+  {
+    "name": "Netvox R711 v1.0.0",
+    "type": "Humidity Sensor",
+    "description": "Codec for Netvox R711 sensor (v1.0.0).",
+    "version": "1.0.0",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/netvox/r711/v1.0.0/payload.js",
+    "link": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/netvox/r711/v1.0.0/payload.js"
+  },
+  {
+    "name": "TEKTELIC T0004885 v1.5.2",
+    "type": "Pulse Meter",
+    "description": "Codec for TEKTELIC T0004885 sensor (v1.5.2).",
+    "version": "1.5.2",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/tektelic/t0004885/v1.5.2/payload.js",
+    "link": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/tektelic/t0004885/v1.5.2/payload.js"
+  },
+  {
+    "name": "Adafruit BME680",
+    "slug": "adafruit-bme680",
+    "type": "Environmental Sensor",
+    "description": "Multi-parameter environmental sensor measuring temperature, humidity, pressure, and gas (v1.2.0).",
+    "version": "1.2.0",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/adafruit/bme680/v1.2.0/payload.js",
+    "link": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/adafruit/bme680/v1.2.0/payload.js"
+  },
+  {
+    "name": "Browan TBMS100",
+    "slug": "browan-tbms100",
+    "type": "Motion Sensor",
+    "description": "LoRaWAN motion and temperature sensor with tamper detection (v2.0.1).",
+    "version": "2.0.1",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/browan/tbms100/v2.0.1/payload.js",
+    "link": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/browan/tbms100/v2.0.1/payload.js"
+  },
+  {
+    "name": "Decentlab DL-PR26",
+    "slug": "decentlab-dlpr26",
+    "type": "Pressure Sensor",
+    "description": "High-precision pressure and temperature sensor (v1.1.0).",
+    "version": "1.1.0",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/decentlab/dlpr26/v1.1.0/payload.js",
+    "link": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/decentlab/dlpr26/v1.1.0/payload.js"
+  },
+  {
+    "name": "Elsys ERS CO2",
+    "slug": "elsys-ers-co2",
+    "type": "CO2 Sensor",
+    "description": "Indoor air quality and CO2 monitoring sensor (v2.3.0).",
+    "version": "2.3.0",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/elsys/ers-co2/v2.3.0/payload.js",
+    "link": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/elsys/ers-co2/v2.3.0/payload.js"
+  },
+  {
+    "name": "Laird Sentrius RS1xx",
+    "slug": "laird-sentrius-rs1xx",
+    "type": "Temperature Sensor",
+    "description": "Enterprise-grade temperature and humidity sensor (v3.0.0).",
+    "version": "3.0.0",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/laird/sentrius-rs1xx/v3.0.0/payload.js",
+    "link": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/laird/sentrius-rs1xx/v3.0.0/payload.js"
+  },
+  {
+    "name": "Mclimate Vicki",
+    "slug": "mclimate-vicki",
+    "type": "Thermostat",
+    "description": "Smart radiator thermostat with temperature and humidity sensing (v2.4.1).",
+    "version": "2.4.1",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/mclimate/vicki/v2.4.1/payload.js",
+    "link": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/mclimate/vicki/v2.4.1/payload.js"
+  },
+  {
+    "name": "RAK7204",
+    "slug": "rak7204",
+    "type": "Environmental Sensor",
+    "description": "LoRaWAN environmental monitoring sensor with BME680 (v1.3.0).",
+    "version": "1.3.0",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/rak/7204/v1.3.0/payload.js",
+    "link": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/rak/7204/v1.3.0/payload.js"
+  },
+  {
+    "name": "Sensecap S2102",
+    "slug": "sensecap-s2102",
+    "type": "Soil Sensor",
+    "description": "Professional soil moisture, temperature, and EC sensor (v2.1.0).",
+    "version": "2.1.0",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/sensecap/s2102/v2.1.0/payload.js",
+    "link": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/sensecap/s2102/v2.1.0/payload.js"
+  },
+  {
+    "name": "Dragino CPL01",
+    "slug": "dragino-cpl01",
+    "type": "Sensor",
+    "description": "Codec for Dragino CPL01 (vassets).",
+    "version": "assets",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/main/assets/codecs/dragino/cpl01/assets/payload.js",
+    "source": "https://github.com/tago-io/decoders/tree/main/decoders/connector/dragino/cpl01",
+    "image": "https://raw.githubusercontent.com/tago-io/decoders/main/decoders/connector/dragino/cpl01/assets/logo.png"
+  },
+  {
+    "name": "Dragino CPL01",
+    "slug": "dragino-cpl01",
+    "type": "Sensor",
+    "description": "Codec for Dragino CPL01 (vv1.0.0).",
+    "version": "v1.0.0",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/main/assets/codecs/dragino/cpl01/v1.0.0/payload.js",
+    "source": "https://github.com/tago-io/decoders/tree/main/decoders/connector/dragino/cpl01",
+    "image": "https://raw.githubusercontent.com/tago-io/decoders/main/decoders/connector/dragino/cpl01/assets/logo.png"
+  },
+  {
+    "name": "Dragino CPL03LB",
+    "slug": "dragino-cpl03lb",
+    "type": "Sensor",
+    "description": "Codec for Dragino CPL03LB (vassets).",
+    "version": "assets",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/main/assets/codecs/dragino/cpl03lb/assets/payload.js",
+    "source": "https://github.com/tago-io/decoders/tree/main/decoders/connector/dragino/cpl03lb",
+    "image": "https://raw.githubusercontent.com/tago-io/decoders/main/decoders/connector/dragino/cpl03lb/assets/logo.png"
+  },
+  {
+    "name": "Dragino CPL03LB",
+    "slug": "dragino-cpl03lb",
+    "type": "Sensor",
+    "description": "Codec for Dragino CPL03LB (vv1.0.0).",
+    "version": "v1.0.0",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/main/assets/codecs/dragino/cpl03lb/v1.0.0/payload.js",
+    "source": "https://github.com/tago-io/decoders/tree/main/decoders/connector/dragino/cpl03lb",
+    "image": "https://raw.githubusercontent.com/tago-io/decoders/main/decoders/connector/dragino/cpl03lb/assets/logo.png"
+  },
+  {
+    "name": "Dragino CPN01",
+    "slug": "dragino-cpn01",
+    "type": "Sensor",
+    "description": "Codec for Dragino CPN01 (vassets).",
+    "version": "assets",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/main/assets/codecs/dragino/cpn01/assets/payload.js",
+    "source": "https://github.com/tago-io/decoders/tree/main/decoders/connector/dragino/cpn01",
+    "image": "https://raw.githubusercontent.com/tago-io/decoders/main/decoders/connector/dragino/cpn01/assets/logo.png"
+  },
+  {
+    "name": "Dragino CPN01",
+    "slug": "dragino-cpn01",
+    "type": "Sensor",
+    "description": "Codec for Dragino CPN01 (vv1.0.0).",
+    "version": "v1.0.0",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/main/assets/codecs/dragino/cpn01/v1.0.0/payload.js",
+    "source": "https://github.com/tago-io/decoders/tree/main/decoders/connector/dragino/cpn01",
+    "image": "https://raw.githubusercontent.com/tago-io/decoders/main/decoders/connector/dragino/cpn01/assets/logo.png"
+  },
+  {
+    "name": "Dragino CS01LB",
+    "slug": "dragino-cs01lb",
+    "type": "Sensor",
+    "description": "Codec for Dragino CS01LB (vassets).",
+    "version": "assets",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/main/assets/codecs/dragino/cs01lb/assets/payload.js",
+    "source": "https://github.com/tago-io/decoders/tree/main/decoders/connector/dragino/cs01lb",
+    "image": "https://raw.githubusercontent.com/tago-io/decoders/main/decoders/connector/dragino/cs01lb/assets/logo.png"
+  },
+  {
+    "name": "Dragino CS01LB",
+    "slug": "dragino-cs01lb",
+    "type": "Sensor",
+    "description": "Codec for Dragino CS01LB (vv1.0.0).",
+    "version": "v1.0.0",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/main/assets/codecs/dragino/cs01lb/v1.0.0/payload.js",
+    "source": "https://github.com/tago-io/decoders/tree/main/decoders/connector/dragino/cs01lb",
+    "image": "https://raw.githubusercontent.com/tago-io/decoders/main/decoders/connector/dragino/cs01lb/assets/logo.png"
+  },
+  {
+    "name": "Dragino GPS-HAT",
+    "slug": "dragino-gps-hat",
+    "type": "Sensor",
+    "description": "Codec for Dragino GPS-HAT (vassets).",
+    "version": "assets",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/main/assets/codecs/dragino/gps-hat/assets/payload.js",
+    "source": "https://github.com/tago-io/decoders/tree/main/decoders/connector/dragino/gps-hat",
+    "image": "https://raw.githubusercontent.com/tago-io/decoders/main/decoders/connector/dragino/gps-hat/assets/logo.png"
+  },
+  {
+    "name": "Dragino GPS-HAT",
+    "slug": "dragino-gps-hat",
+    "type": "Sensor",
+    "description": "Codec for Dragino GPS-HAT (vv1.0.0).",
+    "version": "v1.0.0",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/main/assets/codecs/dragino/gps-hat/v1.0.0/payload.js",
+    "source": "https://github.com/tago-io/decoders/tree/main/decoders/connector/dragino/gps-hat",
+    "image": "https://raw.githubusercontent.com/tago-io/decoders/main/decoders/connector/dragino/gps-hat/assets/logo.png"
+  },
+  {
+    "name": "Dragino LAQ4",
+    "slug": "dragino-laq4",
+    "type": "Sensor",
+    "description": "Codec for Dragino LAQ4 (vassets).",
+    "version": "assets",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/main/assets/codecs/dragino/laq4/assets/payload.js",
+    "source": "https://github.com/tago-io/decoders/tree/main/decoders/connector/dragino/laq4",
+    "image": "https://raw.githubusercontent.com/tago-io/decoders/main/decoders/connector/dragino/laq4/assets/logo.png"
+  },
+  {
+    "name": "Dragino LAQ4",
+    "slug": "dragino-laq4",
+    "type": "Sensor",
+    "description": "Codec for Dragino LAQ4 (vv1.0.0).",
+    "version": "v1.0.0",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/main/assets/codecs/dragino/laq4/v1.0.0/payload.js",
+    "source": "https://github.com/tago-io/decoders/tree/main/decoders/connector/dragino/laq4",
+    "image": "https://raw.githubusercontent.com/tago-io/decoders/main/decoders/connector/dragino/laq4/assets/logo.png"
+  },
+  {
+    "name": "Dragino LBT1",
+    "slug": "dragino-lbt1",
+    "type": "Sensor",
+    "description": "Codec for Dragino LBT1 (vassets).",
+    "version": "assets",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/main/assets/codecs/dragino/lbt1/assets/payload.js",
+    "source": "https://github.com/tago-io/decoders/tree/main/decoders/connector/dragino/lbt1",
+    "image": "https://raw.githubusercontent.com/tago-io/decoders/main/decoders/connector/dragino/lbt1/assets/logo.png"
+  },
+  {
+    "name": "Dragino LBT1",
+    "slug": "dragino-lbt1",
+    "type": "Sensor",
+    "description": "Codec for Dragino LBT1 (vv1.0.0).",
+    "version": "v1.0.0",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/main/assets/codecs/dragino/lbt1/v1.0.0/payload.js",
+    "source": "https://github.com/tago-io/decoders/tree/main/decoders/connector/dragino/lbt1",
+    "image": "https://raw.githubusercontent.com/tago-io/decoders/main/decoders/connector/dragino/lbt1/assets/logo.png"
+  },
+  {
+    "name": "Dragino LDDS04",
+    "slug": "dragino-ldds04",
+    "type": "Sensor",
+    "description": "Codec for Dragino LDDS04 (vassets).",
+    "version": "assets",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/main/assets/codecs/dragino/ldds04/assets/payload.js",
+    "source": "https://github.com/tago-io/decoders/tree/main/decoders/connector/dragino/ldds04",
+    "image": "https://raw.githubusercontent.com/tago-io/decoders/main/decoders/connector/dragino/ldds04/assets/logo.png"
+  },
+  {
+    "name": "Dragino LDDS04",
+    "slug": "dragino-ldds04",
+    "type": "Sensor",
+    "description": "Codec for Dragino LDDS04 (vv1.0.0).",
+    "version": "v1.0.0",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/main/assets/codecs/dragino/ldds04/v1.0.0/payload.js",
+    "source": "https://github.com/tago-io/decoders/tree/main/decoders/connector/dragino/ldds04",
+    "image": "https://raw.githubusercontent.com/tago-io/decoders/main/decoders/connector/dragino/ldds04/assets/logo.png"
+  },
+  {
+    "name": "Dragino LDDS20",
+    "slug": "dragino-ldds20",
+    "type": "Sensor",
+    "description": "Codec for Dragino LDDS20 (vassets).",
+    "version": "assets",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/main/assets/codecs/dragino/ldds20/assets/payload.js",
+    "source": "https://github.com/tago-io/decoders/tree/main/decoders/connector/dragino/ldds20",
+    "image": "https://raw.githubusercontent.com/tago-io/decoders/main/decoders/connector/dragino/ldds20/assets/logo.png"
+  },
+  {
+    "name": "Dragino LDDS20",
+    "slug": "dragino-ldds20",
+    "type": "Sensor",
+    "description": "Codec for Dragino LDDS20 (vv1.0.0).",
+    "version": "v1.0.0",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/main/assets/codecs/dragino/ldds20/v1.0.0/payload.js",
+    "source": "https://github.com/tago-io/decoders/tree/main/decoders/connector/dragino/ldds20",
+    "image": "https://raw.githubusercontent.com/tago-io/decoders/main/decoders/connector/dragino/ldds20/assets/logo.png"
+  },
+  {
+    "name": "Dragino LDDS45",
+    "slug": "dragino-ldds45",
+    "type": "Sensor",
+    "description": "Codec for Dragino LDDS45 (vassets).",
+    "version": "assets",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/main/assets/codecs/dragino/ldds45/assets/payload.js",
+    "source": "https://github.com/tago-io/decoders/tree/main/decoders/connector/dragino/ldds45",
+    "image": "https://raw.githubusercontent.com/tago-io/decoders/main/decoders/connector/dragino/ldds45/assets/logo.png"
+  },
+  {
+    "name": "Dragino LDDS75",
+    "slug": "dragino-ldds75",
+    "type": "Sensor",
+    "description": "Codec for Dragino LDDS75 (vassets).",
+    "version": "assets",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/main/assets/codecs/dragino/ldds75/assets/payload.js",
+    "source": "https://github.com/tago-io/decoders/tree/main/decoders/connector/dragino/ldds75",
+    "image": "https://raw.githubusercontent.com/tago-io/decoders/main/decoders/connector/dragino/ldds75/assets/logo.png"
+  },
+  {
+    "name": "Dragino LDDS75",
+    "slug": "dragino-ldds75",
+    "type": "Sensor",
+    "description": "Codec for Dragino LDDS75 (vv1.0.0).",
+    "version": "v1.0.0",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/main/assets/codecs/dragino/ldds75/v1.0.0/payload.js",
+    "source": "https://github.com/tago-io/decoders/tree/main/decoders/connector/dragino/ldds75",
+    "image": "https://raw.githubusercontent.com/tago-io/decoders/main/decoders/connector/dragino/ldds75/assets/logo.png"
+  },
+  {
+    "name": "Dragino LDS01",
+    "slug": "dragino-lds01",
+    "type": "Sensor",
+    "description": "Codec for Dragino LDS01 (vassets).",
+    "version": "assets",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/main/assets/codecs/dragino/lds01/assets/payload.js",
+    "source": "https://github.com/tago-io/decoders/tree/main/decoders/connector/dragino/lds01",
+    "image": "https://raw.githubusercontent.com/tago-io/decoders/main/decoders/connector/dragino/lds01/assets/logo.png"
+  },
+  {
+    "name": "Dragino LDS01",
+    "slug": "dragino-lds01",
+    "type": "Sensor",
+    "description": "Codec for Dragino LDS01 (vv1.0.0).",
+    "version": "v1.0.0",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/main/assets/codecs/dragino/lds01/v1.0.0/payload.js",
+    "source": "https://github.com/tago-io/decoders/tree/main/decoders/connector/dragino/lds01",
+    "image": "https://raw.githubusercontent.com/tago-io/decoders/main/decoders/connector/dragino/lds01/assets/logo.png"
+  },
+  {
+    "name": "Dragino LDS02",
+    "slug": "dragino-lds02",
+    "type": "Sensor",
+    "description": "Codec for Dragino LDS02 (vassets).",
+    "version": "assets",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/main/assets/codecs/dragino/lds02/assets/payload.js",
+    "source": "https://github.com/tago-io/decoders/tree/main/decoders/connector/dragino/lds02",
+    "image": "https://raw.githubusercontent.com/tago-io/decoders/main/decoders/connector/dragino/lds02/assets/logo.png"
+  },
+  {
+    "name": "Dragino LDS02",
+    "slug": "dragino-lds02",
+    "type": "Sensor",
+    "description": "Codec for Dragino LDS02 (vv1.0.0).",
+    "version": "v1.0.0",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/main/assets/codecs/dragino/lds02/v1.0.0/payload.js",
+    "source": "https://github.com/tago-io/decoders/tree/main/decoders/connector/dragino/lds02",
+    "image": "https://raw.githubusercontent.com/tago-io/decoders/main/decoders/connector/dragino/lds02/assets/logo.png"
+  },
+  {
+    "name": "Dragino LDS03A",
+    "slug": "dragino-lds03a",
+    "type": "Sensor",
+    "description": "Codec for Dragino LDS03A (vassets).",
+    "version": "assets",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/main/assets/codecs/dragino/lds03a/assets/payload.js",
+    "source": "https://github.com/tago-io/decoders/tree/main/decoders/connector/dragino/lds03a",
+    "image": "https://raw.githubusercontent.com/tago-io/decoders/main/decoders/connector/dragino/lds03a/assets/logo.png"
+  },
+  {
+    "name": "Dragino LDS03A",
+    "slug": "dragino-lds03a",
+    "type": "Sensor",
+    "description": "Codec for Dragino LDS03A (vv1.0.0).",
+    "version": "v1.0.0",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/main/assets/codecs/dragino/lds03a/v1.0.0/payload.js",
+    "source": "https://github.com/tago-io/decoders/tree/main/decoders/connector/dragino/lds03a",
+    "image": "https://raw.githubusercontent.com/tago-io/decoders/main/decoders/connector/dragino/lds03a/assets/logo.png"
+  },
+  {
+    "name": "Dragino LGT-92",
+    "slug": "dragino-lgt-92",
+    "type": "Sensor",
+    "description": "Codec for Dragino LGT-92 (vassets).",
+    "version": "assets",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/main/assets/codecs/dragino/lgt-92/assets/payload.js",
+    "source": "https://github.com/tago-io/decoders/tree/main/decoders/connector/dragino/lgt-92",
+    "image": "https://raw.githubusercontent.com/tago-io/decoders/main/decoders/connector/dragino/lgt-92/assets/logo.png"
+  },
+  {
+    "name": "Dragino LGT-92",
+    "slug": "dragino-lgt-92",
+    "type": "Sensor",
+    "description": "Codec for Dragino LGT-92 (vv1.0.0).",
+    "version": "v1.0.0",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/main/assets/codecs/dragino/lgt-92/v1.0.0/payload.js",
+    "source": "https://github.com/tago-io/decoders/tree/main/decoders/connector/dragino/lgt-92",
+    "image": "https://raw.githubusercontent.com/tago-io/decoders/main/decoders/connector/dragino/lgt-92/assets/logo.png"
+  },
+  {
+    "name": "Dragino LHT52",
+    "slug": "dragino-lht52",
+    "type": "Sensor",
+    "description": "Codec for Dragino LHT52 (vassets).",
+    "version": "assets",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/main/assets/codecs/dragino/lht52/assets/payload.js",
+    "source": "https://github.com/tago-io/decoders/tree/main/decoders/connector/dragino/lht52",
+    "image": "https://raw.githubusercontent.com/tago-io/decoders/main/decoders/connector/dragino/lht52/assets/logo.png"
+  },
+  {
+    "name": "Dragino LHT52",
+    "slug": "dragino-lht52",
+    "type": "Sensor",
+    "description": "Codec for Dragino LHT52 (vv1.0.0).",
+    "version": "v1.0.0",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/main/assets/codecs/dragino/lht52/v1.0.0/payload.js",
+    "source": "https://github.com/tago-io/decoders/tree/main/decoders/connector/dragino/lht52",
+    "image": "https://raw.githubusercontent.com/tago-io/decoders/main/decoders/connector/dragino/lht52/assets/logo.png"
+  },
+  {
+    "name": "Dragino LHT65",
+    "slug": "dragino-lht65",
+    "type": "Sensor",
+    "description": "Codec for Dragino LHT65 (vassets).",
+    "version": "assets",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/main/assets/codecs/dragino/lht65/assets/payload.js",
+    "source": "https://github.com/tago-io/decoders/tree/main/decoders/connector/dragino/lht65",
+    "image": "https://raw.githubusercontent.com/tago-io/decoders/main/decoders/connector/dragino/lht65/assets/logo.png"
+  },
+  {
+    "name": "Dragino LLDS12",
+    "slug": "dragino-llds12",
+    "type": "Sensor",
+    "description": "Codec for Dragino LLDS12 (vassets).",
+    "version": "assets",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/main/assets/codecs/dragino/llds12/assets/payload.js",
+    "source": "https://github.com/tago-io/decoders/tree/main/decoders/connector/dragino/llds12",
+    "image": "https://raw.githubusercontent.com/tago-io/decoders/main/decoders/connector/dragino/llds12/assets/logo.png"
+  },
+  {
+    "name": "Dragino LLDS12",
+    "slug": "dragino-llds12",
+    "type": "Sensor",
+    "description": "Codec for Dragino LLDS12 (vv1.0.0).",
+    "version": "v1.0.0",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/main/assets/codecs/dragino/llds12/v1.0.0/payload.js",
+    "source": "https://github.com/tago-io/decoders/tree/main/decoders/connector/dragino/llds12",
+    "image": "https://raw.githubusercontent.com/tago-io/decoders/main/decoders/connector/dragino/llds12/assets/logo.png"
+  },
+  {
+    "name": "Dragino LLMS01",
+    "slug": "dragino-llms01",
+    "type": "Sensor",
+    "description": "Codec for Dragino LLMS01 (vassets).",
+    "version": "assets",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/main/assets/codecs/dragino/llms01/assets/payload.js",
+    "source": "https://github.com/tago-io/decoders/tree/main/decoders/connector/dragino/llms01",
+    "image": "https://raw.githubusercontent.com/tago-io/decoders/main/decoders/connector/dragino/llms01/assets/logo.png"
+  },
+  {
+    "name": "Dragino LLMS01",
+    "slug": "dragino-llms01",
+    "type": "Sensor",
+    "description": "Codec for Dragino LLMS01 (vv1.0.0).",
+    "version": "v1.0.0",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/main/assets/codecs/dragino/llms01/v1.0.0/payload.js",
+    "source": "https://github.com/tago-io/decoders/tree/main/decoders/connector/dragino/llms01",
+    "image": "https://raw.githubusercontent.com/tago-io/decoders/main/decoders/connector/dragino/llms01/assets/logo.png"
+  },
+  {
+    "name": "Dragino LMDS200",
+    "slug": "dragino-lmds200",
+    "type": "Sensor",
+    "description": "Codec for Dragino LMDS200 (vassets).",
+    "version": "assets",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/main/assets/codecs/dragino/lmds200/assets/payload.js",
+    "source": "https://github.com/tago-io/decoders/tree/main/decoders/connector/dragino/lmds200",
+    "image": "https://raw.githubusercontent.com/tago-io/decoders/main/decoders/connector/dragino/lmds200/assets/logo.png"
+  },
+  {
+    "name": "Dragino LMDS200",
+    "slug": "dragino-lmds200",
+    "type": "Sensor",
+    "description": "Codec for Dragino LMDS200 (vv1.0.0).",
+    "version": "v1.0.0",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/main/assets/codecs/dragino/lmds200/v1.0.0/payload.js",
+    "source": "https://github.com/tago-io/decoders/tree/main/decoders/connector/dragino/lmds200",
+    "image": "https://raw.githubusercontent.com/tago-io/decoders/main/decoders/connector/dragino/lmds200/assets/logo.png"
+  },
+  {
+    "name": "Dragino LDDS45",
+    "slug": "dragino-ldds45",
+    "type": "Sensor",
+    "description": "Codec for Dragino LDDS45 (vv1.0.0).",
+    "version": "v1.0.0",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/main/assets/codecs/dragino/ldds45/v1.0.0/payload.js",
+    "source": "https://github.com/tago-io/decoders/tree/main/decoders/connector/dragino/ldds45",
+    "image": "https://raw.githubusercontent.com/tago-io/decoders/main/decoders/connector/dragino/ldds45/assets/logo.png"
+  },
+  {
+    "name": "Dragino LHT65",
+    "slug": "dragino-lht65",
+    "type": "Sensor",
+    "description": "Codec for Dragino LHT65 (vv1.0.0).",
+    "version": "v1.0.0",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/main/assets/codecs/dragino/lht65/v1.0.0/payload.js",
+    "source": "https://github.com/tago-io/decoders/tree/main/decoders/connector/dragino/lht65",
+    "image": "https://raw.githubusercontent.com/tago-io/decoders/main/decoders/connector/dragino/lht65/assets/logo.png"
+  },
+  {
+    "name": "Dragino LORA-SHIELD",
+    "slug": "dragino-lora-shield",
+    "type": "Sensor",
+    "description": "Codec for Dragino LORA-SHIELD (vv1.0.0).",
+    "version": "v1.0.0",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/main/assets/codecs/dragino/lora-shield/v1.0.0/payload.js",
+    "source": "https://github.com/tago-io/decoders/tree/main/decoders/connector/dragino/lora-shield",
+    "image": "https://raw.githubusercontent.com/tago-io/decoders/main/decoders/connector/dragino/lora-shield/assets/logo.png"
+  },
+  {
+    "name": "Dragino LSE-01",
+    "slug": "dragino-lse-01",
+    "type": "Sensor",
+    "description": "Codec for Dragino LSE-01 (vv1.0.0).",
+    "version": "v1.0.0",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/main/assets/codecs/dragino/lse-01/v1.0.0/payload.js",
+    "source": "https://github.com/tago-io/decoders/tree/main/decoders/connector/dragino/lse-01",
+    "image": "https://raw.githubusercontent.com/tago-io/decoders/main/decoders/connector/dragino/lse-01/assets/logo.png"
+  },
+  {
+    "name": "Dragino LSE01",
+    "slug": "dragino-lse01",
+    "type": "Sensor",
+    "description": "Codec for Dragino LSE01 (vv1.0.0).",
+    "version": "v1.0.0",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/main/assets/codecs/dragino/lse01/v1.0.0/payload.js",
+    "source": "https://github.com/tago-io/decoders/tree/main/decoders/connector/dragino/lse01",
+    "image": "https://raw.githubusercontent.com/tago-io/decoders/main/decoders/connector/dragino/lse01/assets/logo.png"
+  },
+  {
+    "name": "Dragino LSN50",
+    "slug": "dragino-lsn50",
+    "type": "Sensor",
+    "description": "Codec for Dragino LSN50 (vv1.0.0).",
+    "version": "v1.0.0",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/main/assets/codecs/dragino/lsn50/v1.0.0/payload.js",
+    "source": "https://github.com/tago-io/decoders/tree/main/decoders/connector/dragino/lsn50",
+    "image": "https://raw.githubusercontent.com/tago-io/decoders/main/decoders/connector/dragino/lsn50/assets/logo.png"
+  },
+  {
+    "name": "Dragino LSN50V2-D20",
+    "slug": "dragino-lsn50v2-d20",
+    "type": "Sensor",
+    "description": "Codec for Dragino LSN50V2-D20 (vv1.0.0).",
+    "version": "v1.0.0",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/main/assets/codecs/dragino/lsn50v2-d20/v1.0.0/payload.js",
+    "source": "https://github.com/tago-io/decoders/tree/main/decoders/connector/dragino/lsn50v2-d20",
+    "image": "https://raw.githubusercontent.com/tago-io/decoders/main/decoders/connector/dragino/lsn50v2-d20/assets/logo.png"
+  },
+  {
+    "name": "Dragino LSN50V2-D22",
+    "slug": "dragino-lsn50v2-d22",
+    "type": "Sensor",
+    "description": "Codec for Dragino LSN50V2-D22 (vv1.0.0).",
+    "version": "v1.0.0",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/main/assets/codecs/dragino/lsn50v2-d22/v1.0.0/payload.js",
+    "source": "https://github.com/tago-io/decoders/tree/main/decoders/connector/dragino/lsn50v2-d22",
+    "image": "https://raw.githubusercontent.com/tago-io/decoders/main/decoders/connector/dragino/lsn50v2-d22/assets/logo.png"
+  },
+  {
+    "name": "Dragino LSN50V2-D23",
+    "slug": "dragino-lsn50v2-d23",
+    "type": "Sensor",
+    "description": "Codec for Dragino LSN50V2-D23 (vv1.0.0).",
+    "version": "v1.0.0",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/main/assets/codecs/dragino/lsn50v2-d23/v1.0.0/payload.js",
+    "source": "https://github.com/tago-io/decoders/tree/main/decoders/connector/dragino/lsn50v2-d23",
+    "image": "https://raw.githubusercontent.com/tago-io/decoders/main/decoders/connector/dragino/lsn50v2-d23/assets/logo.png"
+  },
+  {
+    "name": "Dragino LSN50V2-S31B",
+    "slug": "dragino-lsn50v2-s31b",
+    "type": "Sensor",
+    "description": "Codec for Dragino LSN50V2-S31B (vv1.0.0).",
+    "version": "v1.0.0",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/main/assets/codecs/dragino/lsn50v2-s31b/v1.0.0/payload.js",
+    "source": "https://github.com/tago-io/decoders/tree/main/decoders/connector/dragino/lsn50v2-s31b",
+    "image": "https://raw.githubusercontent.com/tago-io/decoders/main/decoders/connector/dragino/lsn50v2-s31b/assets/logo.png"
+  },
+  {
+    "name": "Dragino LSNPK01",
+    "slug": "dragino-lsnpk01",
+    "type": "Sensor",
+    "description": "Codec for Dragino LSNPK01 (vv1.0.0).",
+    "version": "v1.0.0",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/main/assets/codecs/dragino/lsnpk01/v1.0.0/payload.js",
+    "source": "https://github.com/tago-io/decoders/tree/main/decoders/connector/dragino/lsnpk01",
+    "image": "https://raw.githubusercontent.com/tago-io/decoders/main/decoders/connector/dragino/lsnpk01/assets/logo.png"
+  },
+  {
+    "name": "Dragino LSPH01",
+    "slug": "dragino-lsph01",
+    "type": "Sensor",
+    "description": "Codec for Dragino LSPH01 (vv1.0.0).",
+    "version": "v1.0.0",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/main/assets/codecs/dragino/lsph01/v1.0.0/payload.js",
+    "source": "https://github.com/tago-io/decoders/tree/main/decoders/connector/dragino/lsph01",
+    "image": "https://raw.githubusercontent.com/tago-io/decoders/main/decoders/connector/dragino/lsph01/assets/logo.png"
+  },
+  {
+    "name": "Dragino LT-22222-L",
+    "slug": "dragino-lt-22222-l",
+    "type": "Sensor",
+    "description": "Codec for Dragino LT-22222-L (vv1.0.0).",
+    "version": "v1.0.0",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/main/assets/codecs/dragino/lt-22222-l/v1.0.0/payload.js",
+    "source": "https://github.com/tago-io/decoders/tree/main/decoders/connector/dragino/lt-22222-l",
+    "image": "https://raw.githubusercontent.com/tago-io/decoders/main/decoders/connector/dragino/lt-22222-l/assets/logo.png"
+  },
+  {
+    "name": "Dragino LT-33222-L",
+    "slug": "dragino-lt-33222-l",
+    "type": "Sensor",
+    "description": "Codec for Dragino LT-33222-L (vv1.0.0).",
+    "version": "v1.0.0",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/main/assets/codecs/dragino/lt-33222-l/v1.0.0/payload.js",
+    "source": "https://github.com/tago-io/decoders/tree/main/decoders/connector/dragino/lt-33222-l",
+    "image": "https://raw.githubusercontent.com/tago-io/decoders/main/decoders/connector/dragino/lt-33222-l/assets/logo.png"
+  },
+  {
+    "name": "Dragino LTC2",
+    "slug": "dragino-ltc2",
+    "type": "Sensor",
+    "description": "Codec for Dragino LTC2 (vv1.0.0).",
+    "version": "v1.0.0",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/main/assets/codecs/dragino/ltc2/v1.0.0/payload.js",
+    "source": "https://github.com/tago-io/decoders/tree/main/decoders/connector/dragino/ltc2",
+    "image": "https://raw.githubusercontent.com/tago-io/decoders/main/decoders/connector/dragino/ltc2/assets/logo.png"
+  },
+  {
+    "name": "Dragino LWL01",
+    "slug": "dragino-lwl01",
+    "type": "Sensor",
+    "description": "Codec for Dragino LWL01 (vv1.0.0).",
+    "version": "v1.0.0",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/main/assets/codecs/dragino/lwl01/v1.0.0/payload.js",
+    "source": "https://github.com/tago-io/decoders/tree/main/decoders/connector/dragino/lwl01",
+    "image": "https://raw.githubusercontent.com/tago-io/decoders/main/decoders/connector/dragino/lwl01/assets/logo.png"
+  },
+  {
+    "name": "Dragino LWL02",
+    "slug": "dragino-lwl02",
+    "type": "Sensor",
+    "description": "Codec for Dragino LWL02 (vv1.0.0).",
+    "version": "v1.0.0",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/main/assets/codecs/dragino/lwl02/v1.0.0/payload.js",
+    "source": "https://github.com/tago-io/decoders/tree/main/decoders/connector/dragino/lwl02",
+    "image": "https://raw.githubusercontent.com/tago-io/decoders/main/decoders/connector/dragino/lwl02/assets/logo.png"
+  },
+  {
+    "name": "Dragino NDDS75",
+    "slug": "dragino-ndds75",
+    "type": "Sensor",
+    "description": "Codec for Dragino NDDS75 (vv1.0.0).",
+    "version": "v1.0.0",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/main/assets/codecs/dragino/ndds75/v1.0.0/payload.js",
+    "source": "https://github.com/tago-io/decoders/tree/main/decoders/connector/dragino/ndds75",
+    "image": "https://raw.githubusercontent.com/tago-io/decoders/main/decoders/connector/dragino/ndds75/assets/logo.png"
+  },
+  {
+    "name": "Dragino SW3L",
+    "slug": "dragino-sw3l",
+    "type": "Sensor",
+    "description": "Codec for Dragino SW3L (vv1.0.0).",
+    "version": "v1.0.0",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/main/assets/codecs/dragino/sw3l/v1.0.0/payload.js",
+    "source": "https://github.com/tago-io/decoders/tree/main/decoders/connector/dragino/sw3l",
+    "image": "https://raw.githubusercontent.com/tago-io/decoders/main/decoders/connector/dragino/sw3l/assets/logo.png"
+  },
+  {
+    "name": "Dragino TRACKERD-LS",
+    "slug": "dragino-trackerd-ls",
+    "type": "Sensor",
+    "description": "Codec for Dragino TRACKERD-LS (vv1.0.0).",
+    "version": "v1.0.0",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/main/assets/codecs/dragino/trackerd-ls/v1.0.0/payload.js",
+    "source": "https://github.com/tago-io/decoders/tree/main/decoders/connector/dragino/trackerd-ls",
+    "image": "https://raw.githubusercontent.com/tago-io/decoders/main/decoders/connector/dragino/trackerd-ls/assets/logo.png"
+  }
+]
