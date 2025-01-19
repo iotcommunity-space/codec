@@ -4,10 +4,10 @@
     "slug": "abeeway",
     "type": "Sensor",
     "description": "Codec for ABEEWAY (vsmart-badge).",
-    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/abeeway/smart-badge/payload.js",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/abeeway/smart-badge/payload.js",
     "source": "https://github.com/iotcommunity-space/codec",
     "sourceName": "TagoIO Github",
-    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/abeeway/smart-badge/assets/logo.png",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/abeeway/smart-badge/assets/logo.png",
     "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/abeeway"
   },
   {
@@ -15,10 +15,10 @@
     "slug": "abs-telemetria",
     "type": "Sensor",
     "description": "Codec for ABS-TELEMETRIA (vcel-io).",
-    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/abs-telemetria/cel-io/payload.js",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/abs-telemetria/cel-io/payload.js",
     "source": "https://github.com/iotcommunity-space/codec",
     "sourceName": "TagoIO Github",
-    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/abs-telemetria/cel-io/assets/logo.png",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/abs-telemetria/cel-io/assets/logo.png",
     "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/abs-telemetria"
   },
   {
@@ -26,10 +26,10 @@
     "slug": "actility",
     "type": "Sensor",
     "description": "Codec for ACTILITY (vcustom-actility).",
-    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/actility/custom-actility/payload.js",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/actility/custom-actility/payload.js",
     "source": "https://github.com/iotcommunity-space/codec",
     "sourceName": "TagoIO Github",
-    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/actility/custom-actility/assets/logo.png",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/actility/custom-actility/assets/logo.png",
     "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/actility"
   },
   {
@@ -37,10 +37,10 @@
     "slug": "adenuis",
     "type": "Sensor",
     "description": "Codec for ADENUIS (vtemperature).",
-    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/adenuis/temperature/payload.js",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/adenuis/temperature/payload.js",
     "source": "https://github.com/iotcommunity-space/codec",
     "sourceName": "TagoIO Github",
-    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/adenuis/temperature/assets/logo.png",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/adenuis/temperature/assets/logo.png",
     "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/adenuis"
   },
   {
@@ -48,10 +48,10 @@
     "slug": "advantech",
     "type": "Sensor",
     "description": "Codec for ADVANTECH (vwise-2410x).",
-    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/advantech/wise-2410x/payload.js",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/advantech/wise-2410x/payload.js",
     "source": "https://github.com/iotcommunity-space/codec",
     "sourceName": "TagoIO Github",
-    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/advantech/wise-2410x/assets/logo.png",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/advantech/wise-2410x/assets/logo.png",
     "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/advantech"
   },
   {
@@ -59,10 +59,10 @@
     "slug": "atim",
     "type": "Sensor",
     "description": "Codec for ATIM (vwl).",
-    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/atim/wl/payload.js",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/atim/wl/payload.js",
     "source": "https://github.com/iotcommunity-space/codec",
     "sourceName": "TagoIO Github",
-    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/atim/wl/assets/logo.png",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/atim/wl/assets/logo.png",
     "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/atim"
   },
   {
@@ -70,10 +70,10 @@
     "slug": "atomsenses",
     "type": "Sensor",
     "description": "Codec for ATOMSENSES (vas-204).",
-    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/atomsenses/as-204/payload.js",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/atomsenses/as-204/payload.js",
     "source": "https://github.com/iotcommunity-space/codec",
     "sourceName": "TagoIO Github",
-    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/atomsenses/as-204/assets/logo.png",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/atomsenses/as-204/assets/logo.png",
     "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/atomsenses"
   },
   {
@@ -81,10 +81,10 @@
     "slug": "aws-iot",
     "type": "Sensor",
     "description": "Codec for AWS-IOT (vcustom-aws-iot).",
-    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/aws-iot/custom-aws-iot/payload.js",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/aws-iot/custom-aws-iot/payload.js",
     "source": "https://github.com/iotcommunity-space/codec",
     "sourceName": "TagoIO Github",
-    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/aws-iot/custom-aws-iot/assets/logo.png",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/aws-iot/custom-aws-iot/assets/logo.png",
     "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/aws-iot"
   },
   {
@@ -92,10 +92,10 @@
     "slug": "axioma",
     "type": "Sensor",
     "description": "Codec for AXIOMA (vwater-meter-qalcosonic-w1).",
-    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/axioma/water-meter-qalcosonic-w1/payload.js",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/axioma/water-meter-qalcosonic-w1/payload.js",
     "source": "https://github.com/iotcommunity-space/codec",
     "sourceName": "TagoIO Github",
-    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/axioma/water-meter-qalcosonic-w1/assets/logo.png",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/axioma/water-meter-qalcosonic-w1/assets/logo.png",
     "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/axioma"
   },
   {
@@ -103,10 +103,10 @@
     "slug": "brdot",
     "type": "Sensor",
     "description": "Codec for BRDOT (vcustom-brdot).",
-    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/brdot/custom-brdot/payload.js",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/brdot/custom-brdot/payload.js",
     "source": "https://github.com/iotcommunity-space/codec",
     "sourceName": "TagoIO Github",
-    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/brdot/custom-brdot/assets/logo.png",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/brdot/custom-brdot/assets/logo.png",
     "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/brdot"
   },
   {
@@ -114,10 +114,10 @@
     "slug": "browan",
     "type": "Sensor",
     "description": "Codec for BROWAN (vwater-leak).",
-    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/browan/water-leak/payload.js",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/browan/water-leak/payload.js",
     "source": "https://github.com/iotcommunity-space/codec",
     "sourceName": "TagoIO Github",
-    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/browan/water-leak/assets/logo.png",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/browan/water-leak/assets/logo.png",
     "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/browan"
   },
   {
@@ -125,10 +125,10 @@
     "slug": "chirpstack",
     "type": "Sensor",
     "description": "Codec for CHIRPSTACK (vcustom-chirpstack).",
-    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/chirpstack/custom-chirpstack/payload.js",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/chirpstack/custom-chirpstack/payload.js",
     "source": "https://github.com/iotcommunity-space/codec",
     "sourceName": "TagoIO Github",
-    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/chirpstack/custom-chirpstack/assets/logo.png",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/chirpstack/custom-chirpstack/assets/logo.png",
     "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/chirpstack"
   },
   {
@@ -136,10 +136,10 @@
     "slug": "citykinect",
     "type": "Sensor",
     "description": "Codec for CITYKINECT (vcustom-citykinect).",
-    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/citykinect/custom-citykinect/payload.js",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/citykinect/custom-citykinect/payload.js",
     "source": "https://github.com/iotcommunity-space/codec",
     "sourceName": "TagoIO Github",
-    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/citykinect/custom-citykinect/assets/logo.png",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/citykinect/custom-citykinect/assets/logo.png",
     "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/citykinect"
   },
   {
@@ -147,10 +147,10 @@
     "slug": "daytec",
     "type": "Sensor",
     "description": "Codec for DAYTEC (vsiglog).",
-    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/daytec/siglog/payload.js",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/daytec/siglog/payload.js",
     "source": "https://github.com/iotcommunity-space/codec",
     "sourceName": "TagoIO Github",
-    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/daytec/siglog/assets/logo.png",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/daytec/siglog/assets/logo.png",
     "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/daytec"
   },
   {
@@ -158,10 +158,10 @@
     "slug": "decentlab",
     "type": "Sensor",
     "description": "Codec for DECENTLAB (vdl-zn2).",
-    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/decentlab/dl-zn2/payload.js",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/decentlab/dl-zn2/payload.js",
     "source": "https://github.com/iotcommunity-space/codec",
     "sourceName": "TagoIO Github",
-    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/decentlab/dl-zn2/assets/logo.png",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/decentlab/dl-zn2/assets/logo.png",
     "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/decentlab"
   },
   {
@@ -169,10 +169,10 @@
     "slug": "digital-matter",
     "type": "Sensor",
     "description": "Codec for DIGITAL-MATTER (vmatter-yabby-edge).",
-    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/digital-matter/matter-yabby-edge/payload.js",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/digital-matter/matter-yabby-edge/payload.js",
     "source": "https://github.com/iotcommunity-space/codec",
     "sourceName": "TagoIO Github",
-    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/digital-matter/matter-yabby-edge/assets/logo.png",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/digital-matter/matter-yabby-edge/assets/logo.png",
     "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/digital-matter"
   },
   {
@@ -180,10 +180,10 @@
     "slug": "dragino",
     "type": "Sensor",
     "description": "Codec for DRAGINO (vwsc1-l).",
-    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/dragino/wsc1-l/payload.js",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/dragino/wsc1-l/payload.js",
     "source": "https://github.com/iotcommunity-space/codec",
     "sourceName": "TagoIO Github",
-    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/dragino/wsc1-l/assets/logo.png",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/dragino/wsc1-l/assets/logo.png",
     "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/dragino"
   },
   {
@@ -191,10 +191,10 @@
     "slug": "duodigit",
     "type": "Sensor",
     "description": "Codec for DUODIGIT (vsx).",
-    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/duodigit/sx/payload.js",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/duodigit/sx/payload.js",
     "source": "https://github.com/iotcommunity-space/codec",
     "sourceName": "TagoIO Github",
-    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/duodigit/sx/assets/logo.png",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/duodigit/sx/assets/logo.png",
     "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/duodigit"
   },
   {
@@ -202,10 +202,10 @@
     "slug": "ellenex",
     "type": "Sensor",
     "description": "Codec for ELLENEX (vtts2-l).",
-    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/ellenex/tts2-l/payload.js",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/ellenex/tts2-l/payload.js",
     "source": "https://github.com/iotcommunity-space/codec",
     "sourceName": "TagoIO Github",
-    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/ellenex/tts2-l/assets/logo.png",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/ellenex/tts2-l/assets/logo.png",
     "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/ellenex"
   },
   {
@@ -213,10 +213,10 @@
     "slug": "elsys",
     "type": "Sensor",
     "description": "Codec for ELSYS (vers-sound).",
-    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/elsys/ers-sound/payload.js",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/elsys/ers-sound/payload.js",
     "source": "https://github.com/iotcommunity-space/codec",
     "sourceName": "TagoIO Github",
-    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/elsys/ers-sound/assets/logo.png",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/elsys/ers-sound/assets/logo.png",
     "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/elsys"
   },
   {
@@ -224,10 +224,10 @@
     "slug": "endpoint",
     "type": "Sensor",
     "description": "Codec for ENDPOINT (vfor-gateway-khomp-itg200).",
-    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/endpoint/for-gateway-khomp-itg200/payload.js",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/endpoint/for-gateway-khomp-itg200/payload.js",
     "source": "https://github.com/iotcommunity-space/codec",
     "sourceName": "TagoIO Github",
-    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/endpoint/for-gateway-khomp-itg200/assets/logo.png",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/endpoint/for-gateway-khomp-itg200/assets/logo.png",
     "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/endpoint"
   },
   {
@@ -235,10 +235,10 @@
     "slug": "enginko",
     "type": "Sensor",
     "description": "Codec for ENGINKO (vlw12co2).",
-    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/enginko/lw12co2/payload.js",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/enginko/lw12co2/payload.js",
     "source": "https://github.com/iotcommunity-space/codec",
     "sourceName": "TagoIO Github",
-    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/enginko/lw12co2/assets/logo.png",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/enginko/lw12co2/assets/logo.png",
     "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/enginko"
   },
   {
@@ -246,10 +246,10 @@
     "slug": "everynet",
     "type": "Sensor",
     "description": "Codec for EVERYNET (vcustom-everynet).",
-    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/everynet/custom-everynet/payload.js",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/everynet/custom-everynet/payload.js",
     "source": "https://github.com/iotcommunity-space/codec",
     "sourceName": "TagoIO Github",
-    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/everynet/custom-everynet/assets/logo.png",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/everynet/custom-everynet/assets/logo.png",
     "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/everynet"
   },
   {
@@ -257,10 +257,10 @@
     "slug": "fractum",
     "type": "Sensor",
     "description": "Codec for FRACTUM (vdatalogger-sl-01).",
-    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/fractum/datalogger-sl-01/payload.js",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/fractum/datalogger-sl-01/payload.js",
     "source": "https://github.com/iotcommunity-space/codec",
     "sourceName": "TagoIO Github",
-    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/fractum/datalogger-sl-01/assets/logo.png",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/fractum/datalogger-sl-01/assets/logo.png",
     "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/fractum"
   },
   {
@@ -268,10 +268,10 @@
     "slug": "generic-sensor",
     "type": "Sensor",
     "description": "Codec for GENERIC-SENSOR (vcustom-generic-sensor).",
-    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/generic-sensor/custom-generic-sensor/payload.js",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/generic-sensor/custom-generic-sensor/payload.js",
     "source": "https://github.com/iotcommunity-space/codec",
     "sourceName": "TagoIO Github",
-    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/generic-sensor/custom-generic-sensor/assets/logo.png",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/generic-sensor/custom-generic-sensor/assets/logo.png",
     "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/generic-sensor"
   },
   {
@@ -279,10 +279,10 @@
     "slug": "globalsat",
     "type": "Sensor",
     "description": "Codec for GLOBALSAT (vst-100).",
-    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/globalsat/st-100/payload.js",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/globalsat/st-100/payload.js",
     "source": "https://github.com/iotcommunity-space/codec",
     "sourceName": "TagoIO Github",
-    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/globalsat/st-100/assets/logo.png",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/globalsat/st-100/assets/logo.png",
     "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/globalsat"
   },
   {
@@ -290,10 +290,10 @@
     "slug": "helium",
     "type": "Sensor",
     "description": "Codec for HELIUM (vcustom-helium).",
-    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/helium/custom-helium/payload.js",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/helium/custom-helium/payload.js",
     "source": "https://github.com/iotcommunity-space/codec",
     "sourceName": "TagoIO Github",
-    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/helium/custom-helium/assets/logo.png",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/helium/custom-helium/assets/logo.png",
     "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/helium"
   },
   {
@@ -301,10 +301,10 @@
     "slug": "https",
     "type": "Sensor",
     "description": "Codec for HTTPS (vcustom-https).",
-    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/https/custom-https/payload.js",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/https/custom-https/payload.js",
     "source": "https://github.com/iotcommunity-space/codec",
     "sourceName": "TagoIO Github",
-    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/https/custom-https/assets/logo.png",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/https/custom-https/assets/logo.png",
     "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/https"
   },
   {
@@ -312,10 +312,10 @@
     "slug": "iot-global-solutions",
     "type": "Sensor",
     "description": "Codec for IOT-GLOBAL-SOLUTIONS (vglobal-solutions-siglink).",
-    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/iot-global-solutions/global-solutions-siglink/payload.js",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/iot-global-solutions/global-solutions-siglink/payload.js",
     "source": "https://github.com/iotcommunity-space/codec",
     "sourceName": "TagoIO Github",
-    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/iot-global-solutions/global-solutions-siglink/assets/logo.png",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/iot-global-solutions/global-solutions-siglink/assets/logo.png",
     "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/iot-global-solutions"
   },
   {
@@ -323,10 +323,10 @@
     "slug": "iota",
     "type": "Sensor",
     "description": "Codec for IOTA (vwater-level-monitor).",
-    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/iota/water-level-monitor/payload.js",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/iota/water-level-monitor/payload.js",
     "source": "https://github.com/iotcommunity-space/codec",
     "sourceName": "TagoIO Github",
-    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/iota/water-level-monitor/assets/logo.png",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/iota/water-level-monitor/assets/logo.png",
     "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/iota"
   },
   {
@@ -334,10 +334,10 @@
     "slug": "kerlink",
     "type": "Sensor",
     "description": "Codec for KERLINK (vcustom-kerlink).",
-    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/kerlink/custom-kerlink/payload.js",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/kerlink/custom-kerlink/payload.js",
     "source": "https://github.com/iotcommunity-space/codec",
     "sourceName": "TagoIO Github",
-    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/kerlink/custom-kerlink/assets/logo.png",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/kerlink/custom-kerlink/assets/logo.png",
     "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/kerlink"
   },
   {
@@ -345,10 +345,10 @@
     "slug": "khomp",
     "type": "Sensor",
     "description": "Codec for KHOMP (vnit-2x-li-connector).",
-    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/khomp/nit-2x-li-connector/payload.js",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/khomp/nit-2x-li-connector/payload.js",
     "source": "https://github.com/iotcommunity-space/codec",
     "sourceName": "TagoIO Github",
-    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/khomp/nit-2x-li-connector/assets/logo.png",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/khomp/nit-2x-li-connector/assets/logo.png",
     "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/khomp"
   },
   {
@@ -356,10 +356,10 @@
     "slug": "kineis",
     "type": "Sensor",
     "description": "Codec for KINEIS (vcustom-kineis).",
-    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/kineis/custom-kineis/payload.js",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/kineis/custom-kineis/payload.js",
     "source": "https://github.com/iotcommunity-space/codec",
     "sourceName": "TagoIO Github",
-    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/kineis/custom-kineis/assets/logo.png",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/kineis/custom-kineis/assets/logo.png",
     "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/kineis"
   },
   {
@@ -367,10 +367,10 @@
     "slug": "kpn-things",
     "type": "Sensor",
     "description": "Codec for KPN-THINGS (vcustom-kpn-things).",
-    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/kpn-things/custom-kpn-things/payload.js",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/kpn-things/custom-kpn-things/payload.js",
     "source": "https://github.com/iotcommunity-space/codec",
     "sourceName": "TagoIO Github",
-    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/kpn-things/custom-kpn-things/assets/logo.png",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/kpn-things/custom-kpn-things/assets/logo.png",
     "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/kpn-things"
   },
   {
@@ -378,10 +378,10 @@
     "slug": "kron",
     "type": "Sensor",
     "description": "Codec for KRON (vks-3000).",
-    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/kron/ks-3000/payload.js",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/kron/ks-3000/payload.js",
     "source": "https://github.com/iotcommunity-space/codec",
     "sourceName": "TagoIO Github",
-    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/kron/ks-3000/assets/logo.png",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/kron/ks-3000/assets/logo.png",
     "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/kron"
   },
   {
@@ -389,10 +389,10 @@
     "slug": "kuando",
     "type": "Sensor",
     "description": "Codec for KUANDO (vbusylight-iot-omega).",
-    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/kuando/busylight-iot-omega/payload.js",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/kuando/busylight-iot-omega/payload.js",
     "source": "https://github.com/iotcommunity-space/codec",
     "sourceName": "TagoIO Github",
-    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/kuando/busylight-iot-omega/assets/logo.png",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/kuando/busylight-iot-omega/assets/logo.png",
     "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/kuando"
   },
   {
@@ -400,10 +400,10 @@
     "slug": "laird",
     "type": "Sensor",
     "description": "Codec for LAIRD (vsentrius-rs1xx).",
-    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/laird/sentrius-rs1xx/payload.js",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/laird/sentrius-rs1xx/payload.js",
     "source": "https://github.com/iotcommunity-space/codec",
     "sourceName": "TagoIO Github",
-    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/laird/sentrius-rs1xx/assets/logo.png",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/laird/sentrius-rs1xx/assets/logo.png",
     "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/laird"
   },
   {
@@ -411,10 +411,10 @@
     "slug": "lansitec",
     "type": "Sensor",
     "description": "Codec for LANSITEC (vtracking-label).",
-    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/lansitec/tracking-label/payload.js",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/lansitec/tracking-label/payload.js",
     "source": "https://github.com/iotcommunity-space/codec",
     "sourceName": "TagoIO Github",
-    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/lansitec/tracking-label/assets/logo.png",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/lansitec/tracking-label/assets/logo.png",
     "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/lansitec"
   },
   {
@@ -422,10 +422,10 @@
     "slug": "loriot",
     "type": "Sensor",
     "description": "Codec for LORIOT (vcustom-loriot).",
-    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/loriot/custom-loriot/payload.js",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/loriot/custom-loriot/payload.js",
     "source": "https://github.com/iotcommunity-space/codec",
     "sourceName": "TagoIO Github",
-    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/loriot/custom-loriot/assets/logo.png",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/loriot/custom-loriot/assets/logo.png",
     "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/loriot"
   },
   {
@@ -433,10 +433,10 @@
     "slug": "machineq",
     "type": "Sensor",
     "description": "Codec for MACHINEQ (vcustom-machineq).",
-    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/machineq/custom-machineq/payload.js",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/machineq/custom-machineq/payload.js",
     "source": "https://github.com/iotcommunity-space/codec",
     "sourceName": "TagoIO Github",
-    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/machineq/custom-machineq/assets/logo.png",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/machineq/custom-machineq/assets/logo.png",
     "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/machineq"
   },
   {
@@ -444,10 +444,10 @@
     "slug": "mcf",
     "type": "Sensor",
     "description": "Codec for MCF (vlwws01).",
-    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/mcf/lwws01/payload.js",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/mcf/lwws01/payload.js",
     "source": "https://github.com/iotcommunity-space/codec",
     "sourceName": "TagoIO Github",
-    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/mcf/lwws01/assets/logo.png",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/mcf/lwws01/assets/logo.png",
     "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/mcf"
   },
   {
@@ -455,10 +455,10 @@
     "slug": "milesight",
     "type": "Sensor",
     "description": "Codec for MILESIGHT (vwts506).",
-    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/milesight/wts506/payload.js",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/milesight/wts506/payload.js",
     "source": "https://github.com/iotcommunity-space/codec",
     "sourceName": "TagoIO Github",
-    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/milesight/wts506/assets/logo.png",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/milesight/wts506/assets/logo.png",
     "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/milesight"
   },
   {
@@ -466,10 +466,10 @@
     "slug": "miotiq",
     "type": "Sensor",
     "description": "Codec for MIOTIQ (vcustom-miotiq).",
-    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/miotiq/custom-miotiq/payload.js",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/miotiq/custom-miotiq/payload.js",
     "source": "https://github.com/iotcommunity-space/codec",
     "sourceName": "TagoIO Github",
-    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/miotiq/custom-miotiq/assets/logo.png",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/miotiq/custom-miotiq/assets/logo.png",
     "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/miotiq"
   },
   {
@@ -477,10 +477,10 @@
     "slug": "mokosmart",
     "type": "Sensor",
     "description": "Codec for MOKOSMART (vlw004-pb).",
-    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/mokosmart/lw004-pb/payload.js",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/mokosmart/lw004-pb/payload.js",
     "source": "https://github.com/iotcommunity-space/codec",
     "sourceName": "TagoIO Github",
-    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/mokosmart/lw004-pb/assets/logo.png",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/mokosmart/lw004-pb/assets/logo.png",
     "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/mokosmart"
   },
   {
@@ -488,10 +488,10 @@
     "slug": "mqtt",
     "type": "Sensor",
     "description": "Codec for MQTT (vcustom-mqtt).",
-    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/mqtt/custom-mqtt/payload.js",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/mqtt/custom-mqtt/payload.js",
     "source": "https://github.com/iotcommunity-space/codec",
     "sourceName": "TagoIO Github",
-    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/mqtt/custom-mqtt/assets/logo.png",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/mqtt/custom-mqtt/assets/logo.png",
     "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/mqtt"
   },
   {
@@ -499,10 +499,10 @@
     "slug": "myriota",
     "type": "Sensor",
     "description": "Codec for MYRIOTA (vcustom-myriota).",
-    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/myriota/custom-myriota/payload.js",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/myriota/custom-myriota/payload.js",
     "source": "https://github.com/iotcommunity-space/codec",
     "sourceName": "TagoIO Github",
-    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/myriota/custom-myriota/assets/logo.png",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/myriota/custom-myriota/assets/logo.png",
     "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/myriota"
   },
   {
@@ -510,10 +510,10 @@
     "slug": "netvox",
     "type": "Sensor",
     "description": "Codec for NETVOX (vrb11e).",
-    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/netvox/rb11e/payload.js",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/netvox/rb11e/payload.js",
     "source": "https://github.com/iotcommunity-space/codec",
     "sourceName": "TagoIO Github",
-    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/netvox/rb11e/assets/logo.png",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/netvox/rb11e/assets/logo.png",
     "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/netvox"
   },
   {
@@ -521,10 +521,10 @@
     "slug": "newin",
     "type": "Sensor",
     "description": "Codec for NEWIN (vzbx).",
-    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/newin/zbx/payload.js",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/newin/zbx/payload.js",
     "source": "https://github.com/iotcommunity-space/codec",
     "sourceName": "TagoIO Github",
-    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/newin/zbx/assets/logo.png",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/newin/zbx/assets/logo.png",
     "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/newin"
   },
   {
@@ -532,10 +532,10 @@
     "slug": "orbiwise",
     "type": "Sensor",
     "description": "Codec for ORBIWISE (vcustom-orbiwise).",
-    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/orbiwise/custom-orbiwise/payload.js",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/orbiwise/custom-orbiwise/payload.js",
     "source": "https://github.com/iotcommunity-space/codec",
     "sourceName": "TagoIO Github",
-    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/orbiwise/custom-orbiwise/assets/logo.png",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/orbiwise/custom-orbiwise/assets/logo.png",
     "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/orbiwise"
   },
   {
@@ -543,10 +543,10 @@
     "slug": "pni",
     "type": "Sensor",
     "description": "Codec for PNI (vplacepod-vehicle-counting).",
-    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/pni/placepod-vehicle-counting/payload.js",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/pni/placepod-vehicle-counting/payload.js",
     "source": "https://github.com/iotcommunity-space/codec",
     "sourceName": "TagoIO Github",
-    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/pni/placepod-vehicle-counting/assets/logo.png",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/pni/placepod-vehicle-counting/assets/logo.png",
     "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/pni"
   },
   {
@@ -554,10 +554,10 @@
     "slug": "polysense",
     "type": "Sensor",
     "description": "Codec for POLYSENSE (vwire-rope-tensioncrane-load-weight-sensor).",
-    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/polysense/wire-rope-tensioncrane-load-weight-sensor/payload.js",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/polysense/wire-rope-tensioncrane-load-weight-sensor/payload.js",
     "source": "https://github.com/iotcommunity-space/codec",
     "sourceName": "TagoIO Github",
-    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/polysense/wire-rope-tensioncrane-load-weight-sensor/assets/logo.png",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/polysense/wire-rope-tensioncrane-load-weight-sensor/assets/logo.png",
     "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/polysense"
   },
   {
@@ -565,10 +565,10 @@
     "slug": "rak",
     "type": "Sensor",
     "description": "Codec for RAK (v2171-wisnode-trackit).",
-    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/rak/2171-wisnode-trackit/payload.js",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/rak/2171-wisnode-trackit/payload.js",
     "source": "https://github.com/iotcommunity-space/codec",
     "sourceName": "TagoIO Github",
-    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/rak/2171-wisnode-trackit/assets/logo.png",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/rak/2171-wisnode-trackit/assets/logo.png",
     "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/rak"
   },
   {
@@ -576,10 +576,10 @@
     "slug": "risinghf",
     "type": "Sensor",
     "description": "Codec for RISINGHF (vrhf1s001).",
-    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/risinghf/rhf1s001/payload.js",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/risinghf/rhf1s001/payload.js",
     "source": "https://github.com/iotcommunity-space/codec",
     "sourceName": "TagoIO Github",
-    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/risinghf/rhf1s001/assets/logo.png",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/risinghf/rhf1s001/assets/logo.png",
     "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/risinghf"
   },
   {
@@ -587,10 +587,10 @@
     "slug": "robeau",
     "type": "Sensor",
     "description": "Codec for ROBEAU (vrobeau).",
-    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/robeau/robeau/payload.js",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/robeau/robeau/payload.js",
     "source": "https://github.com/iotcommunity-space/codec",
     "sourceName": "TagoIO Github",
-    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/robeau/robeau/assets/logo.png",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/robeau/robeau/assets/logo.png",
     "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/robeau"
   },
   {
@@ -598,10 +598,10 @@
     "slug": "seeed",
     "type": "Sensor",
     "description": "Codec for SEEED (vsensecap-t1000-ab).",
-    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/seeed/sensecap-t1000-ab/payload.js",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/seeed/sensecap-t1000-ab/payload.js",
     "source": "https://github.com/iotcommunity-space/codec",
     "sourceName": "TagoIO Github",
-    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/seeed/sensecap-t1000-ab/assets/logo.png",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/seeed/sensecap-t1000-ab/assets/logo.png",
     "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/seeed"
   },
   {
@@ -609,10 +609,10 @@
     "slug": "senet",
     "type": "Sensor",
     "description": "Codec for SENET (vcustom-senet).",
-    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/senet/custom-senet/payload.js",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/senet/custom-senet/payload.js",
     "source": "https://github.com/iotcommunity-space/codec",
     "sourceName": "TagoIO Github",
-    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/senet/custom-senet/assets/logo.png",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/senet/custom-senet/assets/logo.png",
     "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/senet"
   },
   {
@@ -620,10 +620,10 @@
     "slug": "senra",
     "type": "Sensor",
     "description": "Codec for SENRA (vcustom-senra).",
-    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/senra/custom-senra/payload.js",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/senra/custom-senra/payload.js",
     "source": "https://github.com/iotcommunity-space/codec",
     "sourceName": "TagoIO Github",
-    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/senra/custom-senra/assets/logo.png",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/senra/custom-senra/assets/logo.png",
     "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/senra"
   },
   {
@@ -631,10 +631,10 @@
     "slug": "sensative",
     "type": "Sensor",
     "description": "Codec for SENSATIVE (vstrips-multi-sensor-+comfort).",
-    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/sensative/strips-multi-sensor-+comfort/payload.js",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/sensative/strips-multi-sensor-+comfort/payload.js",
     "source": "https://github.com/iotcommunity-space/codec",
     "sourceName": "TagoIO Github",
-    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/sensative/strips-multi-sensor-+comfort/assets/logo.png",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/sensative/strips-multi-sensor-+comfort/assets/logo.png",
     "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/sensative"
   },
   {
@@ -642,10 +642,10 @@
     "slug": "sigfox",
     "type": "Sensor",
     "description": "Codec for SIGFOX (vcustom-sigfox).",
-    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/sigfox/custom-sigfox/payload.js",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/sigfox/custom-sigfox/payload.js",
     "source": "https://github.com/iotcommunity-space/codec",
     "sourceName": "TagoIO Github",
-    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/sigfox/custom-sigfox/assets/logo.png",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/sigfox/custom-sigfox/assets/logo.png",
     "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/sigfox"
   },
   {
@@ -653,10 +653,10 @@
     "slug": "skiply",
     "type": "Sensor",
     "description": "Codec for SKIPLY (vsmilio-actioncancelation).",
-    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/skiply/smilio-actioncancelation/payload.js",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/skiply/smilio-actioncancelation/payload.js",
     "source": "https://github.com/iotcommunity-space/codec",
     "sourceName": "TagoIO Github",
-    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/skiply/smilio-actioncancelation/assets/logo.png",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/skiply/smilio-actioncancelation/assets/logo.png",
     "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/skiply"
   },
   {
@@ -664,10 +664,10 @@
     "slug": "storage",
     "type": "Sensor",
     "description": "Codec for STORAGE (vdatabase).",
-    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/storage/database/payload.js",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/storage/database/payload.js",
     "source": "https://github.com/iotcommunity-space/codec",
     "sourceName": "TagoIO Github",
-    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/storage/database/assets/logo.png",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/storage/database/assets/logo.png",
     "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/storage"
   },
   {
@@ -675,10 +675,10 @@
     "slug": "strega",
     "type": "Sensor",
     "description": "Codec for STREGA (vsmart-valve-lite-edition).",
-    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/strega/smart-valve-lite-edition/payload.js",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/strega/smart-valve-lite-edition/payload.js",
     "source": "https://github.com/iotcommunity-space/codec",
     "sourceName": "TagoIO Github",
-    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/strega/smart-valve-lite-edition/assets/logo.png",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/strega/smart-valve-lite-edition/assets/logo.png",
     "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/strega"
   },
   {
@@ -686,10 +686,10 @@
     "slug": "swisscom",
     "type": "Sensor",
     "description": "Codec for SWISSCOM (vcustom-swisscom).",
-    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/swisscom/custom-swisscom/payload.js",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/swisscom/custom-swisscom/payload.js",
     "source": "https://github.com/iotcommunity-space/codec",
     "sourceName": "TagoIO Github",
-    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/swisscom/custom-swisscom/assets/logo.png",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/swisscom/custom-swisscom/assets/logo.png",
     "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/swisscom"
   },
   {
@@ -697,10 +697,10 @@
     "slug": "tektelic",
     "type": "Sensor",
     "description": "Codec for TEKTELIC (vvivid-smart-room-occupancy-sensor).",
-    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/tektelic/vivid-smart-room-occupancy-sensor/payload.js",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/tektelic/vivid-smart-room-occupancy-sensor/payload.js",
     "source": "https://github.com/iotcommunity-space/codec",
     "sourceName": "TagoIO Github",
-    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/tektelic/vivid-smart-room-occupancy-sensor/assets/logo.png",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/tektelic/vivid-smart-room-occupancy-sensor/assets/logo.png",
     "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/tektelic"
   },
   {
@@ -708,10 +708,10 @@
     "slug": "tti-ttn",
     "type": "Sensor",
     "description": "Codec for TTI-TTN (vcustom-tti-ttn).",
-    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/tti-ttn/custom-tti-ttn/payload.js",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/tti-ttn/custom-tti-ttn/payload.js",
     "source": "https://github.com/iotcommunity-space/codec",
     "sourceName": "TagoIO Github",
-    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/tti-ttn/custom-tti-ttn/assets/logo.png",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/tti-ttn/custom-tti-ttn/assets/logo.png",
     "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/tti-ttn"
   },
   {
@@ -719,10 +719,10 @@
     "slug": "udev",
     "type": "Sensor",
     "description": "Codec for UDEV (vpms100).",
-    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/udev/pms100/payload.js",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/udev/pms100/payload.js",
     "source": "https://github.com/iotcommunity-space/codec",
     "sourceName": "TagoIO Github",
-    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/udev/pms100/assets/logo.png",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/udev/pms100/assets/logo.png",
     "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/udev"
   },
   {
@@ -730,10 +730,10 @@
     "slug": "vnode-automation",
     "type": "Sensor",
     "description": "Codec for VNODE-AUTOMATION (vvnode).",
-    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/vnode-automation/vnode/payload.js",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/vnode-automation/vnode/payload.js",
     "source": "https://github.com/iotcommunity-space/codec",
     "sourceName": "TagoIO Github",
-    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/vnode-automation/vnode/assets/logo.png",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/vnode-automation/vnode/assets/logo.png",
     "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/vnode-automation"
   },
   {
@@ -741,10 +741,10 @@
     "slug": "watteco",
     "type": "Sensor",
     "description": "Codec for WATTECO (vventilo-sensor).",
-    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/watteco/ventilo-sensor/payload.js",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/watteco/ventilo-sensor/payload.js",
     "source": "https://github.com/iotcommunity-space/codec",
     "sourceName": "TagoIO Github",
-    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/watteco/ventilo-sensor/assets/logo.png",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/watteco/ventilo-sensor/assets/logo.png",
     "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/watteco"
   },
   {
@@ -752,10 +752,10 @@
     "slug": "wittra",
     "type": "Sensor",
     "description": "Codec for WITTRA (vcustom-wittra).",
-    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/wittra/custom-wittra/payload.js",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/wittra/custom-wittra/payload.js",
     "source": "https://github.com/iotcommunity-space/codec",
     "sourceName": "TagoIO Github",
-    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/wittra/custom-wittra/assets/logo.png",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/wittra/custom-wittra/assets/logo.png",
     "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/wittra"
   },
   {
@@ -763,10 +763,10 @@
     "slug": "yokogawa",
     "type": "Sensor",
     "description": "Codec for YOKOGAWA (vsushi-xs770a).",
-    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/yokogawa/sushi-xs770a/payload.js",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/yokogawa/sushi-xs770a/payload.js",
     "source": "https://github.com/iotcommunity-space/codec",
     "sourceName": "TagoIO Github",
-    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/yokogawa/sushi-xs770a/assets/logo.png",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/yokogawa/sushi-xs770a/assets/logo.png",
     "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/yokogawa"
   },
   {
@@ -774,10 +774,10 @@
     "slug": "yudash",
     "type": "Sensor",
     "description": "Codec for YUDASH (vhttps).",
-    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/yudash/https/payload.js",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/yudash/https/payload.js",
     "source": "https://github.com/iotcommunity-space/codec",
     "sourceName": "TagoIO Github",
-    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/yudash/https/assets/logo.png",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/yudash/https/assets/logo.png",
     "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/yudash"
   },
   {
@@ -785,10 +785,10 @@
     "slug": "zane",
     "type": "Sensor",
     "description": "Codec for ZANE (vztrack-tube).",
-    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/zane/ztrack-tube/payload.js",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/zane/ztrack-tube/payload.js",
     "source": "https://github.com/iotcommunity-space/codec",
     "sourceName": "TagoIO Github",
-    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/zane/ztrack-tube/assets/logo.png",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/['abeeway', 'abs-telemetria', 'actility', 'adenuis', 'advantech', 'atim', 'atomsenses', 'aws-iot', 'axioma', 'brdot', 'browan', 'chirpstack', 'citykinect', 'daytec', 'decentlab', 'digital-matter', 'dragino', 'duodigit', 'ellenex', 'elsys', 'endpoint', 'enginko', 'everynet', 'fractum', 'generic-sensor', 'globalsat', 'helium', 'https', 'iot-global-solutions', 'iota', 'kerlink', 'khomp', 'kineis', 'kpn-things', 'kron', 'kuando', 'laird', 'lansitec', 'loriot', 'machineq', 'mcf', 'milesight', 'miotiq', 'mokosmart', 'mqtt', 'myriota', 'netvox', 'newin', 'orbiwise', 'pni', 'polysense', 'rak', 'risinghf', 'robeau', 'seeed', 'senet', 'senra', 'sensative', 'sigfox', 'skiply', 'storage', 'strega', 'swisscom', 'tektelic', 'tti-ttn', 'udev', 'vnode-automation', 'watteco', 'wittra', 'yokogawa', 'yudash', 'zane']/zane/ztrack-tube/assets/logo.png",
     "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/zane"
   }
 ]
