@@ -4,719 +4,791 @@
     "slug": "abeeway",
     "type": "Sensor",
     "description": "Codec for ABEEWAY (vsmart-badge).",
-    "version": "smart-badge",
-    "download": "/assets/codecs/abeeway/smart-badge/payload.js",
-    "source": "/assets/codecs/abeeway",
-    "image": "/assets/codecs/abeeway/assets/logo.png"
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/abeeway/smart-badge/payload.js",
+    "source": "https://github.com/iotcommunity-space/codec",
+    "sourceName": "TagoIO Github",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/abeeway/smart-badge/assets/logo.png",
+    "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/abeeway"
   },
   {
     "name": "ABS-TELEMETRIA",
     "slug": "abs-telemetria",
     "type": "Sensor",
     "description": "Codec for ABS-TELEMETRIA (vcel-io).",
-    "version": "cel-io",
-    "download": "/assets/codecs/abs-telemetria/cel-io/payload.js",
-    "source": "/assets/codecs/abs-telemetria",
-    "image": "/assets/codecs/abs-telemetria/assets/logo.png"
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/abs-telemetria/cel-io/payload.js",
+    "source": "https://github.com/iotcommunity-space/codec",
+    "sourceName": "TagoIO Github",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/abs-telemetria/cel-io/assets/logo.png",
+    "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/abs-telemetria"
   },
   {
     "name": "ACTILITY",
     "slug": "actility",
     "type": "Sensor",
     "description": "Codec for ACTILITY (vcustom-actility).",
-    "version": "custom-actility",
-    "download": "/assets/codecs/actility/custom-actility/payload.js",
-    "source": "/assets/codecs/actility",
-    "image": "/assets/codecs/actility/assets/logo.png"
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/actility/custom-actility/payload.js",
+    "source": "https://github.com/iotcommunity-space/codec",
+    "sourceName": "TagoIO Github",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/actility/custom-actility/assets/logo.png",
+    "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/actility"
   },
   {
     "name": "ADENUIS",
     "slug": "adenuis",
     "type": "Sensor",
     "description": "Codec for ADENUIS (vtemperature).",
-    "version": "temperature",
-    "download": "/assets/codecs/adenuis/temperature/payload.js",
-    "source": "/assets/codecs/adenuis",
-    "image": "/assets/codecs/adenuis/assets/logo.png"
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/adenuis/temperature/payload.js",
+    "source": "https://github.com/iotcommunity-space/codec",
+    "sourceName": "TagoIO Github",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/adenuis/temperature/assets/logo.png",
+    "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/adenuis"
   },
   {
     "name": "ADVANTECH",
     "slug": "advantech",
     "type": "Sensor",
     "description": "Codec for ADVANTECH (vwise-2410x).",
-    "version": "wise-2410x",
-    "download": "/assets/codecs/advantech/wise-2410x/payload.js",
-    "source": "/assets/codecs/advantech",
-    "image": "/assets/codecs/advantech/assets/logo.png"
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/advantech/wise-2410x/payload.js",
+    "source": "https://github.com/iotcommunity-space/codec",
+    "sourceName": "TagoIO Github",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/advantech/wise-2410x/assets/logo.png",
+    "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/advantech"
   },
   {
     "name": "ATIM",
     "slug": "atim",
     "type": "Sensor",
     "description": "Codec for ATIM (vwl).",
-    "version": "wl",
-    "download": "/assets/codecs/atim/wl/payload.js",
-    "source": "/assets/codecs/atim",
-    "image": "/assets/codecs/atim/assets/logo.png"
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/atim/wl/payload.js",
+    "source": "https://github.com/iotcommunity-space/codec",
+    "sourceName": "TagoIO Github",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/atim/wl/assets/logo.png",
+    "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/atim"
   },
   {
     "name": "ATOMSENSES",
     "slug": "atomsenses",
     "type": "Sensor",
     "description": "Codec for ATOMSENSES (vas-204).",
-    "version": "as-204",
-    "download": "/assets/codecs/atomsenses/as-204/payload.js",
-    "source": "/assets/codecs/atomsenses",
-    "image": "/assets/codecs/atomsenses/assets/logo.png"
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/atomsenses/as-204/payload.js",
+    "source": "https://github.com/iotcommunity-space/codec",
+    "sourceName": "TagoIO Github",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/atomsenses/as-204/assets/logo.png",
+    "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/atomsenses"
   },
   {
     "name": "AWS-IOT",
     "slug": "aws-iot",
     "type": "Sensor",
     "description": "Codec for AWS-IOT (vcustom-aws-iot).",
-    "version": "custom-aws-iot",
-    "download": "/assets/codecs/aws-iot/custom-aws-iot/payload.js",
-    "source": "/assets/codecs/aws-iot",
-    "image": "/assets/codecs/aws-iot/assets/logo.png"
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/aws-iot/custom-aws-iot/payload.js",
+    "source": "https://github.com/iotcommunity-space/codec",
+    "sourceName": "TagoIO Github",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/aws-iot/custom-aws-iot/assets/logo.png",
+    "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/aws-iot"
   },
   {
     "name": "AXIOMA",
     "slug": "axioma",
     "type": "Sensor",
     "description": "Codec for AXIOMA (vwater-meter-qalcosonic-w1).",
-    "version": "water-meter-qalcosonic-w1",
-    "download": "/assets/codecs/axioma/water-meter-qalcosonic-w1/payload.js",
-    "source": "/assets/codecs/axioma",
-    "image": "/assets/codecs/axioma/assets/logo.png"
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/axioma/water-meter-qalcosonic-w1/payload.js",
+    "source": "https://github.com/iotcommunity-space/codec",
+    "sourceName": "TagoIO Github",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/axioma/water-meter-qalcosonic-w1/assets/logo.png",
+    "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/axioma"
   },
   {
     "name": "BRDOT",
     "slug": "brdot",
     "type": "Sensor",
     "description": "Codec for BRDOT (vcustom-brdot).",
-    "version": "custom-brdot",
-    "download": "/assets/codecs/brdot/custom-brdot/payload.js",
-    "source": "/assets/codecs/brdot",
-    "image": "/assets/codecs/brdot/assets/logo.png"
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/brdot/custom-brdot/payload.js",
+    "source": "https://github.com/iotcommunity-space/codec",
+    "sourceName": "TagoIO Github",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/brdot/custom-brdot/assets/logo.png",
+    "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/brdot"
   },
   {
     "name": "BROWAN",
     "slug": "browan",
     "type": "Sensor",
     "description": "Codec for BROWAN (vwater-leak).",
-    "version": "water-leak",
-    "download": "/assets/codecs/browan/water-leak/payload.js",
-    "source": "/assets/codecs/browan",
-    "image": "/assets/codecs/browan/assets/logo.png"
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/browan/water-leak/payload.js",
+    "source": "https://github.com/iotcommunity-space/codec",
+    "sourceName": "TagoIO Github",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/browan/water-leak/assets/logo.png",
+    "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/browan"
   },
   {
     "name": "CHIRPSTACK",
     "slug": "chirpstack",
     "type": "Sensor",
     "description": "Codec for CHIRPSTACK (vcustom-chirpstack).",
-    "version": "custom-chirpstack",
-    "download": "/assets/codecs/chirpstack/custom-chirpstack/payload.js",
-    "source": "/assets/codecs/chirpstack",
-    "image": "/assets/codecs/chirpstack/assets/logo.png"
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/chirpstack/custom-chirpstack/payload.js",
+    "source": "https://github.com/iotcommunity-space/codec",
+    "sourceName": "TagoIO Github",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/chirpstack/custom-chirpstack/assets/logo.png",
+    "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/chirpstack"
   },
   {
     "name": "CITYKINECT",
     "slug": "citykinect",
     "type": "Sensor",
     "description": "Codec for CITYKINECT (vcustom-citykinect).",
-    "version": "custom-citykinect",
-    "download": "/assets/codecs/citykinect/custom-citykinect/payload.js",
-    "source": "/assets/codecs/citykinect",
-    "image": "/assets/codecs/citykinect/assets/logo.png"
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/citykinect/custom-citykinect/payload.js",
+    "source": "https://github.com/iotcommunity-space/codec",
+    "sourceName": "TagoIO Github",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/citykinect/custom-citykinect/assets/logo.png",
+    "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/citykinect"
   },
   {
     "name": "DAYTEC",
     "slug": "daytec",
     "type": "Sensor",
     "description": "Codec for DAYTEC (vsiglog).",
-    "version": "siglog",
-    "download": "/assets/codecs/daytec/siglog/payload.js",
-    "source": "/assets/codecs/daytec",
-    "image": "/assets/codecs/daytec/assets/logo.png"
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/daytec/siglog/payload.js",
+    "source": "https://github.com/iotcommunity-space/codec",
+    "sourceName": "TagoIO Github",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/daytec/siglog/assets/logo.png",
+    "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/daytec"
   },
   {
     "name": "DECENTLAB",
     "slug": "decentlab",
     "type": "Sensor",
     "description": "Codec for DECENTLAB (vdl-zn2).",
-    "version": "dl-zn2",
-    "download": "/assets/codecs/decentlab/dl-zn2/payload.js",
-    "source": "/assets/codecs/decentlab",
-    "image": "/assets/codecs/decentlab/assets/logo.png"
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/decentlab/dl-zn2/payload.js",
+    "source": "https://github.com/iotcommunity-space/codec",
+    "sourceName": "TagoIO Github",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/decentlab/dl-zn2/assets/logo.png",
+    "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/decentlab"
   },
   {
     "name": "DIGITAL-MATTER",
     "slug": "digital-matter",
     "type": "Sensor",
     "description": "Codec for DIGITAL-MATTER (vmatter-yabby-edge).",
-    "version": "matter-yabby-edge",
-    "download": "/assets/codecs/digital-matter/matter-yabby-edge/payload.js",
-    "source": "/assets/codecs/digital-matter",
-    "image": "/assets/codecs/digital-matter/assets/logo.png"
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/digital-matter/matter-yabby-edge/payload.js",
+    "source": "https://github.com/iotcommunity-space/codec",
+    "sourceName": "TagoIO Github",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/digital-matter/matter-yabby-edge/assets/logo.png",
+    "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/digital-matter"
   },
   {
     "name": "DRAGINO",
     "slug": "dragino",
     "type": "Sensor",
     "description": "Codec for DRAGINO (vwsc1-l).",
-    "version": "wsc1-l",
-    "download": "/assets/codecs/dragino/wsc1-l/payload.js",
-    "source": "/assets/codecs/dragino",
-    "image": "/assets/codecs/dragino/assets/logo.png"
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/dragino/wsc1-l/payload.js",
+    "source": "https://github.com/iotcommunity-space/codec",
+    "sourceName": "TagoIO Github",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/dragino/wsc1-l/assets/logo.png",
+    "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/dragino"
   },
   {
     "name": "DUODIGIT",
     "slug": "duodigit",
     "type": "Sensor",
     "description": "Codec for DUODIGIT (vsx).",
-    "version": "sx",
-    "download": "/assets/codecs/duodigit/sx/payload.js",
-    "source": "/assets/codecs/duodigit",
-    "image": "/assets/codecs/duodigit/assets/logo.png"
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/duodigit/sx/payload.js",
+    "source": "https://github.com/iotcommunity-space/codec",
+    "sourceName": "TagoIO Github",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/duodigit/sx/assets/logo.png",
+    "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/duodigit"
   },
   {
     "name": "ELLENEX",
     "slug": "ellenex",
     "type": "Sensor",
     "description": "Codec for ELLENEX (vtts2-l).",
-    "version": "tts2-l",
-    "download": "/assets/codecs/ellenex/tts2-l/payload.js",
-    "source": "/assets/codecs/ellenex",
-    "image": "/assets/codecs/ellenex/assets/logo.png"
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/ellenex/tts2-l/payload.js",
+    "source": "https://github.com/iotcommunity-space/codec",
+    "sourceName": "TagoIO Github",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/ellenex/tts2-l/assets/logo.png",
+    "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/ellenex"
   },
   {
     "name": "ELSYS",
     "slug": "elsys",
     "type": "Sensor",
     "description": "Codec for ELSYS (vers-sound).",
-    "version": "ers-sound",
-    "download": "/assets/codecs/elsys/ers-sound/payload.js",
-    "source": "/assets/codecs/elsys",
-    "image": "/assets/codecs/elsys/assets/logo.png"
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/elsys/ers-sound/payload.js",
+    "source": "https://github.com/iotcommunity-space/codec",
+    "sourceName": "TagoIO Github",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/elsys/ers-sound/assets/logo.png",
+    "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/elsys"
   },
   {
     "name": "ENDPOINT",
     "slug": "endpoint",
     "type": "Sensor",
     "description": "Codec for ENDPOINT (vfor-gateway-khomp-itg200).",
-    "version": "for-gateway-khomp-itg200",
-    "download": "/assets/codecs/endpoint/for-gateway-khomp-itg200/payload.js",
-    "source": "/assets/codecs/endpoint",
-    "image": "/assets/codecs/endpoint/assets/logo.png"
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/endpoint/for-gateway-khomp-itg200/payload.js",
+    "source": "https://github.com/iotcommunity-space/codec",
+    "sourceName": "TagoIO Github",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/endpoint/for-gateway-khomp-itg200/assets/logo.png",
+    "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/endpoint"
   },
   {
     "name": "ENGINKO",
     "slug": "enginko",
     "type": "Sensor",
     "description": "Codec for ENGINKO (vlw12co2).",
-    "version": "lw12co2",
-    "download": "/assets/codecs/enginko/lw12co2/payload.js",
-    "source": "/assets/codecs/enginko",
-    "image": "/assets/codecs/enginko/assets/logo.png"
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/enginko/lw12co2/payload.js",
+    "source": "https://github.com/iotcommunity-space/codec",
+    "sourceName": "TagoIO Github",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/enginko/lw12co2/assets/logo.png",
+    "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/enginko"
   },
   {
     "name": "EVERYNET",
     "slug": "everynet",
     "type": "Sensor",
     "description": "Codec for EVERYNET (vcustom-everynet).",
-    "version": "custom-everynet",
-    "download": "/assets/codecs/everynet/custom-everynet/payload.js",
-    "source": "/assets/codecs/everynet",
-    "image": "/assets/codecs/everynet/assets/logo.png"
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/everynet/custom-everynet/payload.js",
+    "source": "https://github.com/iotcommunity-space/codec",
+    "sourceName": "TagoIO Github",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/everynet/custom-everynet/assets/logo.png",
+    "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/everynet"
   },
   {
     "name": "FRACTUM",
     "slug": "fractum",
     "type": "Sensor",
     "description": "Codec for FRACTUM (vdatalogger-sl-01).",
-    "version": "datalogger-sl-01",
-    "download": "/assets/codecs/fractum/datalogger-sl-01/payload.js",
-    "source": "/assets/codecs/fractum",
-    "image": "/assets/codecs/fractum/assets/logo.png"
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/fractum/datalogger-sl-01/payload.js",
+    "source": "https://github.com/iotcommunity-space/codec",
+    "sourceName": "TagoIO Github",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/fractum/datalogger-sl-01/assets/logo.png",
+    "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/fractum"
   },
   {
     "name": "GENERIC-SENSOR",
     "slug": "generic-sensor",
     "type": "Sensor",
     "description": "Codec for GENERIC-SENSOR (vcustom-generic-sensor).",
-    "version": "custom-generic-sensor",
-    "download": "/assets/codecs/generic-sensor/custom-generic-sensor/payload.js",
-    "source": "/assets/codecs/generic-sensor",
-    "image": "/assets/codecs/generic-sensor/assets/logo.png"
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/generic-sensor/custom-generic-sensor/payload.js",
+    "source": "https://github.com/iotcommunity-space/codec",
+    "sourceName": "TagoIO Github",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/generic-sensor/custom-generic-sensor/assets/logo.png",
+    "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/generic-sensor"
   },
   {
     "name": "GLOBALSAT",
     "slug": "globalsat",
     "type": "Sensor",
     "description": "Codec for GLOBALSAT (vst-100).",
-    "version": "st-100",
-    "download": "/assets/codecs/globalsat/st-100/payload.js",
-    "source": "/assets/codecs/globalsat",
-    "image": "/assets/codecs/globalsat/assets/logo.png"
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/globalsat/st-100/payload.js",
+    "source": "https://github.com/iotcommunity-space/codec",
+    "sourceName": "TagoIO Github",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/globalsat/st-100/assets/logo.png",
+    "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/globalsat"
   },
   {
     "name": "HELIUM",
     "slug": "helium",
     "type": "Sensor",
     "description": "Codec for HELIUM (vcustom-helium).",
-    "version": "custom-helium",
-    "download": "/assets/codecs/helium/custom-helium/payload.js",
-    "source": "/assets/codecs/helium",
-    "image": "/assets/codecs/helium/assets/logo.png"
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/helium/custom-helium/payload.js",
+    "source": "https://github.com/iotcommunity-space/codec",
+    "sourceName": "TagoIO Github",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/helium/custom-helium/assets/logo.png",
+    "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/helium"
   },
   {
     "name": "HTTPS",
     "slug": "https",
     "type": "Sensor",
     "description": "Codec for HTTPS (vcustom-https).",
-    "version": "custom-https",
-    "download": "/assets/codecs/https/custom-https/payload.js",
-    "source": "/assets/codecs/https",
-    "image": "/assets/codecs/https/assets/logo.png"
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/https/custom-https/payload.js",
+    "source": "https://github.com/iotcommunity-space/codec",
+    "sourceName": "TagoIO Github",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/https/custom-https/assets/logo.png",
+    "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/https"
   },
   {
     "name": "IOT-GLOBAL-SOLUTIONS",
     "slug": "iot-global-solutions",
     "type": "Sensor",
     "description": "Codec for IOT-GLOBAL-SOLUTIONS (vglobal-solutions-siglink).",
-    "version": "global-solutions-siglink",
-    "download": "/assets/codecs/iot-global-solutions/global-solutions-siglink/payload.js",
-    "source": "/assets/codecs/iot-global-solutions",
-    "image": "/assets/codecs/iot-global-solutions/assets/logo.png"
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/iot-global-solutions/global-solutions-siglink/payload.js",
+    "source": "https://github.com/iotcommunity-space/codec",
+    "sourceName": "TagoIO Github",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/iot-global-solutions/global-solutions-siglink/assets/logo.png",
+    "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/iot-global-solutions"
   },
   {
     "name": "IOTA",
     "slug": "iota",
     "type": "Sensor",
     "description": "Codec for IOTA (vwater-level-monitor).",
-    "version": "water-level-monitor",
-    "download": "/assets/codecs/iota/water-level-monitor/payload.js",
-    "source": "/assets/codecs/iota",
-    "image": "/assets/codecs/iota/assets/logo.png"
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/iota/water-level-monitor/payload.js",
+    "source": "https://github.com/iotcommunity-space/codec",
+    "sourceName": "TagoIO Github",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/iota/water-level-monitor/assets/logo.png",
+    "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/iota"
   },
   {
     "name": "KERLINK",
     "slug": "kerlink",
     "type": "Sensor",
     "description": "Codec for KERLINK (vcustom-kerlink).",
-    "version": "custom-kerlink",
-    "download": "/assets/codecs/kerlink/custom-kerlink/payload.js",
-    "source": "/assets/codecs/kerlink",
-    "image": "/assets/codecs/kerlink/assets/logo.png"
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/kerlink/custom-kerlink/payload.js",
+    "source": "https://github.com/iotcommunity-space/codec",
+    "sourceName": "TagoIO Github",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/kerlink/custom-kerlink/assets/logo.png",
+    "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/kerlink"
   },
   {
     "name": "KHOMP",
     "slug": "khomp",
     "type": "Sensor",
     "description": "Codec for KHOMP (vnit-2x-li-connector).",
-    "version": "nit-2x-li-connector",
-    "download": "/assets/codecs/khomp/nit-2x-li-connector/payload.js",
-    "source": "/assets/codecs/khomp",
-    "image": "/assets/codecs/khomp/assets/logo.png"
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/khomp/nit-2x-li-connector/payload.js",
+    "source": "https://github.com/iotcommunity-space/codec",
+    "sourceName": "TagoIO Github",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/khomp/nit-2x-li-connector/assets/logo.png",
+    "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/khomp"
   },
   {
     "name": "KINEIS",
     "slug": "kineis",
     "type": "Sensor",
     "description": "Codec for KINEIS (vcustom-kineis).",
-    "version": "custom-kineis",
-    "download": "/assets/codecs/kineis/custom-kineis/payload.js",
-    "source": "/assets/codecs/kineis",
-    "image": "/assets/codecs/kineis/assets/logo.png"
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/kineis/custom-kineis/payload.js",
+    "source": "https://github.com/iotcommunity-space/codec",
+    "sourceName": "TagoIO Github",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/kineis/custom-kineis/assets/logo.png",
+    "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/kineis"
   },
   {
     "name": "KPN-THINGS",
     "slug": "kpn-things",
     "type": "Sensor",
     "description": "Codec for KPN-THINGS (vcustom-kpn-things).",
-    "version": "custom-kpn-things",
-    "download": "/assets/codecs/kpn-things/custom-kpn-things/payload.js",
-    "source": "/assets/codecs/kpn-things",
-    "image": "/assets/codecs/kpn-things/assets/logo.png"
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/kpn-things/custom-kpn-things/payload.js",
+    "source": "https://github.com/iotcommunity-space/codec",
+    "sourceName": "TagoIO Github",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/kpn-things/custom-kpn-things/assets/logo.png",
+    "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/kpn-things"
   },
   {
     "name": "KRON",
     "slug": "kron",
     "type": "Sensor",
     "description": "Codec for KRON (vks-3000).",
-    "version": "ks-3000",
-    "download": "/assets/codecs/kron/ks-3000/payload.js",
-    "source": "/assets/codecs/kron",
-    "image": "/assets/codecs/kron/assets/logo.png"
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/kron/ks-3000/payload.js",
+    "source": "https://github.com/iotcommunity-space/codec",
+    "sourceName": "TagoIO Github",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/kron/ks-3000/assets/logo.png",
+    "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/kron"
   },
   {
     "name": "KUANDO",
     "slug": "kuando",
     "type": "Sensor",
     "description": "Codec for KUANDO (vbusylight-iot-omega).",
-    "version": "busylight-iot-omega",
-    "download": "/assets/codecs/kuando/busylight-iot-omega/payload.js",
-    "source": "/assets/codecs/kuando",
-    "image": "/assets/codecs/kuando/assets/logo.png"
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/kuando/busylight-iot-omega/payload.js",
+    "source": "https://github.com/iotcommunity-space/codec",
+    "sourceName": "TagoIO Github",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/kuando/busylight-iot-omega/assets/logo.png",
+    "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/kuando"
   },
   {
     "name": "LAIRD",
     "slug": "laird",
     "type": "Sensor",
     "description": "Codec for LAIRD (vsentrius-rs1xx).",
-    "version": "sentrius-rs1xx",
-    "download": "/assets/codecs/laird/sentrius-rs1xx/payload.js",
-    "source": "/assets/codecs/laird",
-    "image": "/assets/codecs/laird/assets/logo.png"
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/laird/sentrius-rs1xx/payload.js",
+    "source": "https://github.com/iotcommunity-space/codec",
+    "sourceName": "TagoIO Github",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/laird/sentrius-rs1xx/assets/logo.png",
+    "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/laird"
   },
   {
     "name": "LANSITEC",
     "slug": "lansitec",
     "type": "Sensor",
     "description": "Codec for LANSITEC (vtracking-label).",
-    "version": "tracking-label",
-    "download": "/assets/codecs/lansitec/tracking-label/payload.js",
-    "source": "/assets/codecs/lansitec",
-    "image": "/assets/codecs/lansitec/assets/logo.png"
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/lansitec/tracking-label/payload.js",
+    "source": "https://github.com/iotcommunity-space/codec",
+    "sourceName": "TagoIO Github",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/lansitec/tracking-label/assets/logo.png",
+    "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/lansitec"
   },
   {
     "name": "LORIOT",
     "slug": "loriot",
     "type": "Sensor",
     "description": "Codec for LORIOT (vcustom-loriot).",
-    "version": "custom-loriot",
-    "download": "/assets/codecs/loriot/custom-loriot/payload.js",
-    "source": "/assets/codecs/loriot",
-    "image": "/assets/codecs/loriot/assets/logo.png"
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/loriot/custom-loriot/payload.js",
+    "source": "https://github.com/iotcommunity-space/codec",
+    "sourceName": "TagoIO Github",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/loriot/custom-loriot/assets/logo.png",
+    "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/loriot"
   },
   {
     "name": "MACHINEQ",
     "slug": "machineq",
     "type": "Sensor",
     "description": "Codec for MACHINEQ (vcustom-machineq).",
-    "version": "custom-machineq",
-    "download": "/assets/codecs/machineq/custom-machineq/payload.js",
-    "source": "/assets/codecs/machineq",
-    "image": "/assets/codecs/machineq/assets/logo.png"
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/machineq/custom-machineq/payload.js",
+    "source": "https://github.com/iotcommunity-space/codec",
+    "sourceName": "TagoIO Github",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/machineq/custom-machineq/assets/logo.png",
+    "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/machineq"
   },
   {
     "name": "MCF",
     "slug": "mcf",
     "type": "Sensor",
     "description": "Codec for MCF (vlwws01).",
-    "version": "lwws01",
-    "download": "/assets/codecs/mcf/lwws01/payload.js",
-    "source": "/assets/codecs/mcf",
-    "image": "/assets/codecs/mcf/assets/logo.png"
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/mcf/lwws01/payload.js",
+    "source": "https://github.com/iotcommunity-space/codec",
+    "sourceName": "TagoIO Github",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/mcf/lwws01/assets/logo.png",
+    "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/mcf"
   },
   {
     "name": "MILESIGHT",
     "slug": "milesight",
     "type": "Sensor",
     "description": "Codec for MILESIGHT (vwts506).",
-    "version": "wts506",
-    "download": "/assets/codecs/milesight/wts506/payload.js",
-    "source": "/assets/codecs/milesight",
-    "image": "/assets/codecs/milesight/assets/logo.png"
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/milesight/wts506/payload.js",
+    "source": "https://github.com/iotcommunity-space/codec",
+    "sourceName": "TagoIO Github",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/milesight/wts506/assets/logo.png",
+    "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/milesight"
   },
   {
     "name": "MIOTIQ",
     "slug": "miotiq",
     "type": "Sensor",
     "description": "Codec for MIOTIQ (vcustom-miotiq).",
-    "version": "custom-miotiq",
-    "download": "/assets/codecs/miotiq/custom-miotiq/payload.js",
-    "source": "/assets/codecs/miotiq",
-    "image": "/assets/codecs/miotiq/assets/logo.png"
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/miotiq/custom-miotiq/payload.js",
+    "source": "https://github.com/iotcommunity-space/codec",
+    "sourceName": "TagoIO Github",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/miotiq/custom-miotiq/assets/logo.png",
+    "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/miotiq"
   },
   {
     "name": "MOKOSMART",
     "slug": "mokosmart",
     "type": "Sensor",
     "description": "Codec for MOKOSMART (vlw004-pb).",
-    "version": "lw004-pb",
-    "download": "/assets/codecs/mokosmart/lw004-pb/payload.js",
-    "source": "/assets/codecs/mokosmart",
-    "image": "/assets/codecs/mokosmart/assets/logo.png"
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/mokosmart/lw004-pb/payload.js",
+    "source": "https://github.com/iotcommunity-space/codec",
+    "sourceName": "TagoIO Github",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/mokosmart/lw004-pb/assets/logo.png",
+    "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/mokosmart"
   },
   {
     "name": "MQTT",
     "slug": "mqtt",
     "type": "Sensor",
     "description": "Codec for MQTT (vcustom-mqtt).",
-    "version": "custom-mqtt",
-    "download": "/assets/codecs/mqtt/custom-mqtt/payload.js",
-    "source": "/assets/codecs/mqtt",
-    "image": "/assets/codecs/mqtt/assets/logo.png"
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/mqtt/custom-mqtt/payload.js",
+    "source": "https://github.com/iotcommunity-space/codec",
+    "sourceName": "TagoIO Github",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/mqtt/custom-mqtt/assets/logo.png",
+    "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/mqtt"
   },
   {
     "name": "MYRIOTA",
     "slug": "myriota",
     "type": "Sensor",
     "description": "Codec for MYRIOTA (vcustom-myriota).",
-    "version": "custom-myriota",
-    "download": "/assets/codecs/myriota/custom-myriota/payload.js",
-    "source": "/assets/codecs/myriota",
-    "image": "/assets/codecs/myriota/assets/logo.png"
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/myriota/custom-myriota/payload.js",
+    "source": "https://github.com/iotcommunity-space/codec",
+    "sourceName": "TagoIO Github",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/myriota/custom-myriota/assets/logo.png",
+    "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/myriota"
   },
   {
     "name": "NETVOX",
     "slug": "netvox",
     "type": "Sensor",
     "description": "Codec for NETVOX (vrb11e).",
-    "version": "rb11e",
-    "download": "/assets/codecs/netvox/rb11e/payload.js",
-    "source": "/assets/codecs/netvox",
-    "image": "/assets/codecs/netvox/assets/logo.png"
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/netvox/rb11e/payload.js",
+    "source": "https://github.com/iotcommunity-space/codec",
+    "sourceName": "TagoIO Github",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/netvox/rb11e/assets/logo.png",
+    "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/netvox"
   },
   {
     "name": "NEWIN",
     "slug": "newin",
     "type": "Sensor",
     "description": "Codec for NEWIN (vzbx).",
-    "version": "zbx",
-    "download": "/assets/codecs/newin/zbx/payload.js",
-    "source": "/assets/codecs/newin",
-    "image": "/assets/codecs/newin/assets/logo.png"
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/newin/zbx/payload.js",
+    "source": "https://github.com/iotcommunity-space/codec",
+    "sourceName": "TagoIO Github",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/newin/zbx/assets/logo.png",
+    "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/newin"
   },
   {
     "name": "ORBIWISE",
     "slug": "orbiwise",
     "type": "Sensor",
     "description": "Codec for ORBIWISE (vcustom-orbiwise).",
-    "version": "custom-orbiwise",
-    "download": "/assets/codecs/orbiwise/custom-orbiwise/payload.js",
-    "source": "/assets/codecs/orbiwise",
-    "image": "/assets/codecs/orbiwise/assets/logo.png"
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/orbiwise/custom-orbiwise/payload.js",
+    "source": "https://github.com/iotcommunity-space/codec",
+    "sourceName": "TagoIO Github",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/orbiwise/custom-orbiwise/assets/logo.png",
+    "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/orbiwise"
   },
   {
     "name": "PNI",
     "slug": "pni",
     "type": "Sensor",
     "description": "Codec for PNI (vplacepod-vehicle-counting).",
-    "version": "placepod-vehicle-counting",
-    "download": "/assets/codecs/pni/placepod-vehicle-counting/payload.js",
-    "source": "/assets/codecs/pni",
-    "image": "/assets/codecs/pni/assets/logo.png"
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/pni/placepod-vehicle-counting/payload.js",
+    "source": "https://github.com/iotcommunity-space/codec",
+    "sourceName": "TagoIO Github",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/pni/placepod-vehicle-counting/assets/logo.png",
+    "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/pni"
   },
   {
     "name": "POLYSENSE",
     "slug": "polysense",
     "type": "Sensor",
     "description": "Codec for POLYSENSE (vwire-rope-tensioncrane-load-weight-sensor).",
-    "version": "wire-rope-tensioncrane-load-weight-sensor",
-    "download": "/assets/codecs/polysense/wire-rope-tensioncrane-load-weight-sensor/payload.js",
-    "source": "/assets/codecs/polysense",
-    "image": "/assets/codecs/polysense/assets/logo.png"
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/polysense/wire-rope-tensioncrane-load-weight-sensor/payload.js",
+    "source": "https://github.com/iotcommunity-space/codec",
+    "sourceName": "TagoIO Github",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/polysense/wire-rope-tensioncrane-load-weight-sensor/assets/logo.png",
+    "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/polysense"
   },
   {
     "name": "RAK",
     "slug": "rak",
     "type": "Sensor",
     "description": "Codec for RAK (v2171-wisnode-trackit).",
-    "version": "2171-wisnode-trackit",
-    "download": "/assets/codecs/rak/2171-wisnode-trackit/payload.js",
-    "source": "/assets/codecs/rak",
-    "image": "/assets/codecs/rak/assets/logo.png"
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/rak/2171-wisnode-trackit/payload.js",
+    "source": "https://github.com/iotcommunity-space/codec",
+    "sourceName": "TagoIO Github",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/rak/2171-wisnode-trackit/assets/logo.png",
+    "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/rak"
   },
   {
     "name": "RISINGHF",
     "slug": "risinghf",
     "type": "Sensor",
     "description": "Codec for RISINGHF (vrhf1s001).",
-    "version": "rhf1s001",
-    "download": "/assets/codecs/risinghf/rhf1s001/payload.js",
-    "source": "/assets/codecs/risinghf",
-    "image": "/assets/codecs/risinghf/assets/logo.png"
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/risinghf/rhf1s001/payload.js",
+    "source": "https://github.com/iotcommunity-space/codec",
+    "sourceName": "TagoIO Github",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/risinghf/rhf1s001/assets/logo.png",
+    "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/risinghf"
   },
   {
     "name": "ROBEAU",
     "slug": "robeau",
     "type": "Sensor",
     "description": "Codec for ROBEAU (vrobeau).",
-    "version": "robeau",
-    "download": "/assets/codecs/robeau/robeau/payload.js",
-    "source": "/assets/codecs/robeau",
-    "image": "/assets/codecs/robeau/assets/logo.png"
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/robeau/robeau/payload.js",
+    "source": "https://github.com/iotcommunity-space/codec",
+    "sourceName": "TagoIO Github",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/robeau/robeau/assets/logo.png",
+    "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/robeau"
   },
   {
     "name": "SEEED",
     "slug": "seeed",
     "type": "Sensor",
     "description": "Codec for SEEED (vsensecap-t1000-ab).",
-    "version": "sensecap-t1000-ab",
-    "download": "/assets/codecs/seeed/sensecap-t1000-ab/payload.js",
-    "source": "/assets/codecs/seeed",
-    "image": "/assets/codecs/seeed/assets/logo.png"
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/seeed/sensecap-t1000-ab/payload.js",
+    "source": "https://github.com/iotcommunity-space/codec",
+    "sourceName": "TagoIO Github",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/seeed/sensecap-t1000-ab/assets/logo.png",
+    "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/seeed"
   },
   {
     "name": "SENET",
     "slug": "senet",
     "type": "Sensor",
     "description": "Codec for SENET (vcustom-senet).",
-    "version": "custom-senet",
-    "download": "/assets/codecs/senet/custom-senet/payload.js",
-    "source": "/assets/codecs/senet",
-    "image": "/assets/codecs/senet/assets/logo.png"
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/senet/custom-senet/payload.js",
+    "source": "https://github.com/iotcommunity-space/codec",
+    "sourceName": "TagoIO Github",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/senet/custom-senet/assets/logo.png",
+    "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/senet"
   },
   {
     "name": "SENRA",
     "slug": "senra",
     "type": "Sensor",
     "description": "Codec for SENRA (vcustom-senra).",
-    "version": "custom-senra",
-    "download": "/assets/codecs/senra/custom-senra/payload.js",
-    "source": "/assets/codecs/senra",
-    "image": "/assets/codecs/senra/assets/logo.png"
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/senra/custom-senra/payload.js",
+    "source": "https://github.com/iotcommunity-space/codec",
+    "sourceName": "TagoIO Github",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/senra/custom-senra/assets/logo.png",
+    "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/senra"
   },
   {
     "name": "SENSATIVE",
     "slug": "sensative",
     "type": "Sensor",
     "description": "Codec for SENSATIVE (vstrips-multi-sensor-+comfort).",
-    "version": "strips-multi-sensor-+comfort",
-    "download": "/assets/codecs/sensative/strips-multi-sensor-+comfort/payload.js",
-    "source": "/assets/codecs/sensative",
-    "image": "/assets/codecs/sensative/assets/logo.png"
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/sensative/strips-multi-sensor-+comfort/payload.js",
+    "source": "https://github.com/iotcommunity-space/codec",
+    "sourceName": "TagoIO Github",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/sensative/strips-multi-sensor-+comfort/assets/logo.png",
+    "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/sensative"
   },
   {
     "name": "SIGFOX",
     "slug": "sigfox",
     "type": "Sensor",
     "description": "Codec for SIGFOX (vcustom-sigfox).",
-    "version": "custom-sigfox",
-    "download": "/assets/codecs/sigfox/custom-sigfox/payload.js",
-    "source": "/assets/codecs/sigfox",
-    "image": "/assets/codecs/sigfox/assets/logo.png"
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/sigfox/custom-sigfox/payload.js",
+    "source": "https://github.com/iotcommunity-space/codec",
+    "sourceName": "TagoIO Github",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/sigfox/custom-sigfox/assets/logo.png",
+    "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/sigfox"
   },
   {
     "name": "SKIPLY",
     "slug": "skiply",
     "type": "Sensor",
     "description": "Codec for SKIPLY (vsmilio-actioncancelation).",
-    "version": "smilio-actioncancelation",
-    "download": "/assets/codecs/skiply/smilio-actioncancelation/payload.js",
-    "source": "/assets/codecs/skiply",
-    "image": "/assets/codecs/skiply/assets/logo.png"
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/skiply/smilio-actioncancelation/payload.js",
+    "source": "https://github.com/iotcommunity-space/codec",
+    "sourceName": "TagoIO Github",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/skiply/smilio-actioncancelation/assets/logo.png",
+    "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/skiply"
   },
   {
     "name": "STORAGE",
     "slug": "storage",
     "type": "Sensor",
     "description": "Codec for STORAGE (vdatabase).",
-    "version": "database",
-    "download": "/assets/codecs/storage/database/payload.js",
-    "source": "/assets/codecs/storage",
-    "image": "/assets/codecs/storage/assets/logo.png"
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/storage/database/payload.js",
+    "source": "https://github.com/iotcommunity-space/codec",
+    "sourceName": "TagoIO Github",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/storage/database/assets/logo.png",
+    "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/storage"
   },
   {
     "name": "STREGA",
     "slug": "strega",
     "type": "Sensor",
     "description": "Codec for STREGA (vsmart-valve-lite-edition).",
-    "version": "smart-valve-lite-edition",
-    "download": "/assets/codecs/strega/smart-valve-lite-edition/payload.js",
-    "source": "/assets/codecs/strega",
-    "image": "/assets/codecs/strega/assets/logo.png"
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/strega/smart-valve-lite-edition/payload.js",
+    "source": "https://github.com/iotcommunity-space/codec",
+    "sourceName": "TagoIO Github",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/strega/smart-valve-lite-edition/assets/logo.png",
+    "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/strega"
   },
   {
     "name": "SWISSCOM",
     "slug": "swisscom",
     "type": "Sensor",
     "description": "Codec for SWISSCOM (vcustom-swisscom).",
-    "version": "custom-swisscom",
-    "download": "/assets/codecs/swisscom/custom-swisscom/payload.js",
-    "source": "/assets/codecs/swisscom",
-    "image": "/assets/codecs/swisscom/assets/logo.png"
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/swisscom/custom-swisscom/payload.js",
+    "source": "https://github.com/iotcommunity-space/codec",
+    "sourceName": "TagoIO Github",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/swisscom/custom-swisscom/assets/logo.png",
+    "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/swisscom"
   },
   {
     "name": "TEKTELIC",
     "slug": "tektelic",
     "type": "Sensor",
     "description": "Codec for TEKTELIC (vvivid-smart-room-occupancy-sensor).",
-    "version": "vivid-smart-room-occupancy-sensor",
-    "download": "/assets/codecs/tektelic/vivid-smart-room-occupancy-sensor/payload.js",
-    "source": "/assets/codecs/tektelic",
-    "image": "/assets/codecs/tektelic/assets/logo.png"
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/tektelic/vivid-smart-room-occupancy-sensor/payload.js",
+    "source": "https://github.com/iotcommunity-space/codec",
+    "sourceName": "TagoIO Github",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/tektelic/vivid-smart-room-occupancy-sensor/assets/logo.png",
+    "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/tektelic"
   },
   {
     "name": "TTI-TTN",
     "slug": "tti-ttn",
     "type": "Sensor",
     "description": "Codec for TTI-TTN (vcustom-tti-ttn).",
-    "version": "custom-tti-ttn",
-    "download": "/assets/codecs/tti-ttn/custom-tti-ttn/payload.js",
-    "source": "/assets/codecs/tti-ttn",
-    "image": "/assets/codecs/tti-ttn/assets/logo.png"
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/tti-ttn/custom-tti-ttn/payload.js",
+    "source": "https://github.com/iotcommunity-space/codec",
+    "sourceName": "TagoIO Github",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/tti-ttn/custom-tti-ttn/assets/logo.png",
+    "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/tti-ttn"
   },
   {
     "name": "UDEV",
     "slug": "udev",
     "type": "Sensor",
     "description": "Codec for UDEV (vpms100).",
-    "version": "pms100",
-    "download": "/assets/codecs/udev/pms100/payload.js",
-    "source": "/assets/codecs/udev",
-    "image": "/assets/codecs/udev/assets/logo.png"
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/udev/pms100/payload.js",
+    "source": "https://github.com/iotcommunity-space/codec",
+    "sourceName": "TagoIO Github",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/udev/pms100/assets/logo.png",
+    "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/udev"
   },
   {
     "name": "VNODE-AUTOMATION",
     "slug": "vnode-automation",
     "type": "Sensor",
     "description": "Codec for VNODE-AUTOMATION (vvnode).",
-    "version": "vnode",
-    "download": "/assets/codecs/vnode-automation/vnode/payload.js",
-    "source": "/assets/codecs/vnode-automation",
-    "image": "/assets/codecs/vnode-automation/assets/logo.png"
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/vnode-automation/vnode/payload.js",
+    "source": "https://github.com/iotcommunity-space/codec",
+    "sourceName": "TagoIO Github",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/vnode-automation/vnode/assets/logo.png",
+    "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/vnode-automation"
   },
   {
     "name": "WATTECO",
     "slug": "watteco",
     "type": "Sensor",
     "description": "Codec for WATTECO (vventilo-sensor).",
-    "version": "ventilo-sensor",
-    "download": "/assets/codecs/watteco/ventilo-sensor/payload.js",
-    "source": "/assets/codecs/watteco",
-    "image": "/assets/codecs/watteco/assets/logo.png"
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/watteco/ventilo-sensor/payload.js",
+    "source": "https://github.com/iotcommunity-space/codec",
+    "sourceName": "TagoIO Github",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/watteco/ventilo-sensor/assets/logo.png",
+    "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/watteco"
   },
   {
     "name": "WITTRA",
     "slug": "wittra",
     "type": "Sensor",
     "description": "Codec for WITTRA (vcustom-wittra).",
-    "version": "custom-wittra",
-    "download": "/assets/codecs/wittra/custom-wittra/payload.js",
-    "source": "/assets/codecs/wittra",
-    "image": "/assets/codecs/wittra/assets/logo.png"
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/wittra/custom-wittra/payload.js",
+    "source": "https://github.com/iotcommunity-space/codec",
+    "sourceName": "TagoIO Github",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/wittra/custom-wittra/assets/logo.png",
+    "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/wittra"
   },
   {
     "name": "YOKOGAWA",
     "slug": "yokogawa",
     "type": "Sensor",
     "description": "Codec for YOKOGAWA (vsushi-xs770a).",
-    "version": "sushi-xs770a",
-    "download": "/assets/codecs/yokogawa/sushi-xs770a/payload.js",
-    "source": "/assets/codecs/yokogawa",
-    "image": "/assets/codecs/yokogawa/assets/logo.png"
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/yokogawa/sushi-xs770a/payload.js",
+    "source": "https://github.com/iotcommunity-space/codec",
+    "sourceName": "TagoIO Github",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/yokogawa/sushi-xs770a/assets/logo.png",
+    "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/yokogawa"
   },
   {
     "name": "YUDASH",
     "slug": "yudash",
     "type": "Sensor",
     "description": "Codec for YUDASH (vhttps).",
-    "version": "https",
-    "download": "/assets/codecs/yudash/https/payload.js",
-    "source": "/assets/codecs/yudash",
-    "image": "/assets/codecs/yudash/assets/logo.png"
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/yudash/https/payload.js",
+    "source": "https://github.com/iotcommunity-space/codec",
+    "sourceName": "TagoIO Github",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/yudash/https/assets/logo.png",
+    "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/yudash"
   },
   {
     "name": "ZANE",
     "slug": "zane",
     "type": "Sensor",
     "description": "Codec for ZANE (vztrack-tube).",
-    "version": "ztrack-tube",
-    "download": "/assets/codecs/zane/ztrack-tube/payload.js",
-    "source": "/assets/codecs/zane",
-    "image": "/assets/codecs/zane/assets/logo.png"
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/zane/ztrack-tube/payload.js",
+    "source": "https://github.com/iotcommunity-space/codec",
+    "sourceName": "TagoIO Github",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/zane/ztrack-tube/assets/logo.png",
+    "sourceRepo": "https://github.com/iotcommunity-space/codec/tree/main/assets/codecs/zane"
   }
 ]
