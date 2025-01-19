@@ -66,10 +66,10 @@ def rewrite_codecs_json(local_sensor_folders):
                 "slug": sensor_name.lower(),
                 "type": "Sensor",
                 "description": f"Codec for {sensor_name.upper()} (v{latest_version}).",
-                "download": f"https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/{sensor_name}/{latest_version}/payload.js",
+                "download": f"https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/{local_sensor_folders}/{sensor_name}/{latest_version}/payload.js",
                 "source": CODEC_REPO_URL,
                 "sourceName": "TagoIO Github",
-                "image": f"https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/{sensor_name}/{latest_version}/assets/logo.png",
+                "image": f"https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/{local_sensor_folders}/{sensor_name}/{latest_version}/assets/logo.png",
                 "sourceRepo": f"{CODEC_REPO_URL}/tree/main/assets/codecs/{sensor_name}"
             }
             sensor_entries.append(entry)
