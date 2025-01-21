@@ -6,7 +6,7 @@ import json
 TAGOIO_BASE_URL = "https://api.github.com/repos/tago-io/decoders/contents/decoders/connector"
 LOCAL_CODEC_PATH = "assets/codecs"
 CODECS_JSON_PATH = "assets/codecs.json"
-CODEC_REPO_URL = "https://github.com/iotcommunity-space/codec"
+CODEC_REPO_URL = "https://github.com/tago-io/decoders/tree/main/decoders/connector"
 
 # Fetch the GitHub token from environment variables
 GITHUB_TOKEN = os.getenv("CODEC_TOKEN")
