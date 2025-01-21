@@ -7,6 +7,7 @@ TAGOIO_BASE_URL = "https://api.github.com/repos/tago-io/decoders/contents/decode
 LOCAL_CODEC_PATH = "assets/codecs"
 CODECS_JSON_PATH = "assets/codecs.json"
 CODEC_REPO_URL = "https://github.com/tago-io/decoders/tree/main/decoders/connector"
+DEFAULT_VERSION = "v1.0.0"  # Assuming all sensors have version v1.0.0
 
 # Fetch the GitHub token from environment variables
 GITHUB_TOKEN = os.getenv("CODEC_TOKEN")
@@ -54,7 +55,7 @@ def sync_sensor_files(folder_content, local_sensor_path):
 
 def process_folder(folder, parent_path):
     """Process a folder, fetch its content, and sync all files and subfolders."""
-    local_sensor_path = os.path.join(LOCAL_CODEC_PATH, parent_path, folder['name'])
+    local_sensor_path = os.path.join(LOCAL_CODEC_PATH, parent_path, folder['name'], DEFAULT_VERSION)
     folder_content = fetch_github_content(folder['url'])
     sync_sensor_files(folder_content, local_sensor_path)
     return folder['name']
@@ -86,25 +87,23 @@ def rewrite_codecs_json(all_sensor_folders):
 
     for parent_folder, subfolders in all_sensor_folders.items():
         for subfolder in subfolders:
-            sensor_path = os.path.join(LOCAL_CODEC_PATH, parent_folder, subfolder)
+            sensor_path = os.path.join(LOCAL_CODEC_PATH, parent_folder, subfolder, DEFAULT_VERSION)
             if not os.path.isdir(sensor_path):
                 continue
 
-            # Check for the presence of files
-            files = [f for f in os.listdir(sensor_path) if os.path.isfile(os.path.join(sensor_path, f))]
-            if files:
-                entry = {
-                    "name": f"{parent_folder.upper()} - {subfolder}",
-                    "slug": f"{parent_folder.lower()}-{subfolder.lower()}",
-                    "type": "Sensor",
-                    "description": f"Codec for {parent_folder.upper()} - {subfolder}.",
-                    "download": f"https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/{parent_folder}/{subfolder}/payload.js",
-                    "source": CODEC_REPO_URL,
-                    "sourceName": "TagoIO Github",
-                    "image": f"https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/{parent_folder}/{subfolder}/assets/logo.png",
-                    "sourceRepo": f"{CODEC_REPO_URL}/tree/main/assets/codecs/{parent_folder}/{subfolder}"
-                }
-                sensor_entries.append(entry)
+            # Write JSON entry for each sensor
+            entry = {
+                "name": f"{parent_folder.upper()} - {subfolder.replace('-', ' ').title()}",
+                "slug": f"{parent_folder.lower()}-{subfolder.lower()}",
+                "type": "Sensor",
+                "description": f"Codec for {parent_folder.upper()} - {subfolder.title()} ({DEFAULT_VERSION}).",
+                "download": f"https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/{parent_folder}/{subfolder}/{DEFAULT_VERSION}/payload.js",
+                "source": CODEC_REPO_URL,
+                "sourceName": "TagoIO Github",
+                "image": f"https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/{parent_folder}/{subfolder}/{DEFAULT_VERSION}/assets/logo.png",
+                "sourceRepo": f"{CODEC_REPO_URL}/tree/main/assets/codecs/{parent_folder}/{subfolder}"
+            }
+            sensor_entries.append(entry)
 
     # Write to codecs.json
     with open(CODECS_JSON_PATH, "w") as f:
