@@ -1,0 +1,1 @@
+DL-PR21 is a pressure/liquid level and temperature sensor with g1/4" pipe thread over LoRaWAN®
