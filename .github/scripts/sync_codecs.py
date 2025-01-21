@@ -91,17 +91,23 @@ def rewrite_codecs_json(all_sensor_folders):
             if not os.path.isdir(sensor_path):
                 continue
 
+            # Generate slug correctly
+            slug = f"{parent_folder.lower()}-{subfolder.lower()}".replace(" ", "-").replace("--", "-")
+
+            # Construct sourceRepo correctly
+            source_repo = f"https://github.com/tago-io/decoders/tree/main/decoders/connector/{parent_folder}/{subfolder}"
+
             # Write JSON entry for each sensor
             entry = {
                 "name": f"{parent_folder.upper()} - {subfolder.replace('-', ' ').title()}",
-                "slug": f"{parent_folder.lower()}-{subfolder.lower()}",
+                "slug": slug,
                 "type": "Sensor",
                 "description": f"Codec for {parent_folder.upper()} - {subfolder.title()} ({DEFAULT_VERSION}).",
                 "download": f"https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/{parent_folder}/{subfolder}/{DEFAULT_VERSION}/payload.js",
                 "source": CODEC_REPO_URL,
                 "sourceName": "TagoIO Github",
                 "image": f"https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/{parent_folder}/{subfolder}/{DEFAULT_VERSION}/assets/logo.png",
-                "sourceRepo": f"{CODEC_REPO_URL}/tree/main/assets/codecs/{parent_folder}/{subfolder}"
+                "sourceRepo": source_repo
             }
             sensor_entries.append(entry)
 
