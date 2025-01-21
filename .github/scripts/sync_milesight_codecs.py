@@ -61,7 +61,7 @@ def process_sensor(sensor_content, series_name, sensor_name):
             download_file(item['download_url'], file_path)
 
             if item['name'].endswith(".js"):
-                sensor_metadata["download"] = item['download_url"]
+                sensor_metadata["download"] = item['download_url']
             elif item['name'].endswith(".png") and sensor_metadata["image"] is None:
                 sensor_metadata["image"] = item['download_url']
             elif item['name'].endswith(".md"):
