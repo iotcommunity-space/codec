@@ -1,4 +1,4 @@
-name: Sync All Sensors Codecs
+name: Sync All Codecs
 
 on:
   schedule:
