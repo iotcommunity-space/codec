@@ -29,11 +29,10 @@ def fetch_github_content(url):
 def generate_unique_slug(slug, existing_slugs):
     """Generate a unique slug by appending a version suffix if needed."""
     if slug not in existing_slugs:
-        return slug  # Return original if it's unique
+        return slug  # Return original if unique
 
     counter = 1
     new_slug = f"{slug}-v{counter}"
-    
     while new_slug in existing_slugs:
         counter += 1
         new_slug = f"{slug}-v{counter}"
@@ -42,7 +41,7 @@ def generate_unique_slug(slug, existing_slugs):
 
 def process_sensor(sensor_content, vendor_name, existing_slugs):
     """Process a single sensor and gather its metadata while ensuring unique slugs."""
-    base_slug = vendor_name.lower().replace("_", "-")
+    base_slug = f"ttn-smart-sensor-{vendor_name.lower().replace('_', '-')}"
     unique_slug = generate_unique_slug(base_slug, existing_slugs)
 
     sensor_metadata = {
@@ -101,7 +100,6 @@ def sync_ttn_codecs():
     vendors = fetch_github_content(TTN_VENDOR_URL)
     all_new_codecs = []
 
-    # Load existing codecs to track unique slugs
     try:
         with open(CODECS_JSON_PATH, "r") as f:
             existing_codecs = json.load(f)
