@@ -79,6 +79,19 @@ def fetch_all_sensors():
     return all_sensor_folders
 
 
+def generate_unique_slug(slug, existing_slugs):
+    """Generate a unique slug by appending a version suffix if needed."""
+    if slug not in existing_slugs:
+        return slug
+
+    counter = 1
+    new_slug = f"{slug}-v{counter}"
+    while new_slug in existing_slugs:
+        counter += 1
+        new_slug = f"{slug}-v{counter}"
+    return new_slug
+
+
 def rewrite_codecs_json(all_sensor_folders):
     """Rewrite the codecs.json file with the updated sensor information."""
     sensor_entries = []
@@ -90,9 +103,13 @@ def rewrite_codecs_json(all_sensor_folders):
                 continue
 
             slug = f"{parent_folder.lower()}-{subfolder.lower()}".replace(" ", "-").replace("--", "-")
+            existing_slugs = {entry["slug"] for entry in sensor_entries}
+
+            unique_slug = generate_unique_slug(slug, existing_slugs)
+
             entry = {
                 "name": f"DRAGINO - {subfolder.replace('-', ' ').title()}",
-                "slug": slug,
+                "slug": unique_slug,
                 "type": "Sensor",
                 "description": f"Codec for DRAGINO - {subfolder.title()} ({DEFAULT_VERSION}).",
                 "download": f"https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/{parent_folder}/{subfolder}/{DEFAULT_VERSION}/decoder.txt",
