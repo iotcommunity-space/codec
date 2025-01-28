@@ -39,6 +39,11 @@ jobs:
           CODEC_TOKEN: ${{ secrets.CODEC_TOKEN }}
         run: python .github/scripts/sync_dragino_codecs.py
 
+      - name: Sync All Sensor Codecs
+        env:
+          CODEC_TOKEN: ${{ secrets.CODEC_TOKEN }}
+        run: python .github/scripts/sync_all_ttn.py
+
       - name: Commit and Push Changes
         env:
           GITHUB_TOKEN: ${{ secrets.CODEC_TOKEN }}
