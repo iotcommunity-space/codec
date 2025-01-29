@@ -5860,7 +5860,7 @@
   },
   {
     "name": "TTN Smart Sensor (Abeeway)",
-    "slug": "abeeway",
+    "slug": "ttn-smart-sensor-abeeway",
     "type": "Sensor",
     "description": "Codec for Abeeway",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -5872,7 +5872,7 @@
   },
   {
     "name": "TTN Smart Sensor (Accuwatch)",
-    "slug": "accuwatch",
+    "slug": "ttn-smart-sensor-accuwatch",
     "type": "Sensor",
     "description": "Codec for Accuwatch",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -5884,7 +5884,7 @@
   },
   {
     "name": "TTN Smart Sensor (Acrios)",
-    "slug": "acrios",
+    "slug": "ttn-smart-sensor-acrios",
     "type": "Sensor",
     "description": "Codec for Acrios",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -5896,7 +5896,7 @@
   },
   {
     "name": "TTN Smart Sensor (Adeunis)",
-    "slug": "adeunis",
+    "slug": "ttn-smart-sensor-adeunis",
     "type": "Sensor",
     "description": "Codec for Adeunis",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -5908,7 +5908,7 @@
   },
   {
     "name": "TTN Smart Sensor (Agriseen)",
-    "slug": "agriseen",
+    "slug": "ttn-smart-sensor-agriseen",
     "type": "Sensor",
     "description": "Codec for Agriseen",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -5920,7 +5920,7 @@
   },
   {
     "name": "TTN Smart Sensor (Alpha-Omega-Technology)",
-    "slug": "alpha-omega-technology",
+    "slug": "ttn-smart-sensor-alpha-omega-technology",
     "type": "Sensor",
     "description": "Codec for Alpha-Omega-Technology",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -5932,7 +5932,7 @@
   },
   {
     "name": "TTN Smart Sensor (Ambitlocker)",
-    "slug": "ambitlocker",
+    "slug": "ttn-smart-sensor-ambitlocker",
     "type": "Sensor",
     "description": "Codec for Ambitlocker",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -5944,7 +5944,7 @@
   },
   {
     "name": "TTN Smart Sensor (Aquascope)",
-    "slug": "aquascope",
+    "slug": "ttn-smart-sensor-aquascope",
     "type": "Sensor",
     "description": "Codec for Aquascope",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -5956,7 +5956,7 @@
   },
   {
     "name": "TTN Smart Sensor (Arduino)",
-    "slug": "arduino",
+    "slug": "ttn-smart-sensor-arduino",
     "type": "Sensor",
     "description": "Codec for Arduino",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -5968,7 +5968,7 @@
   },
   {
     "name": "TTN Smart Sensor (Arwin-Technology)",
-    "slug": "arwin-technology",
+    "slug": "ttn-smart-sensor-arwin-technology",
     "type": "Sensor",
     "description": "Codec for Arwin-Technology",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -5980,7 +5980,7 @@
   },
   {
     "name": "TTN Smart Sensor (Atim)",
-    "slug": "atim",
+    "slug": "ttn-smart-sensor-atim",
     "type": "Sensor",
     "description": "Codec for Atim",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -5992,7 +5992,7 @@
   },
   {
     "name": "TTN Smart Sensor (Atomsenses)",
-    "slug": "atomsenses",
+    "slug": "ttn-smart-sensor-atomsenses",
     "type": "Sensor",
     "description": "Codec for Atomsenses",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -6004,7 +6004,7 @@
   },
   {
     "name": "TTN Smart Sensor (Axioma)",
-    "slug": "axioma",
+    "slug": "ttn-smart-sensor-axioma",
     "type": "Sensor",
     "description": "Codec for Axioma",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -6016,7 +6016,7 @@
   },
   {
     "name": "TTN Smart Sensor (B-Meters)",
-    "slug": "b-meters",
+    "slug": "ttn-smart-sensor-b-meters",
     "type": "Sensor",
     "description": "Codec for B-Meters",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -6028,7 +6028,7 @@
   },
   {
     "name": "TTN Smart Sensor (Baylan)",
-    "slug": "baylan",
+    "slug": "ttn-smart-sensor-baylan",
     "type": "Sensor",
     "description": "Codec for Baylan",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -6040,7 +6040,7 @@
   },
   {
     "name": "TTN Smart Sensor (Beiselen)",
-    "slug": "beiselen",
+    "slug": "ttn-smart-sensor-beiselen",
     "type": "Sensor",
     "description": "Codec for Beiselen",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -6052,7 +6052,7 @@
   },
   {
     "name": "TTN Smart Sensor (Bosch)",
-    "slug": "bosch",
+    "slug": "ttn-smart-sensor-bosch",
     "type": "Sensor",
     "description": "Codec for Bosch",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -6064,7 +6064,7 @@
   },
   {
     "name": "TTN Smart Sensor (Browan)",
-    "slug": "browan",
+    "slug": "ttn-smart-sensor-browan",
     "type": "Sensor",
     "description": "Codec for Browan",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -6076,7 +6076,7 @@
   },
   {
     "name": "TTN Smart Sensor (Cicicom)",
-    "slug": "cicicom",
+    "slug": "ttn-smart-sensor-cicicom",
     "type": "Sensor",
     "description": "Codec for Cicicom",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -6088,7 +6088,7 @@
   },
   {
     "name": "TTN Smart Sensor (Cital)",
-    "slug": "cital",
+    "slug": "ttn-smart-sensor-cital",
     "type": "Sensor",
     "description": "Codec for Cital",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -6100,7 +6100,7 @@
   },
   {
     "name": "TTN Smart Sensor (Comtac)",
-    "slug": "comtac",
+    "slug": "ttn-smart-sensor-comtac",
     "type": "Sensor",
     "description": "Codec for Comtac",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -6112,7 +6112,7 @@
   },
   {
     "name": "TTN Smart Sensor (Cotx)",
-    "slug": "cotx",
+    "slug": "ttn-smart-sensor-cotx",
     "type": "Sensor",
     "description": "Codec for Cotx",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -6124,7 +6124,7 @@
   },
   {
     "name": "TTN Smart Sensor (Decentlab)",
-    "slug": "decentlab",
+    "slug": "ttn-smart-sensor-decentlab",
     "type": "Sensor",
     "description": "Codec for Decentlab",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -6136,7 +6136,7 @@
   },
   {
     "name": "TTN Smart Sensor (Develiot)",
-    "slug": "develiot",
+    "slug": "ttn-smart-sensor-develiot",
     "type": "Sensor",
     "description": "Codec for Develiot",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -6148,7 +6148,7 @@
   },
   {
     "name": "TTN Smart Sensor (Dezem)",
-    "slug": "dezem",
+    "slug": "ttn-smart-sensor-dezem",
     "type": "Sensor",
     "description": "Codec for Dezem",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -6160,7 +6160,7 @@
   },
   {
     "name": "TTN Smart Sensor (Digital-Matter)",
-    "slug": "digital-matter",
+    "slug": "ttn-smart-sensor-digital-matter",
     "type": "Sensor",
     "description": "Codec for Digital-Matter",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -6172,7 +6172,7 @@
   },
   {
     "name": "TTN Smart Sensor (Dingtek)",
-    "slug": "dingtek",
+    "slug": "ttn-smart-sensor-dingtek",
     "type": "Sensor",
     "description": "Codec for Dingtek",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -6184,7 +6184,7 @@
   },
   {
     "name": "TTN Smart Sensor (Dnt)",
-    "slug": "dnt",
+    "slug": "ttn-smart-sensor-dnt",
     "type": "Sensor",
     "description": "Codec for Dnt",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -6196,7 +6196,7 @@
   },
   {
     "name": "TTN Smart Sensor (Dragino)",
-    "slug": "dragino",
+    "slug": "ttn-smart-sensor-dragino",
     "type": "Sensor",
     "description": "Codec for Dragino",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -6208,7 +6208,7 @@
   },
   {
     "name": "TTN Smart Sensor (Ellenex)",
-    "slug": "ellenex",
+    "slug": "ttn-smart-sensor-ellenex",
     "type": "Sensor",
     "description": "Codec for Ellenex",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -6220,7 +6220,7 @@
   },
   {
     "name": "TTN Smart Sensor (Elspina)",
-    "slug": "elspina",
+    "slug": "ttn-smart-sensor-elspina",
     "type": "Sensor",
     "description": "Codec for Elspina",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -6232,7 +6232,7 @@
   },
   {
     "name": "TTN Smart Sensor (Elster)",
-    "slug": "elster",
+    "slug": "ttn-smart-sensor-elster",
     "type": "Sensor",
     "description": "Codec for Elster",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -6244,7 +6244,7 @@
   },
   {
     "name": "TTN Smart Sensor (Elsys)",
-    "slug": "elsys",
+    "slug": "ttn-smart-sensor-elsys",
     "type": "Sensor",
     "description": "Codec for Elsys",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -6256,7 +6256,7 @@
   },
   {
     "name": "TTN Smart Sensor (Elv)",
-    "slug": "elv",
+    "slug": "ttn-smart-sensor-elv",
     "type": "Sensor",
     "description": "Codec for Elv",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -6268,7 +6268,7 @@
   },
   {
     "name": "TTN Smart Sensor (Elvaco)",
-    "slug": "elvaco",
+    "slug": "ttn-smart-sensor-elvaco",
     "type": "Sensor",
     "description": "Codec for Elvaco",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -6280,7 +6280,7 @@
   },
   {
     "name": "TTN Smart Sensor (Embit)",
-    "slug": "embit",
+    "slug": "ttn-smart-sensor-embit",
     "type": "Sensor",
     "description": "Codec for Embit",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -6292,7 +6292,7 @@
   },
   {
     "name": "TTN Smart Sensor (Emu)",
-    "slug": "emu",
+    "slug": "ttn-smart-sensor-emu",
     "type": "Sensor",
     "description": "Codec for Emu",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -6304,7 +6304,7 @@
   },
   {
     "name": "TTN Smart Sensor (Enginko)",
-    "slug": "enginko",
+    "slug": "ttn-smart-sensor-enginko",
     "type": "Sensor",
     "description": "Codec for Enginko",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -6316,7 +6316,7 @@
   },
   {
     "name": "TTN Smart Sensor (Enless-Wireless)",
-    "slug": "enless-wireless",
+    "slug": "ttn-smart-sensor-enless-wireless",
     "type": "Sensor",
     "description": "Codec for Enless-Wireless",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -6328,7 +6328,7 @@
   },
   {
     "name": "TTN Smart Sensor (Enthutech)",
-    "slug": "enthutech",
+    "slug": "ttn-smart-sensor-enthutech",
     "type": "Sensor",
     "description": "Codec for Enthutech",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -6340,7 +6340,7 @@
   },
   {
     "name": "TTN Smart Sensor (Espeasy)",
-    "slug": "espeasy",
+    "slug": "ttn-smart-sensor-espeasy",
     "type": "Sensor",
     "description": "Codec for Espeasy",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -6352,7 +6352,7 @@
   },
   {
     "name": "TTN Smart Sensor (Ewattch)",
-    "slug": "ewattch",
+    "slug": "ttn-smart-sensor-ewattch",
     "type": "Sensor",
     "description": "Codec for Ewattch",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -6364,7 +6364,7 @@
   },
   {
     "name": "TTN Smart Sensor (Example)",
-    "slug": "example",
+    "slug": "ttn-smart-sensor-example",
     "type": "Sensor",
     "description": "Codec for Example",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -6376,7 +6376,7 @@
   },
   {
     "name": "TTN Smart Sensor (Fludia)",
-    "slug": "fludia",
+    "slug": "ttn-smart-sensor-fludia",
     "type": "Sensor",
     "description": "Codec for Fludia",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -6388,7 +6388,7 @@
   },
   {
     "name": "TTN Smart Sensor (Greenme)",
-    "slug": "greenme",
+    "slug": "ttn-smart-sensor-greenme",
     "type": "Sensor",
     "description": "Codec for Greenme",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -6400,7 +6400,7 @@
   },
   {
     "name": "TTN Smart Sensor (Gwf)",
-    "slug": "gwf",
+    "slug": "ttn-smart-sensor-gwf",
     "type": "Sensor",
     "description": "Codec for Gwf",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -6412,7 +6412,7 @@
   },
   {
     "name": "TTN Smart Sensor (Hbi)",
-    "slug": "hbi",
+    "slug": "ttn-smart-sensor-hbi",
     "type": "Sensor",
     "description": "Codec for Hbi",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -6424,7 +6424,7 @@
   },
   {
     "name": "TTN Smart Sensor (Heltec)",
-    "slug": "heltec",
+    "slug": "ttn-smart-sensor-heltec",
     "type": "Sensor",
     "description": "Codec for Heltec",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -6436,7 +6436,7 @@
   },
   {
     "name": "TTN Smart Sensor (Hermann-Sewerin)",
-    "slug": "hermann-sewerin",
+    "slug": "ttn-smart-sensor-hermann-sewerin",
     "type": "Sensor",
     "description": "Codec for Hermann-Sewerin",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -6448,7 +6448,7 @@
   },
   {
     "name": "TTN Smart Sensor (Ht-Micron)",
-    "slug": "ht-micron",
+    "slug": "ttn-smart-sensor-ht-micron",
     "type": "Sensor",
     "description": "Codec for Ht-Micron",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -6460,7 +6460,7 @@
   },
   {
     "name": "TTN Smart Sensor (Imbuildings)",
-    "slug": "imbuildings",
+    "slug": "ttn-smart-sensor-imbuildings",
     "type": "Sensor",
     "description": "Codec for Imbuildings",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -6472,7 +6472,7 @@
   },
   {
     "name": "TTN Smart Sensor (Imst)",
-    "slug": "imst",
+    "slug": "ttn-smart-sensor-imst",
     "type": "Sensor",
     "description": "Codec for Imst",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -6484,7 +6484,7 @@
   },
   {
     "name": "TTN Smart Sensor (Infrafon)",
-    "slug": "infrafon",
+    "slug": "ttn-smart-sensor-infrafon",
     "type": "Sensor",
     "description": "Codec for Infrafon",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -6496,7 +6496,7 @@
   },
   {
     "name": "TTN Smart Sensor (Innotas)",
-    "slug": "innotas",
+    "slug": "ttn-smart-sensor-innotas",
     "type": "Sensor",
     "description": "Codec for Innotas",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -6508,7 +6508,7 @@
   },
   {
     "name": "TTN Smart Sensor (Iot-Factory)",
-    "slug": "iot-factory",
+    "slug": "ttn-smart-sensor-iot-factory",
     "type": "Sensor",
     "description": "Codec for Iot-Factory",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -6520,7 +6520,7 @@
   },
   {
     "name": "TTN Smart Sensor (Iot4Eu)",
-    "slug": "iot4eu",
+    "slug": "ttn-smart-sensor-iot4eu",
     "type": "Sensor",
     "description": "Codec for Iot4Eu",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -6532,7 +6532,7 @@
   },
   {
     "name": "TTN Smart Sensor (Iothings)",
-    "slug": "iothings",
+    "slug": "ttn-smart-sensor-iothings",
     "type": "Sensor",
     "description": "Codec for Iothings",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -6544,7 +6544,7 @@
   },
   {
     "name": "TTN Smart Sensor (Iotsens)",
-    "slug": "iotsens",
+    "slug": "ttn-smart-sensor-iotsens",
     "type": "Sensor",
     "description": "Codec for Iotsens",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -6556,7 +6556,7 @@
   },
   {
     "name": "TTN Smart Sensor (Izinto)",
-    "slug": "izinto",
+    "slug": "ttn-smart-sensor-izinto",
     "type": "Sensor",
     "description": "Codec for Izinto",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -6568,7 +6568,7 @@
   },
   {
     "name": "TTN Smart Sensor (Jeng-Iot)",
-    "slug": "jeng-iot",
+    "slug": "ttn-smart-sensor-jeng-iot",
     "type": "Sensor",
     "description": "Codec for Jeng-Iot",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -6580,7 +6580,7 @@
   },
   {
     "name": "TTN Smart Sensor (Jooby)",
-    "slug": "jooby",
+    "slug": "ttn-smart-sensor-jooby",
     "type": "Sensor",
     "description": "Codec for Jooby",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -6592,7 +6592,7 @@
   },
   {
     "name": "TTN Smart Sensor (Kamstrup)",
-    "slug": "kamstrup",
+    "slug": "ttn-smart-sensor-kamstrup",
     "type": "Sensor",
     "description": "Codec for Kamstrup",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -6604,7 +6604,7 @@
   },
   {
     "name": "TTN Smart Sensor (Keller)",
-    "slug": "keller",
+    "slug": "ttn-smart-sensor-keller",
     "type": "Sensor",
     "description": "Codec for Keller",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -6616,7 +6616,7 @@
   },
   {
     "name": "TTN Smart Sensor (Koidra)",
-    "slug": "koidra",
+    "slug": "ttn-smart-sensor-koidra",
     "type": "Sensor",
     "description": "Codec for Koidra",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -6628,7 +6628,7 @@
   },
   {
     "name": "TTN Smart Sensor (Ks-Technologies)",
-    "slug": "ks-technologies",
+    "slug": "ttn-smart-sensor-ks-technologies",
     "type": "Sensor",
     "description": "Codec for Ks-Technologies",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -6640,7 +6640,7 @@
   },
   {
     "name": "TTN Smart Sensor (Kuleuven-Dramco)",
-    "slug": "kuleuven-dramco",
+    "slug": "ttn-smart-sensor-kuleuven-dramco",
     "type": "Sensor",
     "description": "Codec for Kuleuven-Dramco",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -6652,7 +6652,7 @@
   },
   {
     "name": "TTN Smart Sensor (Laird)",
-    "slug": "laird",
+    "slug": "ttn-smart-sensor-laird",
     "type": "Sensor",
     "description": "Codec for Laird",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -6664,7 +6664,7 @@
   },
   {
     "name": "TTN Smart Sensor (Lansitec)",
-    "slug": "lansitec",
+    "slug": "ttn-smart-sensor-lansitec",
     "type": "Sensor",
     "description": "Codec for Lansitec",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -6676,7 +6676,7 @@
   },
   {
     "name": "TTN Smart Sensor (Lualtek)",
-    "slug": "lualtek",
+    "slug": "ttn-smart-sensor-lualtek",
     "type": "Sensor",
     "description": "Codec for Lualtek",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -6688,7 +6688,7 @@
   },
   {
     "name": "TTN Smart Sensor (Makerfabs)",
-    "slug": "makerfabs",
+    "slug": "ttn-smart-sensor-makerfabs",
     "type": "Sensor",
     "description": "Codec for Makerfabs",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -6700,7 +6700,7 @@
   },
   {
     "name": "TTN Smart Sensor (Mcci)",
-    "slug": "mcci",
+    "slug": "ttn-smart-sensor-mcci",
     "type": "Sensor",
     "description": "Codec for Mcci",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -6712,7 +6712,7 @@
   },
   {
     "name": "TTN Smart Sensor (Mcf88)",
-    "slug": "mcf88",
+    "slug": "ttn-smart-sensor-mcf88",
     "type": "Sensor",
     "description": "Codec for Mcf88",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -6724,7 +6724,7 @@
   },
   {
     "name": "TTN Smart Sensor (Mclimate)",
-    "slug": "mclimate",
+    "slug": "ttn-smart-sensor-mclimate",
     "type": "Sensor",
     "description": "Codec for Mclimate",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -6736,7 +6736,7 @@
   },
   {
     "name": "TTN Smart Sensor (Micropelt)",
-    "slug": "micropelt",
+    "slug": "ttn-smart-sensor-micropelt",
     "type": "Sensor",
     "description": "Codec for Micropelt",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -6748,7 +6748,7 @@
   },
   {
     "name": "TTN Smart Sensor (Midatronics)",
-    "slug": "midatronics",
+    "slug": "ttn-smart-sensor-midatronics",
     "type": "Sensor",
     "description": "Codec for Midatronics",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -6760,7 +6760,7 @@
   },
   {
     "name": "TTN Smart Sensor (Milesight-Iot)",
-    "slug": "milesight-iot",
+    "slug": "ttn-smart-sensor-milesight-iot",
     "type": "Sensor",
     "description": "Codec for Milesight-Iot",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -6772,7 +6772,7 @@
   },
   {
     "name": "TTN Smart Sensor (Minol-Zenner)",
-    "slug": "minol-zenner",
+    "slug": "ttn-smart-sensor-minol-zenner",
     "type": "Sensor",
     "description": "Codec for Minol-Zenner",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -6784,7 +6784,7 @@
   },
   {
     "name": "TTN Smart Sensor (Moirelabs)",
-    "slug": "moirelabs",
+    "slug": "ttn-smart-sensor-moirelabs",
     "type": "Sensor",
     "description": "Codec for Moirelabs",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -6796,7 +6796,7 @@
   },
   {
     "name": "TTN Smart Sensor (Moko)",
-    "slug": "moko",
+    "slug": "ttn-smart-sensor-moko",
     "type": "Sensor",
     "description": "Codec for Moko",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -6808,7 +6808,7 @@
   },
   {
     "name": "TTN Smart Sensor (Move-X)",
-    "slug": "move-x",
+    "slug": "ttn-smart-sensor-move-x",
     "type": "Sensor",
     "description": "Codec for Move-X",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -6820,7 +6820,7 @@
   },
   {
     "name": "TTN Smart Sensor (Multi-Tech)",
-    "slug": "multi-tech",
+    "slug": "ttn-smart-sensor-multi-tech",
     "type": "Sensor",
     "description": "Codec for Multi-Tech",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -6832,7 +6832,7 @@
   },
   {
     "name": "TTN Smart Sensor (Mutelcor)",
-    "slug": "mutelcor",
+    "slug": "ttn-smart-sensor-mutelcor",
     "type": "Sensor",
     "description": "Codec for Mutelcor",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -6844,7 +6844,7 @@
   },
   {
     "name": "TTN Smart Sensor (N-Fuse)",
-    "slug": "n-fuse",
+    "slug": "ttn-smart-sensor-n-fuse",
     "type": "Sensor",
     "description": "Codec for N-Fuse",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -6856,7 +6856,7 @@
   },
   {
     "name": "TTN Smart Sensor (Netvox)",
-    "slug": "netvox",
+    "slug": "ttn-smart-sensor-netvox",
     "type": "Sensor",
     "description": "Codec for Netvox",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -6868,7 +6868,7 @@
   },
   {
     "name": "TTN Smart Sensor (Nexelec)",
-    "slug": "nexelec",
+    "slug": "ttn-smart-sensor-nexelec",
     "type": "Sensor",
     "description": "Codec for Nexelec",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -6880,7 +6880,7 @@
   },
   {
     "name": "TTN Smart Sensor (Nke-Watteco)",
-    "slug": "nke-watteco",
+    "slug": "ttn-smart-sensor-nke-watteco",
     "type": "Sensor",
     "description": "Codec for Nke-Watteco",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -6892,7 +6892,7 @@
   },
   {
     "name": "TTN Smart Sensor (Noah)",
-    "slug": "noah",
+    "slug": "ttn-smart-sensor-noah",
     "type": "Sensor",
     "description": "Codec for Noah",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -6904,7 +6904,7 @@
   },
   {
     "name": "TTN Smart Sensor (Nwave)",
-    "slug": "nwave",
+    "slug": "ttn-smart-sensor-nwave",
     "type": "Sensor",
     "description": "Codec for Nwave",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -6916,7 +6916,7 @@
   },
   {
     "name": "TTN Smart Sensor (Onethinx)",
-    "slug": "onethinx",
+    "slug": "ttn-smart-sensor-onethinx",
     "type": "Sensor",
     "description": "Codec for Onethinx",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -6928,7 +6928,7 @@
   },
   {
     "name": "TTN Smart Sensor (Open-Boat-Projects)",
-    "slug": "open-boat-projects",
+    "slug": "ttn-smart-sensor-open-boat-projects",
     "type": "Sensor",
     "description": "Codec for Open-Boat-Projects",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -6940,7 +6940,7 @@
   },
   {
     "name": "TTN Smart Sensor (Opensource)",
-    "slug": "opensource",
+    "slug": "ttn-smart-sensor-opensource",
     "type": "Sensor",
     "description": "Codec for Opensource",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -6952,7 +6952,7 @@
   },
   {
     "name": "TTN Smart Sensor (Orbiwise)",
-    "slug": "orbiwise",
+    "slug": "ttn-smart-sensor-orbiwise",
     "type": "Sensor",
     "description": "Codec for Orbiwise",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -6964,7 +6964,7 @@
   },
   {
     "name": "TTN Smart Sensor (Origoelec)",
-    "slug": "origoelec",
+    "slug": "ttn-smart-sensor-origoelec",
     "type": "Sensor",
     "description": "Codec for Origoelec",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -6976,7 +6976,7 @@
   },
   {
     "name": "TTN Smart Sensor (Parametric)",
-    "slug": "parametric",
+    "slug": "ttn-smart-sensor-parametric",
     "type": "Sensor",
     "description": "Codec for Parametric",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -6988,7 +6988,7 @@
   },
   {
     "name": "TTN Smart Sensor (Pepperl-Fuchs)",
-    "slug": "pepperl-fuchs",
+    "slug": "ttn-smart-sensor-pepperl-fuchs",
     "type": "Sensor",
     "description": "Codec for Pepperl-Fuchs",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -7000,7 +7000,7 @@
   },
   {
     "name": "TTN Smart Sensor (Plenom)",
-    "slug": "plenom",
+    "slug": "ttn-smart-sensor-plenom",
     "type": "Sensor",
     "description": "Codec for Plenom",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -7012,7 +7012,7 @@
   },
   {
     "name": "TTN Smart Sensor (Quandify)",
-    "slug": "quandify",
+    "slug": "ttn-smart-sensor-quandify",
     "type": "Sensor",
     "description": "Codec for Quandify",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -7024,7 +7024,7 @@
   },
   {
     "name": "TTN Smart Sensor (Radio-Bridge)",
-    "slug": "radio-bridge",
+    "slug": "ttn-smart-sensor-radio-bridge",
     "type": "Sensor",
     "description": "Codec for Radio-Bridge",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -7036,7 +7036,7 @@
   },
   {
     "name": "TTN Smart Sensor (Rakwireless)",
-    "slug": "rakwireless",
+    "slug": "ttn-smart-sensor-rakwireless",
     "type": "Sensor",
     "description": "Codec for Rakwireless",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -7048,7 +7048,7 @@
   },
   {
     "name": "TTN Smart Sensor (Redz)",
-    "slug": "redz",
+    "slug": "ttn-smart-sensor-redz",
     "type": "Sensor",
     "description": "Codec for Redz",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -7060,7 +7060,7 @@
   },
   {
     "name": "TTN Smart Sensor (Restotracker)",
-    "slug": "restotracker",
+    "slug": "ttn-smart-sensor-restotracker",
     "type": "Sensor",
     "description": "Codec for Restotracker",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -7072,7 +7072,7 @@
   },
   {
     "name": "TTN Smart Sensor (Rivercity-Innovations)",
-    "slug": "rivercity-innovations",
+    "slug": "ttn-smart-sensor-rivercity-innovations",
     "type": "Sensor",
     "description": "Codec for Rivercity-Innovations",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -7084,7 +7084,7 @@
   },
   {
     "name": "TTN Smart Sensor (Ruixinghengfang-Network)",
-    "slug": "ruixinghengfang-network",
+    "slug": "ttn-smart-sensor-ruixinghengfang-network",
     "type": "Sensor",
     "description": "Codec for Ruixinghengfang-Network",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -7096,7 +7096,7 @@
   },
   {
     "name": "TTN Smart Sensor (Saninudge)",
-    "slug": "saninudge",
+    "slug": "ttn-smart-sensor-saninudge",
     "type": "Sensor",
     "description": "Codec for Saninudge",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -7108,7 +7108,7 @@
   },
   {
     "name": "TTN Smart Sensor (Seeed)",
-    "slug": "seeed",
+    "slug": "ttn-smart-sensor-seeed",
     "type": "Sensor",
     "description": "Codec for Seeed",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -7120,7 +7120,7 @@
   },
   {
     "name": "TTN Smart Sensor (Sensative)",
-    "slug": "sensative",
+    "slug": "ttn-smart-sensor-sensative",
     "type": "Sensor",
     "description": "Codec for Sensative",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -7132,7 +7132,7 @@
   },
   {
     "name": "TTN Smart Sensor (Sensecap)",
-    "slug": "sensecap",
+    "slug": "ttn-smart-sensor-sensecap",
     "type": "Sensor",
     "description": "Codec for Sensecap",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -7144,7 +7144,7 @@
   },
   {
     "name": "TTN Smart Sensor (Sensedge)",
-    "slug": "sensedge",
+    "slug": "ttn-smart-sensor-sensedge",
     "type": "Sensor",
     "description": "Codec for Sensedge",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -7156,7 +7156,7 @@
   },
   {
     "name": "TTN Smart Sensor (Senzemo)",
-    "slug": "senzemo",
+    "slug": "ttn-smart-sensor-senzemo",
     "type": "Sensor",
     "description": "Codec for Senzemo",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -7168,7 +7168,7 @@
   },
   {
     "name": "TTN Smart Sensor (Sezo)",
-    "slug": "sezo",
+    "slug": "ttn-smart-sensor-sezo",
     "type": "Sensor",
     "description": "Codec for Sezo",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -7180,7 +7180,7 @@
   },
   {
     "name": "TTN Smart Sensor (Slscorp)",
-    "slug": "slscorp",
+    "slug": "ttn-smart-sensor-slscorp",
     "type": "Sensor",
     "description": "Codec for Slscorp",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -7192,7 +7192,7 @@
   },
   {
     "name": "TTN Smart Sensor (Smart-Parks)",
-    "slug": "smart-parks",
+    "slug": "ttn-smart-sensor-smart-parks",
     "type": "Sensor",
     "description": "Codec for Smart-Parks",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -7204,7 +7204,7 @@
   },
   {
     "name": "TTN Smart Sensor (Smartrural)",
-    "slug": "smartrural",
+    "slug": "ttn-smart-sensor-smartrural",
     "type": "Sensor",
     "description": "Codec for Smartrural",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -7216,7 +7216,7 @@
   },
   {
     "name": "TTN Smart Sensor (Southerniot)",
-    "slug": "southerniot",
+    "slug": "ttn-smart-sensor-southerniot",
     "type": "Sensor",
     "description": "Codec for Southerniot",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -7228,7 +7228,7 @@
   },
   {
     "name": "TTN Smart Sensor (Sting)",
-    "slug": "sting",
+    "slug": "ttn-smart-sensor-sting",
     "type": "Sensor",
     "description": "Codec for Sting",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -7240,7 +7240,7 @@
   },
   {
     "name": "TTN Smart Sensor (Stmicroelectronics)",
-    "slug": "stmicroelectronics",
+    "slug": "ttn-smart-sensor-stmicroelectronics",
     "type": "Sensor",
     "description": "Codec for Stmicroelectronics",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -7252,7 +7252,7 @@
   },
   {
     "name": "TTN Smart Sensor (Strega)",
-    "slug": "strega",
+    "slug": "ttn-smart-sensor-strega",
     "type": "Sensor",
     "description": "Codec for Strega",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -7264,7 +7264,7 @@
   },
   {
     "name": "TTN Smart Sensor (Talkpool)",
-    "slug": "talkpool",
+    "slug": "ttn-smart-sensor-talkpool",
     "type": "Sensor",
     "description": "Codec for Talkpool",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -7276,7 +7276,7 @@
   },
   {
     "name": "TTN Smart Sensor (Te-Connectivity)",
-    "slug": "te-connectivity",
+    "slug": "ttn-smart-sensor-te-connectivity",
     "type": "Sensor",
     "description": "Codec for Te-Connectivity",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -7288,7 +7288,7 @@
   },
   {
     "name": "TTN Smart Sensor (Tektelic)",
-    "slug": "tektelic",
+    "slug": "ttn-smart-sensor-tektelic",
     "type": "Sensor",
     "description": "Codec for Tektelic",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -7300,7 +7300,7 @@
   },
   {
     "name": "TTN Smart Sensor (Tekzitel)",
-    "slug": "tekzitel",
+    "slug": "ttn-smart-sensor-tekzitel",
     "type": "Sensor",
     "description": "Codec for Tekzitel",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -7312,7 +7312,7 @@
   },
   {
     "name": "TTN Smart Sensor (Teneo-Iot)",
-    "slug": "teneo-iot",
+    "slug": "ttn-smart-sensor-teneo-iot",
     "type": "Sensor",
     "description": "Codec for Teneo-Iot",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -7324,7 +7324,7 @@
   },
   {
     "name": "TTN Smart Sensor (Terabee)",
-    "slug": "terabee",
+    "slug": "ttn-smart-sensor-terabee",
     "type": "Sensor",
     "description": "Codec for Terabee",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -7336,7 +7336,7 @@
   },
   {
     "name": "TTN Smart Sensor (The-Things-Industries)",
-    "slug": "the-things-industries",
+    "slug": "ttn-smart-sensor-the-things-industries",
     "type": "Sensor",
     "description": "Codec for The-Things-Industries",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -7348,7 +7348,7 @@
   },
   {
     "name": "TTN Smart Sensor (The-Things-Products)",
-    "slug": "the-things-products",
+    "slug": "ttn-smart-sensor-the-things-products",
     "type": "Sensor",
     "description": "Codec for The-Things-Products",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -7360,7 +7360,7 @@
   },
   {
     "name": "TTN Smart Sensor (Thermokon)",
-    "slug": "thermokon",
+    "slug": "ttn-smart-sensor-thermokon",
     "type": "Sensor",
     "description": "Codec for Thermokon",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -7372,7 +7372,7 @@
   },
   {
     "name": "TTN Smart Sensor (Thingsofficer)",
-    "slug": "thingsofficer",
+    "slug": "ttn-smart-sensor-thingsofficer",
     "type": "Sensor",
     "description": "Codec for Thingsofficer",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -7384,7 +7384,7 @@
   },
   {
     "name": "TTN Smart Sensor (Tinovi)",
-    "slug": "tinovi",
+    "slug": "ttn-smart-sensor-tinovi",
     "type": "Sensor",
     "description": "Codec for Tinovi",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -7396,7 +7396,7 @@
   },
   {
     "name": "TTN Smart Sensor (Tip)",
-    "slug": "tip",
+    "slug": "ttn-smart-sensor-tip",
     "type": "Sensor",
     "description": "Codec for Tip",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -7408,7 +7408,7 @@
   },
   {
     "name": "TTN Smart Sensor (Twtg)",
-    "slug": "twtg",
+    "slug": "ttn-smart-sensor-twtg",
     "type": "Sensor",
     "description": "Codec for Twtg",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -7420,7 +7420,7 @@
   },
   {
     "name": "TTN Smart Sensor (Uradmonitor)",
-    "slug": "uradmonitor",
+    "slug": "ttn-smart-sensor-uradmonitor",
     "type": "Sensor",
     "description": "Codec for Uradmonitor",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -7432,7 +7432,7 @@
   },
   {
     "name": "TTN Smart Sensor (Volley-Boast)",
-    "slug": "volley-boast",
+    "slug": "ttn-smart-sensor-volley-boast",
     "type": "Sensor",
     "description": "Codec for Volley-Boast",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -7444,7 +7444,7 @@
   },
   {
     "name": "TTN Smart Sensor (Watteco)",
-    "slug": "watteco",
+    "slug": "ttn-smart-sensor-watteco",
     "type": "Sensor",
     "description": "Codec for Watteco",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -7456,7 +7456,7 @@
   },
   {
     "name": "TTN Smart Sensor (Xignal)",
-    "slug": "xignal",
+    "slug": "ttn-smart-sensor-xignal",
     "type": "Sensor",
     "description": "Codec for Xignal",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -7468,7 +7468,7 @@
   },
   {
     "name": "TTN Smart Sensor (Yobiiq)",
-    "slug": "yobiiq",
+    "slug": "ttn-smart-sensor-yobiiq",
     "type": "Sensor",
     "description": "Codec for Yobiiq",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
@@ -7480,7 +7480,7 @@
   },
   {
     "name": "TTN Smart Sensor (Yosensi)",
-    "slug": "yosensi",
+    "slug": "ttn-smart-sensor-yosensi",
     "type": "Sensor",
     "description": "Codec for Yosensi",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
