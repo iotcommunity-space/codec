@@ -5859,6 +5859,17 @@
     "sourceRepo": "https://github.com/Milesight-IoT/SensorDecoders/tree/main/WT_Series/WT30x"
   },
   {
+    "name": "DRAGINO - Workflows",
+    "slug": ".github-workflows",
+    "type": "Sensor",
+    "description": "Codec for DRAGINO - Workflows (v1.0.0).",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/.github/workflows/v1.0.0/decoder.txt",
+    "source": "https://github.com/dragino/dragino-end-node-decoder",
+    "sourceName": "Dragino",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/images/default_logo.png",
+    "sourceRepo": "https://github.com/dragino/dragino-end-node-decoder/tree/main/.github/workflows"
+  },
+  {
     "name": "TTN Smart Sensor (Abeeway)",
     "slug": "ttn-smart-sensor-abeeway",
     "type": "Sensor",
