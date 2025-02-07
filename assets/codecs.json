@@ -5616,6 +5616,18 @@
     "sourceRepo": "https://github.com/Milesight-IoT/SensorDecoders/tree/main/UC_Series/UC51X"
   },
   {
+    "name": "Uc Series - Uc521",
+    "slug": "uc-series-uc521",
+    "type": "Sensor",
+    "description": "Codec for Uc Series - Uc521.",
+    "source": "https://github.com/Milesight-IoT/SensorDecoders",
+    "sourceName": "Milesight-IoT",
+    "image": null,
+    "download": "https://raw.githubusercontent.com/Milesight-IoT/SensorDecoders/main/UC_Series/UC521/UC521_Cellular.js",
+    "readme": "No README available",
+    "sourceRepo": "https://github.com/Milesight-IoT/SensorDecoders/tree/main/UC_Series/UC521"
+  },
+  {
     "name": "Vs Series - Vs121",
     "slug": "vs-series-vs121",
     "type": "Sensor",
