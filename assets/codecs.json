@@ -1133,6 +1133,17 @@
     "sourceRepo": "https://github.com/tago-io/decoders/tree/main/decoders/connector/decentlab/dl-zn2"
   },
   {
+    "name": "DIGI-X-ON - Custom Digi Xon",
+    "slug": "digi-x-on-custom-digi-xon",
+    "type": "Sensor",
+    "description": "Codec for DIGI-X-ON - Custom-Digi-Xon (v1.0.0).",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/digi-x-on/custom-digi-xon/v1.0.0/payload.js",
+    "source": "https://github.com/tago-io/decoders/tree/main/decoders/connector",
+    "sourceName": "TagoIO Github",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/digi-x-on/custom-digi-xon/v1.0.0/assets/logo.png",
+    "sourceRepo": "https://github.com/tago-io/decoders/tree/main/decoders/connector/digi-x-on/custom-digi-xon"
+  },
+  {
     "name": "DIGITAL-MATTER - Matter Falcon",
     "slug": "digital-matter-matter-falcon",
     "type": "Sensor",
