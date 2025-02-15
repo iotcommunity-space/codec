@@ -4917,6 +4917,50 @@
     "sourceRepo": "https://github.com/tago-io/decoders/tree/main/decoders/connector/vnode-automation/vnode"
   },
   {
+    "name": "VOLLEY-BOAST - Vobo Gp 1",
+    "slug": "volley-boast-vobo-gp-1",
+    "type": "Sensor",
+    "description": "Codec for VOLLEY-BOAST - Vobo-Gp-1 (v1.0.0).",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/volley-boast/vobo-gp-1/v1.0.0/payload.js",
+    "source": "https://github.com/tago-io/decoders/tree/main/decoders/connector",
+    "sourceName": "TagoIO Github",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/volley-boast/vobo-gp-1/v1.0.0/assets/logo.png",
+    "sourceRepo": "https://github.com/tago-io/decoders/tree/main/decoders/connector/volley-boast/vobo-gp-1"
+  },
+  {
+    "name": "VOLLEY-BOAST - Vobo Hl 1",
+    "slug": "volley-boast-vobo-hl-1",
+    "type": "Sensor",
+    "description": "Codec for VOLLEY-BOAST - Vobo-Hl-1 (v1.0.0).",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/volley-boast/vobo-hl-1/v1.0.0/payload.js",
+    "source": "https://github.com/tago-io/decoders/tree/main/decoders/connector",
+    "sourceName": "TagoIO Github",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/volley-boast/vobo-hl-1/v1.0.0/assets/logo.png",
+    "sourceRepo": "https://github.com/tago-io/decoders/tree/main/decoders/connector/volley-boast/vobo-hl-1"
+  },
+  {
+    "name": "VOLLEY-BOAST - Vobo Tc",
+    "slug": "volley-boast-vobo-tc",
+    "type": "Sensor",
+    "description": "Codec for VOLLEY-BOAST - Vobo-Tc (v1.0.0).",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/volley-boast/vobo-tc/v1.0.0/payload.js",
+    "source": "https://github.com/tago-io/decoders/tree/main/decoders/connector",
+    "sourceName": "TagoIO Github",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/volley-boast/vobo-tc/v1.0.0/assets/logo.png",
+    "sourceRepo": "https://github.com/tago-io/decoders/tree/main/decoders/connector/volley-boast/vobo-tc"
+  },
+  {
+    "name": "VOLLEY-BOAST - Vobo Xp",
+    "slug": "volley-boast-vobo-xp",
+    "type": "Sensor",
+    "description": "Codec for VOLLEY-BOAST - Vobo-Xp (v1.0.0).",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/volley-boast/vobo-xp/v1.0.0/payload.js",
+    "source": "https://github.com/tago-io/decoders/tree/main/decoders/connector",
+    "sourceName": "TagoIO Github",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/volley-boast/vobo-xp/v1.0.0/assets/logo.png",
+    "sourceRepo": "https://github.com/tago-io/decoders/tree/main/decoders/connector/volley-boast/vobo-xp"
+  },
+  {
     "name": "WATTECO - Atmo Sensor",
     "slug": "watteco-atmo-sensor",
     "type": "Sensor",
