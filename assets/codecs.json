@@ -3190,6 +3190,17 @@
     "sourceRepo": "https://github.com/tago-io/decoders/tree/main/decoders/connector/milesight/em500-udl"
   },
   {
+    "name": "MILESIGHT - Ts30X",
+    "slug": "milesight-ts30x",
+    "type": "Sensor",
+    "description": "Codec for MILESIGHT - Ts30X (v1.0.0).",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/milesight/ts30x/v1.0.0/payload.js",
+    "source": "https://github.com/tago-io/decoders/tree/main/decoders/connector",
+    "sourceName": "TagoIO Github",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/milesight/ts30x/v1.0.0/assets/logo.png",
+    "sourceRepo": "https://github.com/tago-io/decoders/tree/main/decoders/connector/milesight/ts30x"
+  },
+  {
     "name": "MILESIGHT - Uc11 T1",
     "slug": "milesight-uc11-t1",
     "type": "Sensor",
@@ -6323,8 +6334,8 @@
     "description": "Codec for Dnt",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
     "sourceName": "The Things Network",
-    "image": "https://raw.githubusercontent.com/TheThingsNetwork/lorawan-devices/master/vendor/dnt/dnt-lw-ats.png",
-    "download": "https://raw.githubusercontent.com/TheThingsNetwork/lorawan-devices/master/vendor/dnt/dnt-lw-etrv.js",
+    "image": "https://raw.githubusercontent.com/TheThingsNetwork/lorawan-devices/master/vendor/dnt/dnt-lw-ats-top-view.png",
+    "download": "https://raw.githubusercontent.com/TheThingsNetwork/lorawan-devices/master/vendor/dnt/dnt-lw-wth.js",
     "readme": "No README available",
     "sourceRepo": "https://github.com/TheThingsNetwork/lorawan-devices/tree/master/vendor/dnt"
   },
@@ -6732,7 +6743,7 @@
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
     "sourceName": "The Things Network",
     "image": "https://raw.githubusercontent.com/TheThingsNetwork/lorawan-devices/master/vendor/kamstrup/flowiq2200-02k73a.png",
-    "download": null,
+    "download": "https://raw.githubusercontent.com/TheThingsNetwork/lorawan-devices/master/vendor/kamstrup/mbusparser.js",
     "readme": "No README available",
     "sourceRepo": "https://github.com/TheThingsNetwork/lorawan-devices/tree/master/vendor/kamstrup"
   },
