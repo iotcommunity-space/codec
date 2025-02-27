@@ -5675,10 +5675,10 @@
     "description": "Codec for Uc Series - Uc50X.",
     "source": "https://github.com/Milesight-IoT/SensorDecoders",
     "sourceName": "Milesight-IoT",
-    "image": "https://raw.githubusercontent.com/Milesight-IoT/SensorDecoders/main/UC_Series/UC50x/UC501_v3.png",
-    "download": "https://raw.githubusercontent.com/Milesight-IoT/SensorDecoders/main/UC_Series/UC50x/UC50x_Decoder.js",
-    "readme": "https://raw.githubusercontent.com/Milesight-IoT/SensorDecoders/main/UC_Series/UC50x/README.md",
-    "sourceRepo": "https://github.com/Milesight-IoT/SensorDecoders/tree/main/UC_Series/UC50x"
+    "image": "https://raw.githubusercontent.com/Milesight-IoT/SensorDecoders/main/UC_Series/UC50X/UC501_v3.png",
+    "download": "https://raw.githubusercontent.com/Milesight-IoT/SensorDecoders/main/UC_Series/UC50X/UC50x_Decoder.js",
+    "readme": "https://raw.githubusercontent.com/Milesight-IoT/SensorDecoders/main/UC_Series/UC50X/README.md",
+    "sourceRepo": "https://github.com/Milesight-IoT/SensorDecoders/tree/main/UC_Series/UC50X"
   },
   {
     "name": "Uc Series - Uc51X",
