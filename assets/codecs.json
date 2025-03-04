@@ -7552,6 +7552,18 @@
     "sourceRepo": "https://github.com/TheThingsNetwork/lorawan-devices/tree/master/vendor/tip"
   },
   {
+    "name": "TTN Smart Sensor (Truvami)",
+    "slug": "ttn-smart-sensor-truvami",
+    "type": "Sensor",
+    "description": "Codec for Truvami",
+    "source": "https://github.com/TheThingsNetwork/lorawan-devices",
+    "sourceName": "The Things Network",
+    "image": "https://raw.githubusercontent.com/TheThingsNetwork/lorawan-devices/master/vendor/truvami/tag-l-side.png",
+    "download": "https://raw.githubusercontent.com/TheThingsNetwork/lorawan-devices/master/vendor/truvami/tag-xl.js",
+    "readme": "No README available",
+    "sourceRepo": "https://github.com/TheThingsNetwork/lorawan-devices/tree/master/vendor/truvami"
+  },
+  {
     "name": "TTN Smart Sensor (Twtg)",
     "slug": "ttn-smart-sensor-twtg",
     "type": "Sensor",
@@ -7594,8 +7606,8 @@
     "description": "Codec for Watteco",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
     "sourceName": "The Things Network",
-    "image": null,
-    "download": "https://raw.githubusercontent.com/TheThingsNetwork/lorawan-devices/master/vendor/watteco/th-sensor.js",
+    "image": "https://raw.githubusercontent.com/TheThingsNetwork/lorawan-devices/master/vendor/watteco/atmo.png",
+    "download": "https://raw.githubusercontent.com/TheThingsNetwork/lorawan-devices/master/vendor/watteco/ventilo.js",
     "readme": "No README available",
     "sourceRepo": "https://github.com/TheThingsNetwork/lorawan-devices/tree/master/vendor/watteco"
   },
@@ -7618,7 +7630,7 @@
     "description": "Codec for Yobiiq",
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
     "sourceName": "The Things Network",
-    "image": "https://raw.githubusercontent.com/TheThingsNetwork/lorawan-devices/master/vendor/yobiiq/sd-1001-package.png",
+    "image": "https://raw.githubusercontent.com/TheThingsNetwork/lorawan-devices/master/vendor/yobiiq/em2101.png",
     "download": "https://raw.githubusercontent.com/TheThingsNetwork/lorawan-devices/master/vendor/yobiiq/sd-1001.js",
     "readme": "No README available",
     "sourceRepo": "https://github.com/TheThingsNetwork/lorawan-devices/tree/master/vendor/yobiiq"
