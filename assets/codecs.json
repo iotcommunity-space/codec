@@ -5736,7 +5736,7 @@
     "source": "https://github.com/Milesight-IoT/SensorDecoders",
     "sourceName": "Milesight-IoT",
     "image": "https://raw.githubusercontent.com/Milesight-IoT/SensorDecoders/main/VS_Series/VS13x/VS133.png",
-    "download": "https://raw.githubusercontent.com/Milesight-IoT/SensorDecoders/main/VS_Series/VS13x/VS13x_Decoder.js",
+    "download": "https://raw.githubusercontent.com/Milesight-IoT/SensorDecoders/main/VS_Series/VS13x/VS13x_Encoder.js",
     "readme": "https://raw.githubusercontent.com/Milesight-IoT/SensorDecoders/main/VS_Series/VS13x/README.md",
     "sourceRepo": "https://github.com/Milesight-IoT/SensorDecoders/tree/main/VS_Series/VS13x"
   },
@@ -5799,6 +5799,18 @@
     "download": "https://raw.githubusercontent.com/Milesight-IoT/SensorDecoders/main/VS_Series/VS360/VS360_Encoder.js",
     "readme": "https://raw.githubusercontent.com/Milesight-IoT/SensorDecoders/main/VS_Series/VS360/README.md",
     "sourceRepo": "https://github.com/Milesight-IoT/SensorDecoders/tree/main/VS_Series/VS360"
+  },
+  {
+    "name": "Vs Series - Vs370",
+    "slug": "vs-series-vs370",
+    "type": "Sensor",
+    "description": "Codec for Vs Series - Vs370.",
+    "source": "https://github.com/Milesight-IoT/SensorDecoders",
+    "sourceName": "Milesight-IoT",
+    "image": "https://raw.githubusercontent.com/Milesight-IoT/SensorDecoders/main/VS_Series/VS370/VS370.png",
+    "download": "https://raw.githubusercontent.com/Milesight-IoT/SensorDecoders/main/VS_Series/VS370/VS370_Encoder.js",
+    "readme": "https://raw.githubusercontent.com/Milesight-IoT/SensorDecoders/main/VS_Series/VS370/README.md",
+    "sourceRepo": "https://github.com/Milesight-IoT/SensorDecoders/tree/main/VS_Series/VS370"
   },
   {
     "name": "Vs Series - Vs373",
