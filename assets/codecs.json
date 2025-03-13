@@ -5748,7 +5748,7 @@
     "source": "https://github.com/Milesight-IoT/SensorDecoders",
     "sourceName": "Milesight-IoT",
     "image": "https://raw.githubusercontent.com/Milesight-IoT/SensorDecoders/main/VS_Series/VS330/VS330.png",
-    "download": "https://raw.githubusercontent.com/Milesight-IoT/SensorDecoders/main/VS_Series/VS330/VS330_Decoder.js",
+    "download": "https://raw.githubusercontent.com/Milesight-IoT/SensorDecoders/main/VS_Series/VS330/VS330_Encoder.js",
     "readme": "https://raw.githubusercontent.com/Milesight-IoT/SensorDecoders/main/VS_Series/VS330/README.md",
     "sourceRepo": "https://github.com/Milesight-IoT/SensorDecoders/tree/main/VS_Series/VS330"
   },
