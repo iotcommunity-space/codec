@@ -5483,7 +5483,7 @@
     "source": "https://github.com/Milesight-IoT/SensorDecoders",
     "sourceName": "Milesight-IoT",
     "image": "https://raw.githubusercontent.com/Milesight-IoT/SensorDecoders/main/DS_Series/DS3604/DS3604.png",
-    "download": "https://raw.githubusercontent.com/Milesight-IoT/SensorDecoders/main/DS_Series/DS3604/DS3604_Decoder.js",
+    "download": "https://raw.githubusercontent.com/Milesight-IoT/SensorDecoders/main/DS_Series/DS3604/DS3604_Encoder.js",
     "readme": "https://raw.githubusercontent.com/Milesight-IoT/SensorDecoders/main/DS_Series/DS3604/README.md",
     "sourceRepo": "https://github.com/Milesight-IoT/SensorDecoders/tree/main/DS_Series/DS3604"
   },
@@ -7453,6 +7453,18 @@
     "download": "https://raw.githubusercontent.com/TheThingsNetwork/lorawan-devices/master/vendor/te-connectivity/universal_decoder.js",
     "readme": "No README available",
     "sourceRepo": "https://github.com/TheThingsNetwork/lorawan-devices/tree/master/vendor/te-connectivity"
+  },
+  {
+    "name": "TTN Smart Sensor (Tehama)",
+    "slug": "ttn-smart-sensor-tehama",
+    "type": "Sensor",
+    "description": "Codec for Tehama",
+    "source": "https://github.com/TheThingsNetwork/lorawan-devices",
+    "sourceName": "The Things Network",
+    "image": "https://raw.githubusercontent.com/TheThingsNetwork/lorawan-devices/master/vendor/tehama/tehama-pulse-mdt.png",
+    "download": "https://raw.githubusercontent.com/TheThingsNetwork/lorawan-devices/master/vendor/tehama/tehama-pulse-mdt.js",
+    "readme": "No README available",
+    "sourceRepo": "https://github.com/TheThingsNetwork/lorawan-devices/tree/master/vendor/tehama"
   },
   {
     "name": "TTN Smart Sensor (Tektelic)",
