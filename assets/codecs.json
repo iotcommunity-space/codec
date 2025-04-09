@@ -1144,6 +1144,17 @@
     "sourceRepo": "https://github.com/tago-io/decoders/tree/main/decoders/connector/digi-x-on/custom-digi-xon"
   },
   {
+    "name": "DIGI-X-ON - Digi X On Sparkfun Iot Node",
+    "slug": "digi-x-on-digi-x-on-sparkfun-iot-node",
+    "type": "Sensor",
+    "description": "Codec for DIGI-X-ON - Digi-X-On-Sparkfun-Iot-Node (v1.0.0).",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/digi-x-on/digi-x-on-sparkfun-iot-node/v1.0.0/payload.js",
+    "source": "https://github.com/tago-io/decoders/tree/main/decoders/connector",
+    "sourceName": "TagoIO Github",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/digi-x-on/digi-x-on-sparkfun-iot-node/v1.0.0/assets/logo.png",
+    "sourceRepo": "https://github.com/tago-io/decoders/tree/main/decoders/connector/digi-x-on/digi-x-on-sparkfun-iot-node"
+  },
+  {
     "name": "DIGITAL-MATTER - Matter Falcon",
     "slug": "digital-matter-matter-falcon",
     "type": "Sensor",
@@ -5124,6 +5135,28 @@
     "sourceName": "TagoIO Github",
     "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/volley-boast/vobo-xp/v1.0.0/assets/logo.png",
     "sourceRepo": "https://github.com/tago-io/decoders/tree/main/decoders/connector/volley-boast/vobo-xp"
+  },
+  {
+    "name": "VUTILITY - Hotdrop",
+    "slug": "vutility-hotdrop",
+    "type": "Sensor",
+    "description": "Codec for VUTILITY - Hotdrop (v1.0.0).",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/vutility/hotdrop/v1.0.0/payload.js",
+    "source": "https://github.com/tago-io/decoders/tree/main/decoders/connector",
+    "sourceName": "TagoIO Github",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/vutility/hotdrop/v1.0.0/assets/logo.png",
+    "sourceRepo": "https://github.com/tago-io/decoders/tree/main/decoders/connector/vutility/hotdrop"
+  },
+  {
+    "name": "VUTILITY - Voltdrop",
+    "slug": "vutility-voltdrop",
+    "type": "Sensor",
+    "description": "Codec for VUTILITY - Voltdrop (v1.0.0).",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/vutility/voltdrop/v1.0.0/payload.js",
+    "source": "https://github.com/tago-io/decoders/tree/main/decoders/connector",
+    "sourceName": "TagoIO Github",
+    "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/vutility/voltdrop/v1.0.0/assets/logo.png",
+    "sourceRepo": "https://github.com/tago-io/decoders/tree/main/decoders/connector/vutility/voltdrop"
   },
   {
     "name": "WATTECO - Atmo Sensor",
