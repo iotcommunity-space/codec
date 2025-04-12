@@ -5748,6 +5748,18 @@
     "sourceRepo": "https://github.com/Milesight-IoT/SensorDecoders/tree/main/GS_Series/GS524N"
   },
   {
+    "name": "Gs Series - Gs601",
+    "slug": "gs-series-gs601",
+    "type": "Sensor",
+    "description": "Codec for Gs Series - Gs601.",
+    "source": "https://github.com/Milesight-IoT/SensorDecoders",
+    "sourceName": "Milesight-IoT",
+    "image": "https://raw.githubusercontent.com/Milesight-IoT/SensorDecoders/main/GS_Series/GS601/GS601.png",
+    "download": "https://raw.githubusercontent.com/Milesight-IoT/SensorDecoders/main/GS_Series/GS601/GS601_Encoder_pack.js",
+    "readme": "https://raw.githubusercontent.com/Milesight-IoT/SensorDecoders/main/GS_Series/GS601/README.md",
+    "sourceRepo": "https://github.com/Milesight-IoT/SensorDecoders/tree/main/GS_Series/GS601"
+  },
+  {
     "name": "Ts Series - Ts101",
     "slug": "ts-series-ts101",
     "type": "Sensor",
