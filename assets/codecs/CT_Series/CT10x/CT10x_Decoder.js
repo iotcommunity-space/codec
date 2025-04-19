@@ -3,7 +3,7 @@
  *
  * Copyright 2025 Milesight IoT
  *
- * @product GS101
+ * @product CT101 / CT103 / CT105
  */
 var RAW_VALUE = 0x00;
 
@@ -25,7 +25,6 @@ function Decoder(bytes, port) {
 
 function milesightDeviceDecode(bytes) {
     var decoded = {};
-
     for (var i = 0; i < bytes.length;) {
         var channel_id = bytes[i++];
         var channel_type = bytes[i++];
@@ -70,42 +69,113 @@ function milesightDeviceDecode(bytes) {
             decoded.device_status = readDeviceStatus(1);
             i += 1;
         }
-        // GAS STATUS
-        else if (channel_id === 0x05 && channel_type === 0x8e) {
-            decoded.gas_status = readGasStatus(bytes[i]);
-            i += 1;
-        }
-        // VALVE
-        else if (channel_id === 0x06 && channel_type === 0x01) {
-            decoded.valve_status = readOnOffStatus(bytes[i]);
-            i += 1;
-        }
-        // RELAY
-        else if (channel_id === 0x07 && channel_type === 0x01) {
-            decoded.relay_output_status = readOnOffStatus(bytes[i]);
-            i += 1;
-        }
-        // REMAINED LIFE TIME
-        else if (channel_id === 0x08 && channel_type === 0x90) {
-            decoded.life_remain = readUInt32LE(bytes.slice(i, i + 4));
+        // TOTAL CURRENT
+        else if (channel_id === 0x03 && channel_type === 0x97) {
+            decoded.total_current = readUInt32LE(bytes.slice(i, i + 4)) / 100;
             i += 4;
         }
-        // ALARM
-        else if (channel_id === 0xff && channel_type === 0x3f) {
-            decoded.alarm = readAlarmStatus(bytes[i]);
-            i += 1;
+        // CURRENT
+        else if (channel_id === 0x04 && channel_type === 0x98) {
+            var current_value = readUInt16LE(bytes.slice(i, i + 2));
+            if (current_value === 0xffff) {
+                decoded.current_sensor_status = readSensorStatus(2);
+            } else {
+                decoded.current = current_value / 100;
+            }
+            i += 2;
+        }
+        // TEMPERATURE
+        else if (channel_id === 0x09 && channel_type === 0x67) {
+            var temperature_value = readUInt16LE(bytes.slice(i, i + 2));
+            if (temperature_value === 0xfffd) {
+                decoded.temperature_sensor_status = readSensorStatus(1);
+            } else if (temperature_value === 0xffff) {
+                decoded.temperature_sensor_status = readSensorStatus(2);
+            } else {
+                decoded.temperature = readInt16LE(bytes.slice(i, i + 2)) / 10;
+            }
+            i += 2;
+        }
+        // CURRENT ALARM
+        else if (channel_id === 0x84 && channel_type === 0x98) {
+            decoded.current_max = readUInt16LE(bytes.slice(i, i + 2)) / 100;
+            decoded.current_min = readUInt16LE(bytes.slice(i + 2, i + 4)) / 100;
+            decoded.current = readUInt16LE(bytes.slice(i + 4, i + 6)) / 100;
+            decoded.current_alarm = readCurrentAlarm(bytes[i + 6]);
+            i += 7;
+        }
+        // TEMPERATURE ALARM
+        else if (channel_id === 0x89 && channel_type === 0x67) {
+            decoded.temperature = readInt16LE(bytes.slice(i, i + 2)) / 10;
+            decoded.temperature_alarm = readTemperatureAlarm(bytes[i + 2]);
+            i += 3;
         }
         // DOWNLINK RESPONSE
-        else if (channel_id === 0xfe) {
+        else if (channel_id === 0xfe || channel_id === 0xff) {
             var result = handle_downlink_response(channel_type, bytes, i);
             decoded = Object.assign(decoded, result.data);
             i = result.offset;
-        } else {
+        }
+        else {
             break;
         }
     }
 
     return decoded;
+}
+
+function handle_downlink_response(channel_type, bytes, offset) {
+    var decoded = {};
+
+    switch (channel_type) {
+        case 0x02:
+            decoded.alarm_report_interval = readUInt16LE(bytes.slice(offset, offset + 2));
+            offset += 2;
+            break;
+        case 0x06:
+            var value = readUInt8(bytes[offset]);
+            var channel_value = (value >>> 3) & 0x07;
+            if (channel_value === 0x01) {
+                decoded.current_threshold_alarm_config = {};
+                decoded.current_threshold_alarm_config.condition = readConditionType(value & 0x07);
+                decoded.current_threshold_alarm_config.min_threshold = readUInt16LE(bytes.slice(offset + 1, offset + 3));
+                decoded.current_threshold_alarm_config.max_threshold = readUInt16LE(bytes.slice(offset + 3, offset + 5));
+                decoded.current_threshold_alarm_config.alarm_interval = readUInt16LE(bytes.slice(offset + 5, offset + 7));
+                decoded.current_threshold_alarm_config.alarm_counts = readUInt16LE(bytes.slice(offset + 7, offset + 9));
+            } else if (channel_value === 0x04) {
+                decoded.temperature_threshold_alarm_config = {};
+                decoded.temperature_threshold_alarm_config.condition = readConditionType(value & 0x07);
+                decoded.temperature_threshold_alarm_config.min_threshold = readInt16LE(bytes.slice(offset + 1, offset + 3)) / 10;
+                decoded.temperature_threshold_alarm_config.max_threshold = readInt16LE(bytes.slice(offset + 3, offset + 5)) / 10;
+            }
+            offset += 9;
+            break;
+        case 0x10:
+            decoded.reboot = readYesNoStatus(1);
+            offset += 1;
+            break;
+        case 0x27:
+            decoded.clear_current_cumulative = readYesNoStatus(1);
+            offset += 1;
+            break;
+        case 0x28:
+            decoded.report_status = readYesNoStatus(1);
+            offset += 1;
+            break;
+        case 0x8e:
+            // ignore first byte
+            decoded.report_interval = readUInt16LE(bytes.slice(offset + 1, offset + 3));
+            offset += 3;
+            break;
+        case 0xf2:
+            decoded.alarm_report_counts = readUInt16LE(bytes.slice(offset, offset + 2));
+            offset += 2;
+            break;
+        default:
+            throw new Error("unknown downlink response");
+    }
+
+    return { data: decoded, offset: offset };
 }
 
 function readProtocolVersion(bytes) {
@@ -160,70 +230,34 @@ function readDeviceStatus(status) {
     return getValue(status_map, status);
 }
 
-function readGasStatus(type) {
-    var status_map = { 0: "normal", 1: "alarm" };
-    return getValue(status_map, type);
+function readYesNoStatus(status) {
+    var status_map = { 0: "no", 1: "yes" };
+    return getValue(status_map, status);
 }
 
-function readOnOffStatus(type) {
-    var status_map = { 0: "off", 1: "on" };
-    return getValue(status_map, type);
+function readSensorStatus(status) {
+    var status_map = { 0: "normal", 1: "over range alarm", 2: "read failed" };
+    return getValue(status_map, status);
 }
 
-function readAlarmStatus(type) {
-    var status_map = {
-        0: "power off",
-        1: "power on",
-        2: "device fault",
-        3: "device fault recovered",
-        4: "device will be invalid soon",
-        5: "device invalid",
-    };
-    return getValue(status_map, type);
-}
+function readCurrentAlarm(value) {
+    var alarm_bit_offset = { "current_threshold_alarm": 0, "current_threshold_alarm_release": 1, "current_over_range_alarm": 2, "current_over_range_alarm_release": 3 };
 
-function readEnableStatus(type) {
-    var status_map = { 0: "disable", 1: "enable" };
-    return getValue(status_map, type);
-}
-
-function handle_downlink_response(channel_type, bytes, offset) {
-    var decoded = {};
-
-    switch (channel_type) {
-        case 0x03:
-            decoded.report_interval = readUInt16LE(bytes.slice(offset, offset + 2));
-            offset += 2;
-            break;
-        case 0x11:
-            decoded.timestamp = readUInt32LE(bytes.slice(offset, offset + 4));
-            offset += 4;
-            break;
-        case 0x12:
-            decoded.time_zone = readInt16LE(bytes.slice(offset, offset + 2)) / 10;
-            offset += 2;
-            break;
-        case 0x2f:
-            decoded.led_indicator_enable = readEnableStatus(bytes[offset]);
-            offset += 1;
-            break;
-        case 0x3b:
-            decoded.time_sync_enable = readEnableStatus(bytes[offset]);
-            offset += 1;
-            break;
-        case 0x3e:
-            decoded.buzzer_enable = readEnableStatus(bytes[offset]);
-            offset += 1;
-            break;
-        case 0x61:
-            decoded.stop_buzzer_with_silent_time = readUInt16LE(bytes.slice(offset, offset + 2));
-            offset += 2;
-            break;
-        default:
-            throw new Error("unknown downlink response");
+    var event = {};
+    for (var key in alarm_bit_offset) {
+        event[key] = readYesNoStatus((value >> alarm_bit_offset[key]) & 0x01);
     }
+    return event;
+}
 
-    return { data: decoded, offset: offset };
+function readTemperatureAlarm(type) {
+    var alarm_map = { 0: "temperature threshold alarm release", 1: "temperature threshold alarm" };
+    return getValue(alarm_map, type);
+}
+
+function readConditionType(type) {
+    var condition_map = { 0: "disable", 1: "below", 2: "above", 3: "between", 4: "outside" };
+    return getValue(condition_map, type);
 }
 
 function readUInt8(bytes) {
@@ -253,6 +287,15 @@ function readUInt32LE(bytes) {
 function readInt32LE(bytes) {
     var ref = readUInt32LE(bytes);
     return ref > 0x7fffffff ? ref - 0x100000000 : ref;
+}
+
+function readFloatLE(bytes) {
+    var bits = (bytes[3] << 24) | (bytes[2] << 16) | (bytes[1] << 8) | bytes[0];
+    var sign = bits >>> 31 === 0 ? 1.0 : -1.0;
+    var e = (bits >>> 23) & 0xff;
+    var m = e === 0 ? (bits & 0x7fffff) << 1 : (bits & 0x7fffff) | 0x800000;
+    var f = sign * m * Math.pow(2, e - 150);
+    return f;
 }
 
 function getValue(map, key) {

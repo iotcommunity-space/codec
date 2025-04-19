@@ -5611,7 +5611,7 @@
     "source": "https://github.com/Milesight-IoT/SensorDecoders",
     "sourceName": "Milesight-IoT",
     "image": "https://raw.githubusercontent.com/Milesight-IoT/SensorDecoders/main/AM_Series/AM300_v2/AM300L.png",
-    "download": "https://raw.githubusercontent.com/Milesight-IoT/SensorDecoders/main/AM_Series/AM300_v2/AM300_v2_Decoder.js",
+    "download": "https://raw.githubusercontent.com/Milesight-IoT/SensorDecoders/main/AM_Series/AM300_v2/AM319_o3_v2_Encoder.js",
     "readme": "https://raw.githubusercontent.com/Milesight-IoT/SensorDecoders/main/AM_Series/AM300_v2/README.md",
     "sourceRepo": "https://github.com/Milesight-IoT/SensorDecoders/tree/main/AM_Series/AM300_v2"
   },
@@ -5628,28 +5628,28 @@
     "sourceRepo": "https://github.com/Milesight-IoT/SensorDecoders/tree/main/AT_Series/AT101"
   },
   {
-    "name": "Ct Series - Ct101",
-    "slug": "ct-series-ct101",
+    "name": "Ct Series - Ct10X",
+    "slug": "ct-series-ct10x",
     "type": "Sensor",
-    "description": "Codec for Ct Series - Ct101.",
+    "description": "Codec for Ct Series - Ct10X.",
     "source": "https://github.com/Milesight-IoT/SensorDecoders",
     "sourceName": "Milesight-IoT",
-    "image": "https://raw.githubusercontent.com/Milesight-IoT/SensorDecoders/main/CT_Series/CT101/CT10x.png",
-    "download": "https://raw.githubusercontent.com/Milesight-IoT/SensorDecoders/main/CT_Series/CT101/CT101_Encoder.js",
-    "readme": "https://raw.githubusercontent.com/Milesight-IoT/SensorDecoders/main/CT_Series/CT101/README.md",
-    "sourceRepo": "https://github.com/Milesight-IoT/SensorDecoders/tree/main/CT_Series/CT101"
+    "image": "https://raw.githubusercontent.com/Milesight-IoT/SensorDecoders/main/CT_Series/CT10x/CT101_CT103.png",
+    "download": "https://raw.githubusercontent.com/Milesight-IoT/SensorDecoders/main/CT_Series/CT10x/CT10x_Encoder.js",
+    "readme": "https://raw.githubusercontent.com/Milesight-IoT/SensorDecoders/main/CT_Series/CT10x/README.md",
+    "sourceRepo": "https://github.com/Milesight-IoT/SensorDecoders/tree/main/CT_Series/CT10x"
   },
   {
-    "name": "Ct Series - Ct305 Ct310",
-    "slug": "ct-series-ct305-ct310",
+    "name": "Ct Series - Ct3Xx",
+    "slug": "ct-series-ct3xx",
     "type": "Sensor",
-    "description": "Codec for Ct Series - Ct305 Ct310.",
+    "description": "Codec for Ct Series - Ct3Xx.",
     "source": "https://github.com/Milesight-IoT/SensorDecoders",
     "sourceName": "Milesight-IoT",
-    "image": "https://raw.githubusercontent.com/Milesight-IoT/SensorDecoders/main/CT_Series/CT305_CT310/CT305.png",
-    "download": "https://raw.githubusercontent.com/Milesight-IoT/SensorDecoders/main/CT_Series/CT305_CT310/CT305_CT310_Encoder.js",
-    "readme": "https://raw.githubusercontent.com/Milesight-IoT/SensorDecoders/main/CT_Series/CT305_CT310/README.md",
-    "sourceRepo": "https://github.com/Milesight-IoT/SensorDecoders/tree/main/CT_Series/CT305_CT310"
+    "image": "https://raw.githubusercontent.com/Milesight-IoT/SensorDecoders/main/CT_Series/CT3xx/CT303_CT305.png",
+    "download": "https://raw.githubusercontent.com/Milesight-IoT/SensorDecoders/main/CT_Series/CT3xx/CT3xx_Encoder.js",
+    "readme": "https://raw.githubusercontent.com/Milesight-IoT/SensorDecoders/main/CT_Series/CT3xx/README.md",
+    "sourceRepo": "https://github.com/Milesight-IoT/SensorDecoders/tree/main/CT_Series/CT3xx"
   },
   {
     "name": "Ds Series - Ds3604",
@@ -5784,6 +5784,18 @@
     "sourceRepo": "https://github.com/Milesight-IoT/SensorDecoders/tree/main/TS_Series/TS201"
   },
   {
+    "name": "Ts Series - Ts201 V2",
+    "slug": "ts-series-ts201-v2",
+    "type": "Sensor",
+    "description": "Codec for Ts Series - Ts201 V2.",
+    "source": "https://github.com/Milesight-IoT/SensorDecoders",
+    "sourceName": "Milesight-IoT",
+    "image": "https://raw.githubusercontent.com/Milesight-IoT/SensorDecoders/main/TS_Series/TS201_v2/TS201_v2.png",
+    "download": "https://raw.githubusercontent.com/Milesight-IoT/SensorDecoders/main/TS_Series/TS201_v2/TS201_v2_Encoder.js",
+    "readme": "https://raw.githubusercontent.com/Milesight-IoT/SensorDecoders/main/TS_Series/TS201_v2/README.md",
+    "sourceRepo": "https://github.com/Milesight-IoT/SensorDecoders/tree/main/TS_Series/TS201_v2"
+  },
+  {
     "name": "Ts Series - Ts30X",
     "slug": "ts-series-ts30x",
     "type": "Sensor",
@@ -5851,7 +5863,7 @@
     "source": "https://github.com/Milesight-IoT/SensorDecoders",
     "sourceName": "Milesight-IoT",
     "image": "https://raw.githubusercontent.com/Milesight-IoT/SensorDecoders/main/UC_Series/UC300/UC300.png",
-    "download": "https://raw.githubusercontent.com/Milesight-IoT/SensorDecoders/main/UC_Series/UC300/UC300_Decoder.js",
+    "download": "https://raw.githubusercontent.com/Milesight-IoT/SensorDecoders/main/UC_Series/UC300/UC300_Encoder.js",
     "readme": "https://raw.githubusercontent.com/Milesight-IoT/SensorDecoders/main/UC_Series/UC300/README.md",
     "sourceRepo": "https://github.com/Milesight-IoT/SensorDecoders/tree/main/UC_Series/UC300"
   },
@@ -5874,10 +5886,10 @@
     "description": "Codec for Uc Series - Uc50X.",
     "source": "https://github.com/Milesight-IoT/SensorDecoders",
     "sourceName": "Milesight-IoT",
-    "image": "https://raw.githubusercontent.com/Milesight-IoT/SensorDecoders/main/UC_Series/UC50X/UC501_v3.png",
-    "download": "https://raw.githubusercontent.com/Milesight-IoT/SensorDecoders/main/UC_Series/UC50X/UC50x_Decoder.js",
-    "readme": "https://raw.githubusercontent.com/Milesight-IoT/SensorDecoders/main/UC_Series/UC50X/README.md",
-    "sourceRepo": "https://github.com/Milesight-IoT/SensorDecoders/tree/main/UC_Series/UC50X"
+    "image": "https://raw.githubusercontent.com/Milesight-IoT/SensorDecoders/main/UC_Series/UC50x/UC501_v3.png",
+    "download": "https://raw.githubusercontent.com/Milesight-IoT/SensorDecoders/main/UC_Series/UC50x/UC50x_Encoder.js",
+    "readme": "https://raw.githubusercontent.com/Milesight-IoT/SensorDecoders/main/UC_Series/UC50x/README.md",
+    "sourceRepo": "https://github.com/Milesight-IoT/SensorDecoders/tree/main/UC_Series/UC50x"
   },
   {
     "name": "Uc Series - Uc51X",
@@ -5887,7 +5899,7 @@
     "source": "https://github.com/Milesight-IoT/SensorDecoders",
     "sourceName": "Milesight-IoT",
     "image": "https://raw.githubusercontent.com/Milesight-IoT/SensorDecoders/main/UC_Series/UC51X/UC511_v3.png",
-    "download": "https://raw.githubusercontent.com/Milesight-IoT/SensorDecoders/main/UC_Series/UC51X/UC51x_Decoder.js",
+    "download": "https://raw.githubusercontent.com/Milesight-IoT/SensorDecoders/main/UC_Series/UC51X/UC51x_Encoder.js",
     "readme": "https://raw.githubusercontent.com/Milesight-IoT/SensorDecoders/main/UC_Series/UC51X/README.md",
     "sourceRepo": "https://github.com/Milesight-IoT/SensorDecoders/tree/main/UC_Series/UC51X"
   },
@@ -5898,9 +5910,9 @@
     "description": "Codec for Uc Series - Uc521.",
     "source": "https://github.com/Milesight-IoT/SensorDecoders",
     "sourceName": "Milesight-IoT",
-    "image": null,
-    "download": "https://raw.githubusercontent.com/Milesight-IoT/SensorDecoders/main/UC_Series/UC521/UC521_Cellular.js",
-    "readme": "No README available",
+    "image": "https://raw.githubusercontent.com/Milesight-IoT/SensorDecoders/main/UC_Series/UC521/UC521.png",
+    "download": "https://raw.githubusercontent.com/Milesight-IoT/SensorDecoders/main/UC_Series/UC521/UC521_Encoder.js",
+    "readme": "https://raw.githubusercontent.com/Milesight-IoT/SensorDecoders/main/UC_Series/UC521/README.md",
     "sourceRepo": "https://github.com/Milesight-IoT/SensorDecoders/tree/main/UC_Series/UC521"
   },
   {
