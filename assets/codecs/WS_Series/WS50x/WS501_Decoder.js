@@ -3,7 +3,7 @@
  *
  * Copyright 2025 Milesight IoT
  *
- * @product WS201
+ * @product WS501
  */
 var RAW_VALUE = 0x00;
 
@@ -45,50 +45,35 @@ function milesightDeviceDecode(bytes) {
             decoded.firmware_version = readFirmwareVersion(bytes.slice(i, i + 2));
             i += 2;
         }
-        // TSL VERSION
-        else if (channel_id === 0xff && channel_type === 0xff) {
-            decoded.tsl_version = readTslVersion(bytes.slice(i, i + 2));
-            i += 2;
-        }
         // SERIAL NUMBER
-        else if (channel_id === 0xff && channel_type === 0x16) {
-            decoded.sn = readSerialNumber(bytes.slice(i, i + 8));
-            i += 8;
+        else if (channel_id === 0xff && channel_type === 0x08) {
+            decoded.sn = readSerialNumber(bytes.slice(i, i + 6));
+            i += 6;
         }
         // LORAWAN CLASS TYPE
         else if (channel_id === 0xff && channel_type === 0x0f) {
             decoded.lorawan_class = readLoRaWANClass(bytes[i]);
             i += 1;
         }
-        // RESET EVENT
-        else if (channel_id === 0xff && channel_type === 0xfe) {
-            decoded.reset_event = readResetEvent(1);
+        // SWITCH STATE
+        else if (channel_id === 0xff && channel_type === 0x29) {
+            // payload (0 0 0 0 0 0 0 0)
+            //  Switch    3 2 1   3 2 1
+            //          ------- -------
+            // bit mask  change   state
+            var value = bytes[i];
+            decoded.switch_1 = readOnOffStatus((value >>> 0) & 1);
+            decoded.switch_1_change = readYesNoStatus((value >>> 4) & 1);
             i += 1;
         }
-        // DEVICE STATUS
-        else if (channel_id === 0xff && channel_type === 0x0b) {
-            decoded.device_status = readDeviceStatus(1);
-            i += 1;
-        }
-
-        // BATTERY
-        else if (channel_id === 0x01 && channel_type === 0x75) {
-            decoded.battery = bytes[i];
-            i += 1;
-        }
-        // DISTANCE
-        else if (channel_id === 0x03 && channel_type === 0x82) {
-            decoded.distance = readUInt16LE(bytes.slice(i, i + 2));
-            i += 2;
-        }
-        // REMAINING AMOUNT
-        else if (channel_id === 0x04 && channel_type === 0xd6) {
-            decoded.remaining = bytes[i];
+        // BUTTON STATUS
+        else if (channel_id === 0xff && channel_type === 0x2b) {
+            decoded.function_key_event = readYesNoStatus(1);
             i += 1;
         }
         // DOWNLINK RESPONSE
         else if (channel_id === 0xfe || channel_id === 0xff) {
-            var result = handle_downlink_response(channel_type, bytes, i);
+            result = handle_downlink_response(channel_type, bytes, i);
             decoded = Object.assign(decoded, result.data);
             i = result.offset;
         } else {
@@ -103,66 +88,66 @@ function handle_downlink_response(channel_type, bytes, offset) {
     var decoded = {};
 
     switch (channel_type) {
-        case 0x02:
-            decoded.collection_interval = readUInt16LE(bytes.slice(offset, offset + 2));
-            offset += 2;
-            break;
         case 0x03:
             decoded.report_interval = readUInt16LE(bytes.slice(offset, offset + 2));
             offset += 2;
-            break;
-        case 0x06:
-            var data = readUInt8(bytes[offset]);
-            var remaining_alarm_config = {};
-            remaining_alarm_config.index = readUInt8((data >>> 3) & 0x07);
-            remaining_alarm_config.enable = readEnableStatus((data >>> 6) & 0x01);
-            remaining_alarm_config.alarm_release_enable = readEnableStatus((data >>> 7) & 0x01);
-            // skip 2 bytes
-            remaining_alarm_config.threshold = readUInt16LE(bytes.slice(offset + 3, offset + 5));
-            // skip 4 bytes
-            offset += 9;
-            decoded.remaining_alarm_config = decoded.remaining_alarm_config || [];
-            decoded.remaining_alarm_config.push(remaining_alarm_config);
             break;
         case 0x10:
             decoded.reboot = readYesNoStatus(1);
             offset += 1;
             break;
-        case 0x17:
-            decoded.timezone = readInt16LE(bytes.slice(offset, offset + 2)) / 10;
+        case 0x22:
+            decoded.delay_task = {};
+            decoded.delay_task.frame_count = readUInt8(bytes[offset]);
+            decoded.delay_task.delay_time = readUInt16LE(bytes.slice(offset + 1, offset + 3));
+            var data = readUInt8(bytes[offset + 3]);
+            var switch_bit_offset = { switch_1: 0 };
+            for (var key in switch_bit_offset) {
+                if ((data >>> (switch_bit_offset[key] + 4)) & 0x01) {
+                    decoded.delay_task[key] = readOnOffStatus((data >> switch_bit_offset[key]) & 0x01);
+                }
+            }
+            offset += 4;
+            break;
+        case 0x23:
+            decoded.cancel_delay_task = readUInt8(bytes[offset]);
+            // ignore the second byte
+            offset += 2;
+            break;
+        case 0x25:
+            var data = readUInt16LE(bytes.slice(offset, offset + 2));
+            decoded.child_lock_config = {};
+            decoded.child_lock_config.enable = readEnableStatus((data >>> 15) & 0x01);
+            decoded.child_lock_config.lock_time = data & 0x7fff;
             offset += 2;
             break;
         case 0x28:
             decoded.report_status = readYesNoStatus(1);
             offset += 1;
             break;
-        case 0x75:
-            decoded.hibernate_config = {};
-            decoded.hibernate_config.enable = readEnableStatus(bytes[offset]);
-            decoded.hibernate_config.start_time = readUInt16LE(bytes.slice(offset + 1, offset + 3));
-            decoded.hibernate_config.end_time = readUInt16LE(bytes.slice(offset + 3, offset + 5));
-            decoded.hibernate_config.weekdays = readWeekdays(readUInt8(bytes[offset + 5]));
-            offset += 6;
+        case 0x29:
+            var data = readUInt8(bytes[offset]);
+            var switch_bit_offset = { switch_1: 0 };
+            for (var key in switch_bit_offset) {
+                if ((data >>> (switch_bit_offset[key] + 4)) & 0x01) {
+                    decoded[key] = readOnOffStatus((data >> switch_bit_offset[key]) & 0x01);
+                }
+            }
+            offset += 1;
             break;
-        case 0x76:
-            decoded.depth = readUInt16LE(bytes.slice(offset, offset + 2));
-            offset += 2;
+        case 0x2c:
+            decoded.report_attribute = readYesNoStatus(1);
+            offset += 1;
+            break;
+        case 0x2f:
+            decoded.led_mode = readLedMode(bytes[offset]);
+            offset += 1;
             break;
         default:
             throw new Error("unknown downlink response");
     }
 
     return { data: decoded, offset: offset };
-}
-
-function readEnableStatus(status) {
-    var status_map = { 0: "disable", 1: "enable" };
-    return getValue(status_map, status);
-}
-
-function readYesNoStatus(status) {
-    var status_map = { 0: "no", 1: "yes" };
-    return getValue(status_map, status);
 }
 
 function readProtocolVersion(bytes) {
@@ -178,12 +163,6 @@ function readHardwareVersion(bytes) {
 }
 
 function readFirmwareVersion(bytes) {
-    var major = bytes[0] & 0xff;
-    var minor = bytes[1] & 0xff;
-    return "v" + major + "." + minor;
-}
-
-function readTslVersion(bytes) {
     var major = bytes[0] & 0xff;
     var minor = bytes[1] & 0xff;
     return "v" + major + "." + minor;
@@ -207,24 +186,24 @@ function readLoRaWANClass(type) {
     return getValue(class_map, type);
 }
 
-function readResetEvent(status) {
-    var status_map = { 0: "normal", 1: "reset" };
-    return getValue(status_map, status);
-}
-
-function readDeviceStatus(status) {
+function readOnOffStatus(status) {
     var status_map = { 0: "off", 1: "on" };
     return getValue(status_map, status);
 }
 
-function readWeekdays(data) {
-    var weekdays_map = { "monday": 1, "tuesday": 2, "wednesday": 3, "thursday": 4, "friday": 5, "saturday": 6, "sunday": 7 };
+function readYesNoStatus(status) {
+    var status_map = { 0: "no", 1: "yes" };
+    return getValue(status_map, status);
+}
 
-    var weekdays = {};
-    for (var key in weekdays_map) {
-        weekdays[key] = readEnableStatus((data >> weekdays_map[key]) & 0x01);
-    }
-    return weekdays;
+function readEnableStatus(status) {
+    var status_map = { 0: "disable", 1: "enable" };
+    return getValue(status_map, status);
+}
+
+function readLedMode(type) {
+    var led_mode_map = { 0: "off", 1: "on_inverted", 2: "on_synced" };
+    return getValue(led_mode_map, type);
 }
 
 function readUInt8(bytes) {
@@ -244,6 +223,16 @@ function readUInt16LE(bytes) {
 function readInt16LE(bytes) {
     var ref = readUInt16LE(bytes);
     return ref > 0x7fff ? ref - 0x10000 : ref;
+}
+
+function readUInt32LE(bytes) {
+    var value = (bytes[3] << 24) + (bytes[2] << 16) + (bytes[1] << 8) + bytes[0];
+    return (value & 0xffffffff) >>> 0;
+}
+
+function readInt32LE(bytes) {
+    var ref = readUInt32LE(bytes);
+    return ref > 0x7fffffff ? ref - 0x100000000 : ref;
 }
 
 function getValue(map, key) {
@@ -291,4 +280,3 @@ if (!Object.assign) {
         },
     });
 }
-

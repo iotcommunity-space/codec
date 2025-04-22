@@ -3,7 +3,7 @@
  *
  * Copyright 2025 Milesight IoT
  *
- * @product WS558
+ * @product WS502_EU
  */
 var RAW_VALUE = 0x00;
 
@@ -67,7 +67,7 @@ function milesightDeviceDecode(bytes) {
         }
         // DEVICE STATUS
         else if (channel_id === 0xff && channel_type === 0x0b) {
-            decoded.device_status = readDeviceStatus(1);
+            decoded.device_status = readOnOffStatus(1);
             i += 1;
         }
         // VOLTAGE
@@ -86,35 +86,31 @@ function milesightDeviceDecode(bytes) {
             i += 1;
         }
         // POWER CONSUMPTION
-        else if (channel_id === 0x06 && channel_type === 0x83) {
+        else if (channel_id === 0x06 && channel_type == 0x83) {
             decoded.power_consumption = readUInt32LE(bytes.slice(i, i + 4));
             i += 4;
         }
-        // TOTAL CURRENT
-        else if (channel_id === 0x07 && channel_type === 0xc9) {
-            decoded.total_current = readUInt16LE(bytes.slice(i, i + 2));
+        // CURRENT
+        else if (channel_id === 0x07 && channel_type == 0xc9) {
+            decoded.current = readUInt16LE(bytes.slice(i, i + 2));
             i += 2;
         }
-        // SWITCH STATUS
-        else if (channel_id === 0x08 && channel_type === 0x31) {
-            var switchFlags = bytes[i + 1];
-
-            // output all switch status
-            for (var idx = 0; idx < 8; idx++) {
-                var switchTag = "switch_" + (idx + 1);
-                decoded[switchTag] = readSwitchStatus((switchFlags >> idx) & 1);
-            }
-
-            i += 2;
-        }
-        // POWER CONSUMPTION ENABLE
-        else if (channel_id === 0xff && channel_type === 0x26) {
-            decoded.power_consumption_enable = readEnableStatus(bytes[i]);
+        // SWITCH STATE
+        else if (channel_id === 0x08 && channel_type === 0x29) {
+            // payload (0 0 0 0 0 0 0 0)
+            //  Switch    3 2 1   3 2 1
+            //          ------- -------
+            // bit mask  change   state
+            var value = bytes[i];
+            decoded.switch_1 = readOnOffStatus((value >>> 0) & 0x01);
+            decoded.switch_1_change = readYesNoStatus((value >>> 4) & 0x01);
+            decoded.switch_2 = readOnOffStatus((value >>> 1) & 0x01);
+            decoded.switch_2_change = readYesNoStatus((value >>> 5) & 0x01);
             i += 1;
         }
         // DOWNLINK RESPONSE
         else if (channel_id === 0xfe || channel_id === 0xff) {
-            var result = handle_downlink_response(channel_type, bytes, i);
+            result = handle_downlink_response(channel_type, bytes, i);
             decoded = Object.assign(decoded, result.data);
             i = result.offset;
         } else {
@@ -129,21 +125,37 @@ function handle_downlink_response(channel_type, bytes, offset) {
     var decoded = {};
 
     switch (channel_type) {
-        case 0x10:
-            decoded.reboot = readYesNoStatus(1);
-            offset += 1;
-            break;
-        case 0x28:
-            decoded.report_status = readYesNoStatus(1);
-            offset += 1;
-            break;
         case 0x03:
             decoded.report_interval = readUInt16LE(bytes.slice(offset, offset + 2));
             offset += 2;
             break;
+        case 0x10:
+            decoded.reboot = readYesNoStatus(1);
+            offset += 1;
+            break;
+        case 0x22:
+            decoded.delay_task = {};
+            decoded.delay_task.frame_count = readUInt8(bytes[offset]);
+            decoded.delay_task.delay_time = readUInt16LE(bytes.slice(offset + 1, offset + 3));
+            var data = readUInt8(bytes[offset + 3]);
+            var switch_bit_offset = { switch_1: 0, switch_2: 1, switch_3: 2 };
+            for (var key in switch_bit_offset) {
+                if ((data >>> (switch_bit_offset[key] + 4)) & 0x01) {
+                    decoded.delay_task[key] = readOnOffStatus((data >> switch_bit_offset[key]) & 0x01);
+                }
+            }
+            offset += 4;
+            break;
         case 0x23:
             decoded.cancel_delay_task = readUInt8(bytes[offset]);
-            // skip 1 byte
+            // ignore the second byte
+            offset += 2;
+            break;
+        case 0x25:
+            var data = readUInt16LE(bytes.slice(offset, offset + 2));
+            decoded.child_lock_config = {};
+            decoded.child_lock_config.enable = readEnableStatus((data >>> 15) & 0x01);
+            decoded.child_lock_config.lock_time = data & 0x7fff;
             offset += 2;
             break;
         case 0x26:
@@ -154,18 +166,21 @@ function handle_downlink_response(channel_type, bytes, offset) {
             decoded.clear_power_consumption = readYesNoStatus(1);
             offset += 1;
             break;
-        case 0x32:
-            decoded.task_id = readUInt8(bytes[offset]);
-            decoded.delay_time = readUInt16LE(bytes.slice(offset + 1, offset + 3));
-            var mask = readUInt8(bytes[offset + 3]);
-            var status = readUInt8(bytes[offset + 4]);
-            offset += 5;
-            var switch_bit_offset = { switch_1: 0, switch_2: 1, switch_3: 2, switch_4: 3, switch_5: 4, switch_6: 5, switch_7: 6, switch_8: 7 };
-            for (var key in switch_bit_offset) {
-                if ((mask >> switch_bit_offset[key]) & 0x01) {
-                    decoded[key] = readSwitchStatus((status >> switch_bit_offset[key]) & 0x01);
-                }
-            }
+        case 0x28:
+            decoded.report_status = readYesNoStatus(1);
+            offset += 1;
+            break;
+        case 0x2c:
+            decoded.report_attribute = readYesNoStatus(1);
+            offset += 1;
+            break;
+        case 0x2f:
+            decoded.led_mode = readLedMode(bytes[offset]);
+            offset += 1;
+            break;
+        case 0x5e:
+            decoded.reset_button_enable = readEnableStatus(bytes[offset]);
+            offset += 1;
             break;
         default:
             throw new Error("unknown downlink response");
@@ -217,37 +232,105 @@ function readLoRaWANClass(type) {
 }
 
 function readResetEvent(status) {
-    var status_map = {
-        0: "normal",
-        1: "reset",
-    };
+    var status_map = { 0: "normal", 1: "reset" };
     return getValue(status_map, status);
 }
 
-function readDeviceStatus(status) {
-    var status_map = {
-        0: "off",
-        1: "on",
-    };
+function readOnOffStatus(status) {
+    var status_map = { 0: "off", 1: "on" };
     return getValue(status_map, status);
-}
-
-function readSwitchStatus(status) {
-    var status_map = {
-        0: "off",
-        1: "on",
-    };
-    return getValue(status_map, status);
-}
-
-function readEnableStatus(status) {
-    var enable_map = { 0: "disable", 1: "enable" };
-    return getValue(enable_map, status);
 }
 
 function readYesNoStatus(status) {
-    var yes_no_map = { 0: "no", 1: "yes" };
-    return getValue(yes_no_map, status);
+    var status_map = { 0: "no", 1: "yes" };
+    return getValue(status_map, status);
+}
+
+function readRuleConfig(bytes) {
+    var offset = 0;
+
+    var rule_config = {};
+    rule_config.rule_id = readUInt8(bytes[offset]);
+    var rule_type_value = readUInt8(bytes[offset + 1]);
+    rule_config.rule_type = readRuleType(rule_type_value);
+    if (rule_type_value !== 0) {
+        // condition
+        var day_bit_offset = { monday: 0, tuesday: 1, wednesday: 2, thursday: 3, friday: 4, saturday: 5, sunday: 6 };
+        rule_config.condition = {};
+        var day = readUInt8(bytes[offset + 2]);
+        for (var key in day_bit_offset) {
+            rule_config.condition[key] = readEnableStatus((day >> day_bit_offset[key]) & 0x01);
+        }
+        rule_config.condition.hour = readUInt8(bytes[offset + 3]);
+        rule_config.condition.minute = readUInt8(bytes[offset + 4]);
+
+        // action
+        var switch_bit_offset = { switch_1: 0, switch_2: 2, switch_3: 4 };
+        rule_config.action = {};
+        var switch_raw_data = readUInt8(bytes[offset + 5]);
+        for (var key in switch_bit_offset) {
+            rule_config.action[key] = readSwitchStatus((switch_raw_data >> switch_bit_offset[key]) & 0x03);
+        }
+        rule_config.action.child_lock = readChildLockStatus(bytes[offset + 6]);
+    }
+
+    offset += 6;
+    return rule_config;
+}
+
+function readRuleType(type) {
+    var rule_type_map = { 0: "none", 1: "enable", 2: "disable" };
+    return getValue(rule_type_map, type);
+}
+
+function readSwitchStatus(status) {
+    var switch_status_map = { 0: "keep", 1: "on", 2: "off" };
+    return getValue(switch_status_map, status);
+}
+
+function readRuleConfigResult(result) {
+    var rule_config_result_map = {
+        0: "success",
+        2: "failed, out of range",
+        17: "success, conflict with rule_id=1",
+        18: "success, conflict with rule_id=2",
+        19: "success, conflict with rule_id=3",
+        20: "success, conflict with rule_id=4",
+        21: "success, conflict with rule_id=5",
+        22: "success, conflict with rule_id=6",
+        23: "success, conflict with rule_id=7",
+        24: "success, conflict with rule_id=8",
+        49: "failed, conflict with rule_id=1",
+        50: "failed, conflict with rule_id=2",
+        51: "failed, conflict with rule_id=3",
+        52: "failed, conflict with rule_id=4",
+        53: "failed, conflict with rule_id=5",
+        54: "failed, conflict with rule_id=6",
+        55: "failed, conflict with rule_id=7",
+        56: "failed, conflict with rule_id=8",
+        81: "failed,rule config empty",
+    };
+    return getValue(rule_config_result_map, result);
+}
+
+function readChildLockStatus(status) {
+    var child_lock_status_map = { 0: "keep", 1: "enable", 2: "disable" };
+    return getValue(child_lock_status_map, status);
+}
+
+function readLedMode(bytes) {
+    var led_mode_map = { 0: "off", 1: "on_inverted", 2: "on_synced" };
+    return getValue(led_mode_map, bytes);
+}
+
+function readEnableStatus(bytes) {
+    var enable_map = { 0: "disable", 1: "enable" };
+    return getValue(enable_map, bytes);
+}
+
+function readTimeZone(timezone) {
+    var timezone_map = { "-720": "UTC-12", "-660": "UTC-11", "-600": "UTC-10", "-570": "UTC-9:30", "-540": "UTC-9", "-480": "UTC-8", "-420": "UTC-7", "-360": "UTC-6", "-300": "UTC-5", "-240": "UTC-4", "-210": "UTC-3:30", "-180": "UTC-3", "-120": "UTC-2", "-60": "UTC-1", 0: "UTC", 60: "UTC+1", 120: "UTC+2", 180: "UTC+3", 210: "UTC+3:30", 240: "UTC+4", 270: "UTC+4:30", 300: "UTC+5", 330: "UTC+5:30", 345: "UTC+5:45", 360: "UTC+6", 390: "UTC+6:30", 420: "UTC+7", 480: "UTC+8", 540: "UTC+9", 570: "UTC+9:30", 600: "UTC+10", 630: "UTC+10:30", 660: "UTC+11", 720: "UTC+12", 765: "UTC+12:45", 780: "UTC+13", 840: "UTC+14" };
+    return getValue(timezone_map, timezone);
 }
 
 function readUInt8(bytes) {
@@ -271,7 +354,7 @@ function readInt16LE(bytes) {
 
 function readUInt32LE(bytes) {
     var value = (bytes[3] << 24) + (bytes[2] << 16) + (bytes[1] << 8) + bytes[0];
-    return value & 0xffffffff;
+    return (value & 0xffffffff) >>> 0;
 }
 
 function readInt32LE(bytes) {
@@ -286,6 +369,7 @@ function getValue(map, key) {
     if (!value) value = "unknown";
     return value;
 }
+
 
 if (!Object.assign) {
     Object.defineProperty(Object, "assign", {

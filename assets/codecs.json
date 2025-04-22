@@ -6067,7 +6067,7 @@
     "source": "https://github.com/Milesight-IoT/SensorDecoders",
     "sourceName": "Milesight-IoT",
     "image": "https://raw.githubusercontent.com/Milesight-IoT/SensorDecoders/main/WS_Series/WS201/WS201.png",
-    "download": "https://raw.githubusercontent.com/Milesight-IoT/SensorDecoders/main/WS_Series/WS201/WS201_Decoder.js",
+    "download": "https://raw.githubusercontent.com/Milesight-IoT/SensorDecoders/main/WS_Series/WS201/WS201_Encoder.js",
     "readme": "https://raw.githubusercontent.com/Milesight-IoT/SensorDecoders/main/WS_Series/WS201/README.md",
     "sourceRepo": "https://github.com/Milesight-IoT/SensorDecoders/tree/main/WS_Series/WS201"
   },
@@ -6079,7 +6079,7 @@
     "source": "https://github.com/Milesight-IoT/SensorDecoders",
     "sourceName": "Milesight-IoT",
     "image": "https://raw.githubusercontent.com/Milesight-IoT/SensorDecoders/main/WS_Series/WS202/WS202.png",
-    "download": "https://raw.githubusercontent.com/Milesight-IoT/SensorDecoders/main/WS_Series/WS202/WS202_Decoder.js",
+    "download": "https://raw.githubusercontent.com/Milesight-IoT/SensorDecoders/main/WS_Series/WS202/WS202_Encoder.js",
     "readme": "https://raw.githubusercontent.com/Milesight-IoT/SensorDecoders/main/WS_Series/WS202/README.md",
     "sourceRepo": "https://github.com/Milesight-IoT/SensorDecoders/tree/main/WS_Series/WS202"
   },
@@ -6139,9 +6139,45 @@
     "source": "https://github.com/Milesight-IoT/SensorDecoders",
     "sourceName": "Milesight-IoT",
     "image": "https://raw.githubusercontent.com/Milesight-IoT/SensorDecoders/main/WS_Series/WS50x/WS50x.png",
-    "download": "https://raw.githubusercontent.com/Milesight-IoT/SensorDecoders/main/WS_Series/WS50x/WS50x_v2_Encoder.js",
+    "download": "https://raw.githubusercontent.com/Milesight-IoT/SensorDecoders/main/WS_Series/WS50x/WS503_Encoder.js",
     "readme": "https://raw.githubusercontent.com/Milesight-IoT/SensorDecoders/main/WS_Series/WS50x/README.md",
     "sourceRepo": "https://github.com/Milesight-IoT/SensorDecoders/tree/main/WS_Series/WS50x"
+  },
+  {
+    "name": "Ws Series - Ws50X Cn",
+    "slug": "ws-series-ws50x-cn",
+    "type": "Sensor",
+    "description": "Codec for Ws Series - Ws50X Cn.",
+    "source": "https://github.com/Milesight-IoT/SensorDecoders",
+    "sourceName": "Milesight-IoT",
+    "image": "https://raw.githubusercontent.com/Milesight-IoT/SensorDecoders/main/WS_Series/WS50x_CN/WS50x_CN.png",
+    "download": "https://raw.githubusercontent.com/Milesight-IoT/SensorDecoders/main/WS_Series/WS50x_CN/WS503_CN_Encoder.js",
+    "readme": "https://raw.githubusercontent.com/Milesight-IoT/SensorDecoders/main/WS_Series/WS50x_CN/README.md",
+    "sourceRepo": "https://github.com/Milesight-IoT/SensorDecoders/tree/main/WS_Series/WS50x_CN"
+  },
+  {
+    "name": "Ws Series - Ws50X Eu",
+    "slug": "ws-series-ws50x-eu",
+    "type": "Sensor",
+    "description": "Codec for Ws Series - Ws50X Eu.",
+    "source": "https://github.com/Milesight-IoT/SensorDecoders",
+    "sourceName": "Milesight-IoT",
+    "image": "https://raw.githubusercontent.com/Milesight-IoT/SensorDecoders/main/WS_Series/WS50x_EU/WS50x_EU.png",
+    "download": "https://raw.githubusercontent.com/Milesight-IoT/SensorDecoders/main/WS_Series/WS50x_EU/WS502_EU_Encoder.js",
+    "readme": "https://raw.githubusercontent.com/Milesight-IoT/SensorDecoders/main/WS_Series/WS50x_EU/README.md",
+    "sourceRepo": "https://github.com/Milesight-IoT/SensorDecoders/tree/main/WS_Series/WS50x_EU"
+  },
+  {
+    "name": "Ws Series - Ws50X Us",
+    "slug": "ws-series-ws50x-us",
+    "type": "Sensor",
+    "description": "Codec for Ws Series - Ws50X Us.",
+    "source": "https://github.com/Milesight-IoT/SensorDecoders",
+    "sourceName": "Milesight-IoT",
+    "image": "https://raw.githubusercontent.com/Milesight-IoT/SensorDecoders/main/WS_Series/WS50x_US/WS50x_US.png",
+    "download": "https://raw.githubusercontent.com/Milesight-IoT/SensorDecoders/main/WS_Series/WS50x_US/WS501_US_Encoder.js",
+    "readme": "https://raw.githubusercontent.com/Milesight-IoT/SensorDecoders/main/WS_Series/WS50x_US/README.md",
+    "sourceRepo": "https://github.com/Milesight-IoT/SensorDecoders/tree/main/WS_Series/WS50x_US"
   },
   {
     "name": "Ws Series - Ws51X",
@@ -6163,7 +6199,7 @@
     "source": "https://github.com/Milesight-IoT/SensorDecoders",
     "sourceName": "Milesight-IoT",
     "image": "https://raw.githubusercontent.com/Milesight-IoT/SensorDecoders/main/WS_Series/WS52x/WS523_AU.png",
-    "download": "https://raw.githubusercontent.com/Milesight-IoT/SensorDecoders/main/WS_Series/WS52x/WS52x_Decoder.js",
+    "download": "https://raw.githubusercontent.com/Milesight-IoT/SensorDecoders/main/WS_Series/WS52x/WS52x_Encoder.js",
     "readme": "https://raw.githubusercontent.com/Milesight-IoT/SensorDecoders/main/WS_Series/WS52x/README.md",
     "sourceRepo": "https://github.com/Milesight-IoT/SensorDecoders/tree/main/WS_Series/WS52x"
   },
@@ -6175,7 +6211,7 @@
     "source": "https://github.com/Milesight-IoT/SensorDecoders",
     "sourceName": "Milesight-IoT",
     "image": "https://raw.githubusercontent.com/Milesight-IoT/SensorDecoders/main/WS_Series/WS558/WS558.png",
-    "download": "https://raw.githubusercontent.com/Milesight-IoT/SensorDecoders/main/WS_Series/WS558/WS558_Decoder.js",
+    "download": "https://raw.githubusercontent.com/Milesight-IoT/SensorDecoders/main/WS_Series/WS558/WS558_Encoder.js",
     "readme": "https://raw.githubusercontent.com/Milesight-IoT/SensorDecoders/main/WS_Series/WS558/README.md",
     "sourceRepo": "https://github.com/Milesight-IoT/SensorDecoders/tree/main/WS_Series/WS558"
   },
@@ -6202,6 +6238,18 @@
     "download": "https://raw.githubusercontent.com/Milesight-IoT/SensorDecoders/main/WT_Series/WT201/WT201_Encoder.js",
     "readme": "https://raw.githubusercontent.com/Milesight-IoT/SensorDecoders/main/WT_Series/WT201/README.md",
     "sourceRepo": "https://github.com/Milesight-IoT/SensorDecoders/tree/main/WT_Series/WT201"
+  },
+  {
+    "name": "Wt Series - Wt201 V2",
+    "slug": "wt-series-wt201-v2",
+    "type": "Sensor",
+    "description": "Codec for Wt Series - Wt201 V2.",
+    "source": "https://github.com/Milesight-IoT/SensorDecoders",
+    "sourceName": "Milesight-IoT",
+    "image": "https://raw.githubusercontent.com/Milesight-IoT/SensorDecoders/main/WT_Series/WT201_v2/WT201_v2.png",
+    "download": "https://raw.githubusercontent.com/Milesight-IoT/SensorDecoders/main/WT_Series/WT201_v2/WT201_v2_Encoder.js",
+    "readme": "https://raw.githubusercontent.com/Milesight-IoT/SensorDecoders/main/WT_Series/WT201_v2/README.md",
+    "sourceRepo": "https://github.com/Milesight-IoT/SensorDecoders/tree/main/WT_Series/WT201_v2"
   },
   {
     "name": "Wt Series - Wt30X",
