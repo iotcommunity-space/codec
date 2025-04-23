@@ -6618,7 +6618,7 @@
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
     "sourceName": "The Things Network",
     "image": "https://raw.githubusercontent.com/TheThingsNetwork/lorawan-devices/master/vendor/dragino/cpl01.png",
-    "download": "https://raw.githubusercontent.com/TheThingsNetwork/lorawan-devices/master/vendor/dragino/wsc1-l.js",
+    "download": "https://raw.githubusercontent.com/TheThingsNetwork/lorawan-devices/master/vendor/dragino/wsc2-lb.js",
     "readme": "No README available",
     "sourceRepo": "https://github.com/TheThingsNetwork/lorawan-devices/tree/master/vendor/dragino"
   },
