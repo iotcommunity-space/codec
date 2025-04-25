@@ -6282,7 +6282,7 @@
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
     "sourceName": "The Things Network",
     "image": "https://raw.githubusercontent.com/TheThingsNetwork/lorawan-devices/master/vendor/abeeway/abeeway-compact-tracker.png",
-    "download": null,
+    "download": "https://raw.githubusercontent.com/TheThingsNetwork/lorawan-devices/master/vendor/abeeway/asset-tracker-3.js",
     "readme": "No README available",
     "sourceRepo": "https://github.com/TheThingsNetwork/lorawan-devices/tree/master/vendor/abeeway"
   },
