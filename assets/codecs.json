@@ -7110,7 +7110,7 @@
     "source": "https://github.com/TheThingsNetwork/lorawan-devices",
     "sourceName": "The Things Network",
     "image": null,
-    "download": "https://raw.githubusercontent.com/TheThingsNetwork/lorawan-devices/master/vendor/makerfabs/ath20.js",
+    "download": "https://raw.githubusercontent.com/TheThingsNetwork/lorawan-devices/master/vendor/makerfabs/temperature-humidity-sht31.js",
     "readme": "No README available",
     "sourceRepo": "https://github.com/TheThingsNetwork/lorawan-devices/tree/master/vendor/makerfabs"
   },
