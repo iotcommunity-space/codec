@@ -1,0 +1,1 @@
+Vape/Smoke/Noise/Tamper Sensor over LoRaWAN™
