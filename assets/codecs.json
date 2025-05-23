@@ -6791,6 +6791,18 @@
     "sourceRepo": "https://github.com/TheThingsNetwork/lorawan-devices/tree/master/vendor/example"
   },
   {
+    "name": "TTN Smart Sensor (Ezurio)",
+    "slug": "ttn-smart-sensor-ezurio",
+    "type": "Sensor",
+    "description": "Codec for Ezurio",
+    "source": "https://github.com/TheThingsNetwork/lorawan-devices",
+    "sourceName": "The Things Network",
+    "image": "https://raw.githubusercontent.com/TheThingsNetwork/lorawan-devices/master/vendor/ezurio/rs1xx-ext-sensor.png",
+    "download": "https://raw.githubusercontent.com/TheThingsNetwork/lorawan-devices/master/vendor/ezurio/rs1xx-temp-rh-sensor.js",
+    "readme": "No README available",
+    "sourceRepo": "https://github.com/TheThingsNetwork/lorawan-devices/tree/master/vendor/ezurio"
+  },
+  {
     "name": "TTN Smart Sensor (Fludia)",
     "slug": "ttn-smart-sensor-fludia",
     "type": "Sensor",
