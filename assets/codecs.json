@@ -4053,8 +4053,8 @@
     "type": "Sensor",
     "description": "Codec for NETVOX - Ra02G (v1.0.0).",
     "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/netvox/ra02g/v1.0.0/payload.js",
-    "source": "https://github.com/tago-io/decoders/tree/main/decoders/connector",
-    "sourceName": "Nishchayjeet Singh Github",
+    "source": "https://github.com/nishchayjeet/netvoxRA02G-Vape-sensor",
+    "sourceName": "Nishchayjeet Singh",
     "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/netvox/ra02g/v1.0.0/assets/logo.jpg",
     "sourceRepo": "https://github.com/nishchayjeet/netvoxRA02G-Vape-sensor"
   },
