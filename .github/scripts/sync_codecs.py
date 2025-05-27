@@ -7,12 +7,11 @@ TAGOIO_BASE_URL = "https://api.github.com/repos/tago-io/decoders/contents/decode
 LOCAL_CODEC_PATH = "assets/codecs"
 CODECS_JSON_PATH = "assets/codecs.json"
 CODEC_REPO_URL = "https://github.com/tago-io/decoders/tree/main/decoders/connector"
-DEFAULT_VERSION = "v1.0.0"  # Assuming all sensors have version v1.0.0
+DEFAULT_VERSION = "v1.0.0"
 
-# Fetch the GitHub token from environment variables
+# GitHub token for authentication
 GITHUB_TOKEN = os.getenv("CODEC_TOKEN")
 
-# Set up headers for authentication
 HEADERS = {
     "Authorization": f"token {GITHUB_TOKEN}",
     "Accept": "application/vnd.github.v3+json"
@@ -20,41 +19,40 @@ HEADERS = {
 
 
 def fetch_github_content(url):
-    """Fetch content from the provided GitHub URL with authentication."""
+    """Fetch content from GitHub."""
     response = requests.get(url, headers=HEADERS)
     if response.status_code == 200:
         return response.json()
     else:
-        print(f"Failed to fetch content from {url}. Status code: {response.status_code}")
-    return []
+        print(f"Failed to fetch content from {url}. Status: {response.status_code}")
+        return []
 
 
 def download_file(file_url, save_path):
-    """Download the file from the provided URL to the specified path with authentication."""
+    """Download file to local directory."""
     response = requests.get(file_url, headers=HEADERS)
     if response.status_code == 200:
         os.makedirs(os.path.dirname(save_path), exist_ok=True)
-        with open(save_path, "wb") as file:
-            file.write(response.content)
+        with open(save_path, "wb") as f:
+            f.write(response.content)
         print(f"Downloaded: {save_path}")
     else:
-        print(f"Failed to download {file_url}. Status code: {response.status_code}")
+        print(f"Failed to download {file_url}. Status: {response.status_code}")
 
 
 def sync_sensor_files(folder_content, local_sensor_path):
-    """Download all files and subfolders for a specific sensor."""
+    """Download all codec files in a sensor directory."""
     for item in folder_content:
+        path = os.path.join(local_sensor_path, item['name'])
         if item['type'] == 'file':
-            file_path = os.path.join(local_sensor_path, item['name'])
-            download_file(item['download_url'], file_path)
+            download_file(item['download_url'], path)
         elif item['type'] == 'dir':
             subfolder_content = fetch_github_content(item['url'])
-            subfolder_path = os.path.join(local_sensor_path, item['name'])
-            sync_sensor_files(subfolder_content, subfolder_path)
+            sync_sensor_files(subfolder_content, path)
 
 
 def process_folder(folder, parent_path):
-    """Process a folder, fetch its content, and sync all files and subfolders."""
+    """Sync a single sensor folder."""
     local_sensor_path = os.path.join(LOCAL_CODEC_PATH, parent_path, folder['name'], DEFAULT_VERSION)
     folder_content = fetch_github_content(folder['url'])
     sync_sensor_files(folder_content, local_sensor_path)
@@ -62,42 +60,40 @@ def process_folder(folder, parent_path):
 
 
 def fetch_all_sensors():
-    """Fetch all sensors and their subfolders."""
+    """Fetch all folders from TagoIO codec repository."""
     sensors = fetch_github_content(TAGOIO_BASE_URL)
     all_sensor_folders = {}
 
     for sensor in sensors:
         if sensor['type'] == 'dir':
-            parent_folder_name = sensor['name']
-            parent_folder_content = fetch_github_content(sensor['url'])
-            sub_sensors = []
+            parent = sensor['name']
+            parent_content = fetch_github_content(sensor['url'])
+            subfolders = []
 
-            for subfolder in parent_folder_content:
+            for subfolder in parent_content:
                 if subfolder['type'] == 'dir':
-                    sub_sensors.append(process_folder(subfolder, parent_folder_name))
+                    subfolders.append(process_folder(subfolder, parent))
 
-            all_sensor_folders[parent_folder_name] = sub_sensors
+            all_sensor_folders[parent] = subfolders
 
     return all_sensor_folders
 
 
 def rewrite_codecs_json(all_sensor_folders):
-    """Rewrite the codecs.json file with the updated sensor information."""
-    sensor_entries = []
+    """Merge synced codecs with existing custom ones, avoiding duplicates."""
+    new_entries = []
+    synced_slugs = set()
 
+    # Create entries from synced TagoIO codecs
     for parent_folder, subfolders in all_sensor_folders.items():
         for subfolder in subfolders:
+            slug = f"{parent_folder.lower()}-{subfolder.lower()}".replace(" ", "-").replace("--", "-")
+            synced_slugs.add(slug)
+
             sensor_path = os.path.join(LOCAL_CODEC_PATH, parent_folder, subfolder, DEFAULT_VERSION)
             if not os.path.isdir(sensor_path):
                 continue
 
-            # Generate slug correctly
-            slug = f"{parent_folder.lower()}-{subfolder.lower()}".replace(" ", "-").replace("--", "-")
-
-            # Construct sourceRepo correctly
-            source_repo = f"https://github.com/tago-io/decoders/tree/main/decoders/connector/{parent_folder}/{subfolder}"
-
-            # Write JSON entry for each sensor
             entry = {
                 "name": f"{parent_folder.upper()} - {subfolder.replace('-', ' ').title()}",
                 "slug": slug,
@@ -107,18 +103,36 @@ def rewrite_codecs_json(all_sensor_folders):
                 "source": CODEC_REPO_URL,
                 "sourceName": "TagoIO Github",
                 "image": f"https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/{parent_folder}/{subfolder}/{DEFAULT_VERSION}/assets/logo.png",
-                "sourceRepo": source_repo
+                "sourceRepo": f"https://github.com/tago-io/decoders/tree/main/decoders/connector/{parent_folder}/{subfolder}"
             }
-            sensor_entries.append(entry)
 
-    # Write to codecs.json
+            new_entries.append(entry)
+
+    # Load existing entries (e.g., manually added codecs like RA02G)
+    if os.path.exists(CODECS_JSON_PATH):
+        with open(CODECS_JSON_PATH, "r") as f:
+            try:
+                existing_entries = json.load(f)
+            except json.JSONDecodeError:
+                print("⚠️ Warning: Existing codecs.json is not valid JSON. Skipping merge.")
+                existing_entries = []
+    else:
+        existing_entries = []
+
+    # Preserve entries not overwritten by the sync
+    for entry in existing_entries:
+        slug = entry.get("slug")
+        if slug and slug not in synced_slugs:
+            new_entries.append(entry)
+
+    # Write merged result to codecs.json
     with open(CODECS_JSON_PATH, "w") as f:
-        json.dump(sensor_entries, f, indent=2)
-    print("Rewritten codecs.json successfully.")
+        json.dump(new_entries, f, indent=2)
+    print("✅ Merged and updated codecs.json successfully.")
 
 
 def sync_codecs():
-    """Sync all sensor codecs from the remote repository to the local repository."""
+    """Main entrypoint."""
     all_sensor_folders = fetch_all_sensors()
     rewrite_codecs_json(all_sensor_folders)
 
