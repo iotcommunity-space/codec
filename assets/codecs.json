@@ -5141,7 +5141,7 @@
     "slug": "vutility-hotdrop",
     "type": "Sensor",
     "description": "Codec for VUTILITY - Hotdrop (v1.0.0).",
-    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/vutility/hotdrop/v1.0.0/payload.js",
+    "download": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/vutility/hotdrop/v1.0.0/v1.0.0/payload.js",
     "source": "https://github.com/tago-io/decoders/tree/main/decoders/connector",
     "sourceName": "TagoIO Github",
     "image": "https://raw.githubusercontent.com/iotcommunity-space/codec/refs/heads/main/assets/codecs/vutility/hotdrop/v1.0.0/assets/logo.png",
